@@ -1,0 +1,734 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww12000\viewh15840\viewkind0
+\deftab720
+\pard\pardeftab720\li720\fi-720\ri0\partightenfactor0
+
+\f0\fs24 \cf0 Aarts, A. A., Anderson, J. E., Anderson, C. J., Attridge, P. R., Attwood, A., Axt, J., . . . Open Sci, C. (2015). Estimating the reproducibility of psychological science. Science, 349(6251). doi:10.1126/science.aac4716\
+Adamovich, B. B. (1990). Information processing, cognition, attention, and communication following closed-head injury. Folia Phoniatr, 42(1), 11-23. \
+Adelman, J. S., Brown, G. D., & Quesada, J. F. (2006). Contextual diversity, not word frequency, determines word-naming and lexical decision times. Psychol Sci, 17(9), 814-823. \
+Adenzato, M., Cavallo, M., & Enrici, I. (2010). Theory of mind ability in the behavioural variant of frontotemporal dementia: An analysis of the neural, cognitive, and social levels. Neuropsychologia, 48(1), 2-12. doi:10.1016/j.neuropsychologia.2009.08.001\
+Alario, F. X., Chainay, H., Lehericy, S., & Cohen, L. (2006). The role of the supplementary motor area (SMA) in word production. Brain Research, 1076, 129-143. doi:10.1016/j.brainres.2005.11.104\
+Allen, K., Pereira, F., Botvinick, M., & Goldberg, A. E. (2012). Distinguishing grammatical constructions with fMRI pattern analysis. Brain and Language, 123(3), 174-182. doi:10.1016/j.bandl.2012.08.005\
+Allendorfer, J. B., Kissela, B. M., Holland, S. K., & Szaflarski, J. P. (2012). Different patterns of language activation in post-stroke aphasia are detected by overt and covert versions of the verb generation fMRI task. Medical Science Monitor, 18(3), CR135-CR147. doi:10.12659/msm.882518\
+Alluri, V., Brattico, E., Toiviainen, P., Burunat, I., Bogert, B., Numminen, J., & Kliuchko, M. (2016). Musical expertise modulates functional connectivity of limbic regions during continuous music listening. Psychomusicology, 25(4), 443-454. \
+Ambridge, B., Pine, J. M., Rowland, C. F., Freudenthal, D., & Chang, F. (2014a). Avoiding dative overgeneralisation errors: semantics, statistics or both? Language Cognition and Neuroscience, 29(2), 218-243. doi:10.1080/01690965.2012.738300\
+Ambridge, B., Pine, J. M., Rowland, C. F., Freudenthal, D., & Chang, F. (2014b). Avoiding dative overgeneralisation errors: semantics, statistics or both? Language Cognition and Neuroscience, 29(2), 218-243. doi:10.1080/01690965.2012.738300\
+Amunts, K., Schleicher, A., Burgel, U., Mohlberg, H., Uylings, H. B. M., & Zilles, K. (1999a). Broca's region revisited: Cytoarchitecture and intersubject variability. Journal of Comparative Neurology, 412(2), 319-341. doi:10.1002/(sici)1096-9861(19990920)412:2<319::aid-cne10>3.0.co;2-7\
+Amunts, K., Schleicher, A., Burgel, U., Mohlberg, H., Uylings, H. B. M., & Zilles, K. (1999b). Broca's region revisited: Cytoarchitecture and intersubject variability. Journal of Comparative Neurology, 412(2), 319-341. doi:10.1002/(sici)1096-9861(19990920)412:2<319::aid-cne10>3.0.co;2-7\
+Anderson, A., Binder, J., Fernandino, L., Humphries, C., Conant, L., Aguilar, M., . . . Raizada, R. (2016). Predicting neural activity patterns associated with sentences using a neurobiologically motivated model of semantic representation. Cerebral Cortex, 1-17. \
+Anzellotti, S., & Caramazza, A. (2014). The neural mechanisms for the recognition of face identity in humans. Frontiers in Psychology, 5. doi:10.3389/fpsyg.2014.00672\
+Apperly, I. A., Riggs, K. J., Simpson, A., Chiavarino, C., & Samson, D. (2006). Is belief reasoning automatic? Psychological Science, 17(10), 841-844. doi:10.1111/j.1467-9280.2006.01791.x\
+Apperly, I. A., Samson, D., Carroll, N., Hussain, S., & Humphreys, G. (2006). Intact first- and second-order false belief reasoning in a patient with severely impaired grammar. Social Neuroscience, 1(3-4), 334-348. doi:10.1080/17470910601038693\
+Apperly, I. A., Samson, D., & Humphreys, G. W. (2009). Studies of adults can inform accounts of theory of mind development. Developmental Psychology, 45(1), 190-201. doi:10.1037/a0014098\
+Assem, M., Blank, I., Mineroff, Z., Ademoglu, A., & Fedorenko, E. (under review). Multiple Demand (MD) system's activity predicts individual differences in working memory and fluid intelligence. \
+Azevedo, F. A. C., Carvalho, L. R. B., Grinberg, L. T., Farfel, J. M., Ferretti, R. E. L., Leite, R. E. P., . . . Herculano-Houzel, S. (2009). Equal Numbers of Neuronal and Nonneuronal Cells Make the Human Brain an Isometrically Scaled-Up Primate Brain. Journal of Comparative Neurology, 513(5), 532-541. doi:10.1002/cne.21974\
+Azim, E., Mobbs, D., Jo, B., Menon, V., & Reiss, A. L. (2005). Sex differences in brain activation elicited by humor. Proceedings of the National Academy of Sciences of the United States of America, 102(45), 16496-16501. doi:10.1073/pnas.0408456102\
+Baggio, G., & Hagoort, P. (2011). The balance between memory and unification in semantics: A dynamic account of the N400. Language and Cognitive Processes, 26(9), 1338-1367. doi:10.1080/01690965.2010.542671\
+Baron-Cohen, S., Wheelwright, S., Hill, J., Raste, Y., & Plumb, I. (2001). The "Reading the Mind in the Eyes" test revised version: A study with normal adults, and adults with Asperger syndrome or high-functioning autism. Journal of Child Psychology and Psychiatry and Allied Disciplines, 42(2), 241-251. doi:10.1017/s0021963001006643\
+Baroncohen, S. (1988). SOCIAL AND PRAGMATIC DEFICITS IN AUTISM - COGNITIVE OR AFFECTIVE. Journal of Autism and Developmental Disorders, 18(3), 379-402. doi:10.1007/bf02212194\
+BaronCohen, S., Jolliffe, T., Mortimore, C., & Robertson, M. (1997). Another advanced test of theory of mind: Evidence from very high functioning adults with autism or Asperger syndrome. Journal of Child Psychology and Psychiatry and Allied Disciplines, 38(7), 813-822. doi:10.1111/j.1469-7610.1997.tb01599.x\
+Baroni, M. (2013). Composition in Distributional Semantics. Language and Linguistics Compass, 7(10), 511-522. \
+Baroni, M., Barbu, E., & Murphy, B. (2010). Strudel: A distributional semantic model based on properties and types. Cognitive Science, 34(2), 222-254. \
+Baroni, M., Dinu, G., & Kruszewski, G. (2014). Don\'92t count, predict! A systematic comparison of\
+context-counting vs. context-predicting semantic vectors. Paper presented at the Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics.\
+Baroni, M., & Lenci, A. (2010). Distributional Memory: A General Framework for Corpus-Based Semantics. Computational Linguistics, 36(4), 673-721. doi:10.1162/coli_a_00016\
+Bartlett, C. W., Goedken, R., & Vieland, V. J. (2005). Effects of updating linkage evidence across subsets of data: Reanalysis of the autism genetic resource exchange data set. American Journal of Human Genetics, 76(4), 688-695. doi:10.1086/429345\
+Basilakos, A., Fridriksson, J., Rorden, C., Behroozmand, R., Hanayik, T., Naselaris, T., . . . Bonilha, L. (2017). Activity associated with speech articulation measured through direct cortical recordings. Brain and Language, 169, 1-7. \
+Basilakos, A., Smith, K. G., Fillmore, P., Fridriksson, J., & Fedorenko, E. (2017). Functional characterization of the human speech articulation network. Cerebral Cortex, 1-15. doi:10.1093/cercor/bhx100\
+Bassett, D. S., Wymbs, N. F., Porter, M. A., Mucha, P. J., Carlson, J. M., & Grafton, S. T. (2011). Dynamic reconfiguration of human brain networks during learning. Proceedings of the National Academy of Sciences of the United States of America, 108(18), 7641-7646. doi:10.1073/pnas.1018985108\
+Bastiaanse, R., & Edwards, S. (2004). Word order and finiteness in Dutch and English Broca's and Wernicke's aphasia. Brain and Language, 89(1), 91-107. doi:10.1016/S0093-934X(03)00306-7\
+Bastiaanse, R., Edwards, S., & Kiss, K. (1996). Fluent aphasia in three languages: Aspects of spontaneous speech. Aphasiology, 10(6), 561-575. doi:dx.doi.org/10.1080/02687039608248437\
+Bates, D., Machler, M., Bolker, B. M., & Walker, S. C. (2015). Fitting Linear Mixed-Effects Models Using lme4. Journal of Statistical Software, 67(1), 1-48. \
+Bates, E., Friederici, A., & Wulfeck, B. (1987). Grammatical morphology in Aphasia: Evidence form three languages. Cortex, 23(4), 545-574. \
+Bates, E., & Goodman, J. C. (1997). On the inseparability of grammar and the lexicon: Evidence from acquisition, aphasia and real-time processing. Language and Cognitive Processes, 12(5-6), 507-584. \
+Bates, E., Wilson, S. M., Saygin, A. P., Dick, F., Sereno, M. I., Knight, R. T., & Dronkers, N. F. (2003). Voxel-based lesion-symptom mapping. Nature Neuroscience, 6(5), 448-450. doi:10.1038/nn1050\
+Bautista, A., & Wilson, S. M. (2016). Neural responses to grammatically and lexically degraded speech. Language Cognition and Neuroscience, 31(4), 567-574. doi:10.1080/23273798.2015.1123281\
+Bavelier, D., Corina, D., Jezzard, P., Clark, V., Karni, A., Lalwani, A., . . . Neville, H. J. (1998). Hemispheric specialization for English and ASL: left invariance right variability. Neuroreport, 9(7), 1537-1542. doi:10.1097/00001756-199805110-00054\
+Bavelier, D., Green, C. S., Pouget, A., & Schrater, P. (2012). Brain plasticity through the life span: learning to learn and action video games. Annual Review of Neuroscience, 35, 391-416. doi:10.1146/annurev-neuro-060909-152832\
+Bedny, M., Aguirre, G. K., & Thompson-Schill, S. L. (2007). Item analysis in functional magnetic resonance imaging. NeuroImage, 35(3), 1093-1102. doi:10.1016/j.neuroimage.2007.01.039\
+Bedny, M., Pascual-Leone, A., Dodell-Feder, D., Fedorenko, E., & Saxe, R. (2011). Language processing in the occipital cortex of congenitally blind adults. Proceedings of the National Academy of Sciences of the United States of America, 108(11), 4429-4434. doi:10.1073/pnas.1014818108\
+Beeman, M. J., & Chiarello, C. (1998). Complementary right- and left-hemisphere language comprehension. Current Directions in Psychological Science, 7(1), 2-8. doi:10.1111/1467-8721.ep11521805\
+Ben-Shachar, M., Palti, D., & Grodzinsky, Y. (2004). Neural correlates of syntactic movement: converging evidence from two fMRI experiments. Neuroimage, 21(4), 1320-1336. doi:10.1016/j.neuroimage.2003.11.027\
+Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of Machine Learning Research, 3(6), 1137-1155. doi:10.1162/153244303322533223\
+Benjamini, Y., & Yekutieli, D. (2001). The control of the false discovery rate in multiple testing under dependency. Annals of Statistics, 29(4), 1165-1188. \
+Benz, A., Jager, G., & VanRooij, R. (2006). Game theory and pragmatics: Palgrave Macmillan.\
+Bergen, L., & Goodman, N. D. (2015). The Strategic Use of Noise in Pragmatic Reasoning. Topics in Cognitive Science, 7(2), 336-350. doi:10.1111/tops.12144\
+Bernard, A., Lubbers, L. S., Tanis, K. Q., Luo, R., Podtelezhnikov, A. A., Finney, E. M., . . . Lein, E. S. (2012). Transcriptional architecture of the primate neocortex. Neuron, 73(6), 1083-1099. doi:10.1016/j.neuron.2012.03.002\
+Bernardi, G., Ricciardi, E., Sani, L., Gaglianese, A., Papasogli, A., Ceccarelli, R., . . . Pietrini, P. (2013a). How skill expertise shapes the brain functional architecture: an fMRI study of visuo-spatial and motor processing in professional racing-car and na\'efve drivers. PLoS One, 8(10), e77764. doi:10.1371/journal.pone.0077764\
+Bernardi, G., Ricciardi, E., Sani, L., Gaglianese, A., Papasogli, A., Ceccarelli, R., . . . Pietrini, P. (2013b). How skill expertise shapes the brain functional architecture: an fMRI study of visuo-spatial and motor processing in professional racing-car and na\'efve drivers. PLoS One, 8(10), e77764. doi:10.1371/journal.pone.0077764\
+Berwick, R., & Chomsky, N. (2015). Why only us: MIT Press.\
+Berwick, R. C., Friederici, A. D., Chomsky, N., & Bolhuis, J. J. (2013a). Evolution, brain, and the nature of language. Trends in Cognitive Sciences, 17(2), 89-98. doi:10.1016/j.tics.2012.12.002\
+Berwick, R. C., Friederici, A. D., Chomsky, N., & Bolhuis, J. J. (2013b). Evolution, brain, and the nature of language. Trends in Cognitive Sciences, 17(2), 89-98. doi:10.1016/j.tics.2012.12.002\
+Bicknell, K., & Levy, R. (2009). A model of local coherence effects in human sentence processing\
+as consequences of updates from bottom-up prior to posterior beliefs. Paper presented at the The 2009 Annual Conference of the North American Chapter of the ACL.\
+Binder, J. R. (1997). Neuroanatomy of language processing studied with functional MRI. Clinical Neuroscience, 4(2), 87-94. \
+Binder, J. R., Desai, R. H., Graves, W. W., & Conant, L. L. (2009). Where Is the Semantic System? A Critical Review and Meta-Analysis of 120 Functional Neuroimaging Studies. Cerebral Cortex, 19(12), 2767-2796. doi:10.1093/cercor/bhp055\
+Binder, J. R., Frost, J. A., Hammeke, T. A., Cox, R. W., Rao, S. M., & Prieto, T. (1997). Human brain language areas identified by functional magnetic resonance imaging. Journal of Neuroscience, 17(1), 353-362. \
+Biswal, B. B., & Kannurpatti, S. S. (2009). Resting-state functional connectivity in animal models: modulations by exsanguination. Methods Mol Biol, 489, 20. doi:10.1007/978-1-59745-543-5_12\
+Blacoe, W., & Lapata, M. (2012). A Comparison of Vector-based Representations for Semantic Composition. Paper presented at the Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural\
+Language Learning.\
+Blank, I., Balewski, Z., Mahowald, K., & Fedorenko, E. (2016). Syntactic processing is distributed across the language system. NeuroImage, 127, 307-323. doi:10.1016/j.neuroimage.2015.11.069\
+Blank, I., & Fedorenko, E. (2017). Domain-general brain regions do not track linguistic input as closely as language-selective regions. Journal of Neuroscience, 37(41), 9999-10011. \
+Blank, I., Kanwisher, N., & Fedorenko, E. (2014a). A functional dissociation between language and multiple-demand systems revealed in patterns of BOLD signal fluctuations. Journal of Neurophysiology, 112(5), 1105-1118. doi:10.1152/jn.00884.2013\
+Blank, I., Kanwisher, N., & Fedorenko, E. (2014b). A functional dissociation between language and multiple-demand systems revealed in patterns of BOLD signal fluctuations. Journal of Neurophysiology, 112(5), 1105-1118. doi:10.1152/jn.00884.2013\
+Blank, I., Kanwisher, N., & Fedorenko, E. (2014c). A functional dissociation between language and multiple-demand systems revealed in patterns of BOLD signal fluctuations. Journal of Neurophysiology, 112(5), 1105-1118. doi:10.1152/jn.00884.2013\
+Blank, I., Rohter, S., Kiran, S., & Fedorenko, E. (2015). Functional reorganization of the large-scale brain networks that support high-level cognition following brain damage in aphasia. Paper presented at the Academy of Aphasia 53rd Annual Meeting. \
+Blasi, D. E., Wichmann, S., Hammarstr \'f6m, H., Stadler, P. F., & Christiansen, M. H. (2016). Sound\'96meaning association biases evidenced across thousands of languages. PNAS, 113(39), 10818-10823. \
+Bock, J. K. (1986). MEANING, SOUND, AND SYNTAX - LEXICAL PRIMING IN SENTENCE PRODUCTION. Journal of Experimental Psychology-Learning Memory and Cognition, 12(4), 575-586. doi:10.1037//0278-7393.12.4.575\
+Bock, K., & Loebell, H. (1990). FRAMING SENTENCES. Cognition, 35(1), 1-39. doi:10.1016/0010-0277(90)90035-i\
+Bogen, J. E., & Bogen, G. M. (1976). Wernickes region - Where is it? Annals of the New York Academy of Sciences, 280(OCT28), 834-843. doi:10.1111/j.1749-6632.1976.tb25546.x\
+Bohland, J. W., & Guenther, F. H. (2006). An fMRI investigation of syllable sequence production. NeuroImage, 32(2), 821-841. doi:10.1016/j.neuroimage.2006.04.173\
+Boleda, G., Vecchi, E. M., Cornudella, M., & McNally, L. (2012). First order vs. higher order modification\
+in distributional semantics. Paper presented at the Proceedings of EMNLP.\
+Bornkessel-Schlesewsky, I., Kretzschmar, F., Tune, S., Wang, L. M., Genc, S., Philipp, M., . . . Schlesewsky, M. (2011). Think globally: Cross-linguistic variation in electrophysiological activity during sentence comprehension. Brain and Language, 117(3), 133-152. doi:10.1016/j.bandl.2010.09.010\
+Bornong, J. H. (1992). THE RELEVANCE OF RATIFICATION ELECTIONS TO A UNIONS PRESUMPTION OF MAJORITY STATUS AFTER MERGER OR AFFILIATION. Labor Law Journal, 43(3), 142-154. \
+Bouchard, K. E., Mesgarani, N., Johnson, K., & Chang, E. F. (2013a). Functional organization of human sensorimotor cortex for speech articulation. Nature, 495(7441), 327-332. doi:10.1038/nature11911\
+Bouchard, K. E., Mesgarani, N., Johnson, K., & Chang, E. F. (2013b). Functional organization of human sensorimotor cortex for speech articulation. Nature, 495(7441), 327-332. doi:10.1038/nature11911\
+Boucher, J. (2012). Research Review: Structural language in autistic spectrum disorder - characteristics and causes. Journal of Child Psychology and Psychiatry, 53(3), 219-233. doi:10.1111/j.1469-7610.2011.02508.x\
+Bowman, S. R., Vilnis, L., Vinyals, O., Dai, A. M., Jozefowicz, R., & Bengio, S. (2016). Generating Sentences from a Continuous Space. Paper presented at the LCLR.\
+Branigan, H. P., & Pickering, M. J. (2016). An experimental approach to linguistic representation. Behavioral and Brain Sciences. \
+Braze, D., Mencl, W. E., Tabor, W., Pugh, K. R., Constable, R. T., Fulbright, R. K., . . . Shankweiler, D. P. (2011). Unification of sentence processing via ear and eye: An fMRI study. Cortex, 47(4), 416-431. doi:10.1016/j.cortex.2009.11.005\
+Brener, R. (1940). An experimental investigation of memory span. Journal of Experimental Psychology, 26(5), 467-482. doi:10.1037/h0061096\
+Briellmann, R. S., Saling, M. M., Connell, A. B., Waites, A. B., Abbott, D. F., & Jackson, G. D. (2004). A high-field functional MRI study of quadri-lingual subjects. Brain and Language, 89(3), 531-542. doi:10.1016/j.bandl.2004.01.008\
+Brodmann, K. (1909). Localisation in the Cerebral Cortex. London: Smith-Gordon.\
+Brown, H. M., Oram-Cardy, J., & Johnson, A. (2013a). A Meta-Analysis of the Reading Comprehension Skills of Individuals on the Autism Spectrum. Journal of Autism and Developmental Disorders, 43(4), 932-955. doi:10.1007/s10803-012-1638-1\
+Brown, H. M., Oram-Cardy, J., & Johnson, A. (2013b). A Meta-Analysis of the Reading Comprehension Skills of Individuals on the Autism Spectrum. Journal of Autism and Developmental Disorders, 43(4), 932-955. doi:10.1007/s10803-012-1638-1\
+Broyd, S. J., Demanuele, C., Debener, S., Helps, S. K., James, C. J., & Sonuga-Barke, E. J. S. (2009). Default-mode brain dysfunction in mental disorders: A systematic review. Neuroscience and Biobehavioral Reviews, 33(3), 279-296. doi:10.1016/j.neubiorev.2008.09.002\
+Bruss, F. T. (2000). Sum the odds to one and stop. Annals of Probability, 28(3), 1384-1391. doi:10.1214/aop/1019160340\
+Brysbaert, M., Mandera, P., & Keuleers, E. (2018). The Word Frequency Effect in Word Processing: An Updated Review. Current Directions in Psychological Science, 27(1), 45-50. doi:10.1177/0963721417727521\
+Brysbaert, M., New, B., & Keuleers, E. (2012). Adding part-of-speech information to the SUBTLEX-US word frequencies. Behavior Research Methods, 44(4), 991-997. doi:10.3758/s13428-012-0190-4\
+Brysbaert, M., Stevens, M., De Deyne, S., Voorspoels, W., & Storms, G. (2014). Norms of age of acquisition and concreteness for 30,000 Dutch words. Acta Psychologica, 150, 80-84. doi:10.1016/j.actpsy.2014.04.010\
+Buchweitz, A., Mason, R. A., Tomitch, L. M. B., & Just, M. A. (2009). Brain activation for reading and listening comprehension: An fMRI study of modality effects and individual differences in language comprehension. Psychol Neurosci, 2(2), 111-123. \
+Buckner, R. L., Andrews-Hanna, J. R., & Schacter, D. L. (2008). The brain's default network - Anatomy, function, and relevance to disease. Year in Cognitive Neuroscience 2008, 1124, 1-38. doi:10.1196/annals.1440.011\
+Buckner, R. L., & Krienen, F. M. (2013). The evolution of distributed association networks in the human brain. Trends in Cognitive Sciences, 17(12), 648-665. doi:10.1016/j.tics.2013.09.017\
+Buckner, R. L., Krienen, F. M., & Yeo, B. T. (2013). Opportunities and limitations of intrinsic functional connectivity MRI. Nature Neuroscience, 16(7), 832-837. doi:10.1038/nn.3423\
+Burkner, P. C. (2017). brms: An R Package for Bayesian Multilevel Models Using Stan. Journal of Statistical Software, 80(1), 1-28. doi:10.18637/jss.v080.i01\
+Burnard, L. (2000). Reference guide for the british national corpus (world edition). \
+Butterworth, B., & Howard, D. (1987). Paragrammatisms. Cognition, 26(1), 1-37. \
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munaf\'f2, M. R. (2013a). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365-376. doi:10.1038/nrn3475\
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munaf\'f2, M. R. (2013b). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365-376. doi:10.1038/nrn3475\
+Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafo, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365-376. doi:10.1038/nrn3475\
+Bybee, J. L. (1998). A Functionalist Approach to Grammar and Its Evolution. Evolution of Communication, 2(2), 249-278. \
+Bybee, J. L. (2010). Language, Usage and Cognition (Vol. 98). Cambridge, UK: Cambridge University Press.\
+Cabeza, R., & Nyberg, L. (2000). Imaging cognition II: An empirical review of 275 PET and fMRI studies. Journal of Cognitive Neuroscience, 12(1), 1-47. doi:10.1162/08989290051137585\
+Cai, Z. G. G., Pickering, M. J., & Branigan, H. P. (2012). Mapping concepts to syntax: Evidence from structural priming in Mandarin Chinese. Journal of Memory and Language, 66(4), 833-849. doi:10.1016/j.jml.2012.03.009\
+Caplan, D., Hildebrandt, N., & Makris, N. (1996). Location of lesions in stroke patients with deficits in syntactic processing in sentence comprehension. Brain, 3, 933-949. \
+Caramazza, A. (1997). How many levels of processing are there in lexical access? Cognitive Neuropsychology, 14(1), 177-208. doi:10.1080/026432997381664\
+Caramazza, A., & Berndt, R. S. (1978). SEMANTIC AND SYNTACTIC PROCESSES IN APHASIA - REVIEW OF LITERATURE. Psychological Bulletin, 85(4), 898-918. doi:10.1037//0033-2909.85.4.898\
+Caramazza, A., & Zurif, E. (1976). Dissociation of algorithmic and heuristic processes in language comprehension: Evidence from aphasia. Brain and Language, 3(4), 572-582. \
+Chai, L. R., Mattar, M. G., Blank, I. A., Fedorenko, E., & Bassett, D. S. (2016). Functional network dynamics of the language system. Cerebral Cortex, 26(11), 4148-4159. doi:10.1093/cercor/bhw238\
+Champagne-Lavau, M., & Joanette, Y. (2009). Pragmatics, theory of mind and executive functions after a right-hemisphere lesion: Different patterns of deficits. Journal of Neurolinguistics, 22(5), 413-426. doi:10.1016/j.jneuroling.2009.02.002\
+Chang, F., Bock, K., & Goldberg, A. E. (2003). Can thematic roles leave traces of their places? Cognition, 90(1), 29-49. doi:10.1016/s0010-0277(03)00123-9\
+Channon, S., & Watts, M. (2003). Pragmatic language interpretation after closed head injury: Relationship to executive functioning. Cogn. Neuropsychiatry, 8, 243-260. \
+Charniak, E. (1997). Statistical Parsing with a Context-free Grammar and Word Statistics. Paper presented at the Proceedings of the fourteenth national conference on artificial intelligence. \
+Chee, M. W. L., Caplan, D., Soon, C. S., Sriram, N., Tan, E. W. L., Thiel, T., & Weekes, B. (1999). Processing of visually presented sentences in mandarin and English studied with fMRI. Neuron, 23(1), 127-137. doi:10.1016/s0896-6273(00)80759-x\
+Chee, M. W. L., O'Craven, K. M., Bergida, R., Rosen, B. R., & Savoy, R. L. (1999). Auditory and visual word processing studied with fMRI. Human Brain Mapping, 7(1), 15-28. doi:10.1002/(sici)1097-0193(1999)7:1<15::aid-hbm2>3.3.co;2-y\
+Chee, M. W. L., Soon, C. S., & Lee, H. L. (2003). Common and segregated neuronal networks for different languages revealed using functional magnetic resonance adaptation. Journal of Cognitive Neuroscience, 15(1), 85-97. doi:10.1162/089892903321107846\
+Chee, M. W. L., Tan, E. W. L., & Thiel, T. (1999). Mandarin and English single word processing studied with functional magnetic resonance imaging. Journal of Neuroscience, 19(8), 3050-3056. \
+Chen, D., & Manning, C. D. (A fast and accurate dependency parser using neural networks). 2014. Paper presented at the Proceedings of EMNLP\'a0\
+Chomsky, N. (1957). Syntactic Structures: The Hague: Mouton.\
+Chomsky, N. (1965). Aspects of the theory of syntax. Cambridge, MA: MIT Press.\
+Chomsky, N. (1969). Aspects of the theory of syntax: MIT press.\
+Chomsky, N., & Dinozzi, R. (1972a). Language and mind: Harcourt Brace Jovanovich.\
+Chomsky, N., & Dinozzi, R. (1972b). Language and mind: Harcourt Brace Jovanovich.\
+Chomsky, N., & DiNozzi, R. (1972). Language and mind. New York: Harcourt Brace Jovanovich.\
+Ciaramidaro, A., Adenzato, M., Enrici, I., Erk, S., Pia, L., Bara, B. G., & Walter, H. (2007). The intentional network: how the brain reads varieties of intentions. Neuropsychologia, 45(13), 3105-3113. doi:10.1016/j.neuropsychologia.2007.05.011\
+Cikara, M., Jenkins, A. C., Dufour, N., & Saxe, R. (2014). Reduced self-referential neural response during intergroup competition predicts competitor harm. Neuroimage, 96, 36-43. doi:10.1016/j.neuroimage.2014.03.080\
+Clark, E. V. (2015). Semantics and Language Acquisition. Chichester, UK: John Wiley & Sons, Ltd.\
+Cole, M. W., Bassett, D. S., Power, J. D., Braver, T. S., & Petersen, S. E. (2014). Intrinsic and task-evoked network architectures of the human brain. Neuron, 83(1), 238-251. doi:10.1016/j.neuron.2014.05.014\
+Cole, M. W., Repovs, G., & Anticevic, A. (2014). The Frontoparietal Control System: A Central Role in Mental Health. Neuroscientist, 20(6), 652-664. doi:10.1177/1073858414525995\
+Cole, M. W., & Schneider, W. (2007). The cognitive control network: Integrated cortical regions with dissociable functions. Neuroimage, 37(1), 343-360. doi:10.1016/j.neuroimage.2007.03.071\
+Collins, M., & Assoc Computat, L. (1997). Three generative, lexicalised models for statistical parsing. 35th Annual Meeting of the Association for Computational Linguistics and the 8th Conference of the European Chapter of the Association for Computational Linguistics, Proceedings of the Conference, 16-23. \
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural Language Processing (Almost) from Scratch. Journal of Machine Learning Research, 12, 2493-2537. \
+Cooke, A., Grossman, M., DeVita, C., Gonzalez-Atavales, J., Moore, P., Chen, W., . . . Detre, J. (2006). Large-scale neural network for sentence processing. Brain and Language, 96(1), 14-36. doi:10.1016/j.bandl.2005.07.072\
+Corballis, M. C. (1991). The lopsided ape: Evolution of the generative mind.: p.p1 \{margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545\}\
+\
+\
+\
+ Oxford University Press.\
+Corbetta, M., & Shulman, G. L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience, 3(3), 201-215. doi:10.1038/nrn755\
+Cordes, D., Haughton, V. M., Arfanakis, K., Carew, J. D., Turski, P. A., Moritz, C. H., . . . Meyerand, M. E. (2001a). Frequencies contributing to functional connectivity in the cerebral cortex in "resting-state" data. American Journal of Neuroradiology, 22(7), 1326-1333. \
+Cordes, D., Haughton, V. M., Arfanakis, K., Carew, J. D., Turski, P. A., Moritz, C. H., . . . Meyerand, M. E. (2001b). Frequencies contributing to functional connectivity in the cerebral cortex in "resting-state" data. American Journal of Neuroradiology, 22(7), 1326-1333. \
+Cordes, D., Haughton, V. M., Arfanakis, K., Wendt, G. J., Turski, P. A., Moritz, C. H., . . . Meyerand, M. E. (2000). Mapping functionally related regions of brain with functional connectivity MR imaging. American Journal of Neuroradiology, 21(9), 1636-1644. \
+Core, T. R. (2013). R: A language and environment for statistical computing. \
+Correia, J., Formisano, E., Valente, G., Hausfeld, L., Jansma, B., & Bonte, M. (2014). Brain-Based Translation: fMRI Decoding of Spoken Words in Bilinguals Reveals Language-Independent Semantic Representations in Anterior Temporal Lobe. Journal of Neuroscience, 34(1), 332-338. doi:10.1523/jneurosci.1302-13.2014\
+Coulson, S., King, J. W., & Kutas, M. (1998). Expect the unexpected: Event-related brain response to morphosyntactic violations. Language and Cognitive Processes, 13(1), 21-58. doi:10.1080/016909698386582\
+Coulson, S., & Williams, R. F. (2005). Hemispheric asymmetries and joke comprehension. Neuropsychologia, 43(1), 128-141. doi:10.1016/j.neuropsychologia.2004.03.015\
+Cover, T. M., & Thomas, J. A. (2012). Elements of Information Theory (2 ed.): John Wiley & Sons.\
+Creel, S. C., & Tumlin, M. A. (2011). On-line acoustic and semantic interpretation of talker information. Journal of Memory and Language, 65(3), 264-285. doi:10.1016/j.jml.2011.06.005\
+Culicover, P. W., & Jackendoff, R. (2005). Simpler Syntax: Oxford University Press.\
+Dahan, D., Drucker, S. J., & Scarborough, R. A. (2008). Talker adaptation in speech perception: Adjusting the signal or the representations? Cognition, 108(3), 710-718. doi:10.1016/j.cognition.2008.06.003\
+Dale, A. M. (1999a). Optimal experimental design for event-related fMRI. Human Brain Mapping, 8(2-3), 109-114. doi:10.1002/(sici)1097-0193(1999)8:2/3<109::aid-hbm7>3.0.co;2-w\
+Dale, A. M. (1999b). Optimal experimental design for event-related fMRI. Human Brain Mapping, 8(2-3), 109-114. doi:10.1002/(sici)1097-0193(1999)8:2/3<109::aid-hbm7>3.0.co;2-w\
+Damasio, A. R. (1992). APHASIA. New England Journal of Medicine, 326(8), 531-539. doi:10.1056/nejm199202203260806\
+Dapretto, M., & Bookheimer, S. Y. (1999a). Form and content: Dissociating syntax and semantics in sentence comprehension. Neuron, 24(2), 427-432. doi:10.1016/s0896-6273(00)80855-7\
+Dapretto, M., & Bookheimer, S. Y. (1999b). Form and content: Dissociating syntax and semantics in sentence comprehension. Neuron, 24(2), 427-432. doi:10.1016/s0896-6273(00)80855-7\
+Dautriche, I., Chemla, E., & Christophe, A. (2016). Word learning: Homophony and the distribution of learning exemplars. Language Learning and Development, 12(3), 231-251. \
+Davis, C. J. (2010). The Spatial Coding Model of Visual Word Identification. Psychological Review, 117(3), 713-758. doi:10.1037/a0019738\
+Davis, G. S. (1999). A presumption against violence in the Christian "just war" - On the relevance of the 'Question at Vespers' by Jacques Almain. Journal of Religious Ethics, 27(2), 369-374. \
+de Boers, B. (2014). Biological adaptations to cultural traits. Paper presented at the Proceedings of the 10th International Conference, Hackensack, NJ.\
+de Marneffe, M., MacCartney, B., & D., M. C. (2006). Generating Typed Dependency Parses from Phrase Structure Parses. Paper presented at the LREC 2006.\
+Deen, B., Koldewyn, K., Kanwisher, N., & Saxe, R. (2015). Functional organization of social perception and cognition in the superior temporal sulcus. Cerebral Cortex, 25(11), 4596-4609. doi:10.1093/cercor/bhv111\
+Deen, B., Saxe, R., & Bedny, M. (2015). Occipital Cortex of Blind Individuals Is Functionally Coupled with Executive Control Areas of Frontal Cortex. Journal of Cognitive Neuroscience, 27(8), 1633-1647. doi:10.1162/jocn_a_00807\
+Deficits in\
+inference and social cognition: The effects of right     hemisphere brain damage on discourse. In: Beeman\
+M, Chiarello C, editors.     Right\
+hemisphere language comprehension: Perspectives from cognitive neuroscience. (1998). \
+Degen, J., & Tanenhaus, M. K. (2016). Availability of Alternatives and the Processing of Scalar Implicatures: A Visual World Eye-Tracking Study. Cognitive Science, 40(1), 172-201. doi:10.1111/cogs.12227\
+Dell, G. S. (1986). A spreading-activation theory of retrieval in sentence production. Psychological Review, 93(3), 283-321. doi:10.1037//0033-295x.93.3.283\
+Dell, G. S., & Chang, F. (2014). The P-chain: relating sentence production and its disorders to comprehension and acquisition. Philosophical Transactions of the Royal Society B-Biological Sciences, 369(1634). doi:10.1098/rstb.2012.0394\
+Demberg, V., & Keller, F. (2008). Data from eye-tracking corpora as evidence for theories of syntactic processing complexity. Cognition, 109(2), 193-210. doi:10.1016/j.cognition.2008.07.008\
+Demonet, J. F., Wise, R., & Frackowiak, R. S. J. (1993). Language functions explored in normal subjects by positron emission tomography: A critical review. Human Brain Mapping, 1, 39-47. \
+Des Roches, C. A., Balachandran, I., Ascenso, E. M., Tripodis, Y., & Kiran, S. (2015). Effectiveness of an impairment-based individualized rehabilitation program using an iPad-based software platform. Frontiers in Human Neuroscience, 8. doi:10.3389/fnhum.2014.01015\
+Devauchelle, A. D., Oppenheim, C., Rizzi, L., Dehaene, S., & Pallier, C. (2009). Sentence Syntax and Content in the Human Temporal Lobe: An fMRI Adaptation Study in Auditory and Visual Modalities. Journal of Cognitive Neuroscience, 21(5), 1000-1012. doi:10.1162/jocn.2009.21070\
+Devereux, B. J., Clarke, A., Marouchos, A., & Tyler, L. K. (2013). Representational Similarity Analysis Reveals Commonalities and Differences in the Semantic Processing of Words and Objects. Journal of Neuroscience, 33(48), 18906-18916. doi:10.1523/jneurosci.3809-13.2013\
+Dewey, M., & Everard, M. (1974). NEAR-NORMAL AUTISTIC ADOLESCENT. Journal of Autism and Childhood Schizophrenia, 4(4), 348-356. doi:10.1007/bf02105378\
+Diaz, M. T., Barrett, K. T., & Hogstrom, L. J. (2011). The influence of sentence novelty and figurativeness on brain activity. Neuropsychologia, 49(3), 320-330. doi:10.1016/j.neuropsychologia.2010.12.004\
+Diaz, M. T., & Hogstrom, L. J. (2011). The influence of context on hemispheric recruitment during metaphor processing. Journal of Cognitive Neuroscience, 23(11), 3586-3597. \
+DiCarlo, J. J., & Cox, D. D. (2007). Untangling invariant object recognition. Trends in Cognitive Sciences, 11(8), 333-341. doi:10.1016/j.tics.2007.06.010\
+Dick, F., Bates, E., Wulfeck, B., Utman, J. A., Dronkers, N., & Gernsbacher, M. A. (2001a). Language deficits, localization, and grammar: Evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals. Psychological Review, 108(4), 759-788. doi:10.1037//0033-295x.108.4.759\
+Dick, F., Bates, E., Wulfeck, B., Utman, J. A., Dronkers, N., & Gernsbacher, M. A. (2001b). Language deficits, localization, and grammar: Evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals. Psychological Review, 108(4), 759-788. doi:10.1037//0033-295x.108.4.759\
+Ding, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature Neuroscience, 19(1), 158-+. doi:10.1038/nn.4186\
+Docking, K., Murdoch, B. E., & Jordan, F. M. (2000). Interpretation and comprehension of linguistic humour by adolescents with head injury: a group analysis. Brain Injury, 14(1), 89-108. doi:10.1080/026990500120952\
+Dodell-Feder, D., Koster-Hale, J., Bedny, M., & Saxe, R. (2011a). fMRI item analysis in a theory of mind task. NeuroImage, 55(2), 705-712. doi:10.1016/j.neuroimage.2010.12.040\
+Dodell-Feder, D., Koster-Hale, J., Bedny, M., & Saxe, R. (2011b). fMRI item analysis in a theory of mind task. Neuroimage, 55(2), 705-712. doi:10.1016/j.neuroimage.2010.12.040\
+Dosenbach, N. U. F., Fair, D. A., Miezin, F. M., Cohen, A. L., Wenger, K. K., Dosenbach, R. A. T., . . . Petersen, S. E. (2007). Distinct brain networks for adaptive and stable task control in humans. Proceedings of the National Academy of Sciences of the United States of America, 104(26), 11073-11078. doi:10.1073/pnas.0704320104\
+Dronkers, N. F., Ludy, C. A., & Redfern, B. B. (1998). Pragmatics in the absence of verbal language: Descriptions of a severe aphasic and a language-deprived adult. Journal of Neurolinguistics, 11(1-2), 179-190. doi:10.1016/s0911-6044(98)00012-8\
+Dryer, M. S. (2002). Case distinctions, rich verb agreement, and word order type (comments on Hawkins' paper). Theoretical Linguistics, 28(2), 151-157. doi:10.1515/thli.2002.28.2.151\
+Duffau, H., Moritz-Gasser, S., & Mandonnet, E. (2014). A re-examination of neural basis of language processing: Proposal of a dynamic hodotopical model from data provided by brain stimulation mapping during picture naming. Brain and Language, 131, 1-10. doi:10.1016/j.bandl.2013.05.011\
+Dufour, N., Redcay, E., Young, L., Mavros, P. L., Moran, J. M., Triantafyllou, C., . . . Saxe, R. (2013). Similar brain activation during false belief tasks in a large sample of adults with and without autism. PLOS ONE, 8(9), e75468. doi:10.1371/journal.pone.0075468\
+Duncan, J. (2010a). The multiple-demand (MD) system of the primate brain: mental programs for intelligent behaviour. Trends in Cognitive Sciences, 14(4), 172-179. doi:10.1016/j.tics.2010.01.004\
+Duncan, J. (2010b). The multiple-demand (MD) system of the primate brain: Mental programs for intelligent behaviour. Trends in Cognitive Sciences, 14(4), 172-179. doi:10.1016/j.tics.2010.01.004\
+Duncan, J. (2013). The Structure of Cognition: Attentional Episodes in Mind and Brain. Neuron, 80(1), 35-50. doi:10.1016/j.neuron.2013.09.015\
+Duncan, J., & Owen, A. M. (2000a). Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends in Neurosciences, 23(10), 475-483. \
+Duncan, J., & Owen, A. M. (2000b). Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends in Neurosciences, 23(10), 475-483. \
+Duncan, J., & Owen, A. M. (2000c). Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends in Neurosciences, 23(10), 475-483. doi:10.1016/s0166-2236(00)01633-7\
+Eales, M. J. (1993). PRAGMATIC IMPAIRMENTS IN ADULTS WITH CHILDHOOD DIAGNOSES OF AUTISM OR DEVELOPMENTAL RECEPTIVE LANGUAGE DISORDER. Journal of Autism and Developmental Disorders, 23(4), 593-617. doi:10.1007/bf01046104\
+Edwards, S. (1995). Profiling fluent aphasic spontaneous speech: A comparison of two methodologies. European Journal of Disorders of Communication, 30(3), 333-345. \
+Edwards, S., & Bastiaanse, R. (1998). Diversity in the lexical and syntactic abilities of fluent aphasic speakers. Aphasiology, 12(2), 99-117. doi:dx.doi.org/10.1080/02687039808250466\
+Edwards, S., Bastiaanse, R., & Kiss, K. (1994). Fluent aphasia and grammatical complexity in three languages. Brain and Language, 47(3), 414-416. \
+Eigsti, I. M., de Marchena, A. B., Schuh, J. M., & Kelley, E. (2011). Language acquisition in autism spectrum disorders: A developmental review. Research in Autism Spectrum Disorders, 5(2), 681-691. doi:10.1016/j.rasd.2010.09.001\
+Eklund, A., Nichols, T. E., & Knutsson, H. (2016). Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates (vol 113, pg 7900, 2016). Proceedings of the National Academy of Sciences of the United States of America, 113(33), E4929-E4929. doi:10.1073/pnas.1612033113\
+Embick, D., Marantz, A., Miyashita, Y., O'Neil, W., & Sakai, K. L. (2000). A syntactic specialization for Broca's area. Proceedings of the National Academy of Sciences of the United States of America, 97(11), 6150-6154. doi:10.1073/pnas.100098897\
+Erk, K. (2012). Vector Space Models of Word Meaning and Phrase Meaning: A Survey. Language and Linguistics Compass, 6(10). \
+Erk, K., & Pado, S. (2008). A structured vector space model for word meaning in context. Paper presented at the Proceedings of the Conference on Empirical Methods in Natural Language Processing.\
+Eviatar, Z., & Just, M. A. (2006). Brain correlates of discourse processing: An fMRI investigation of irony and conventional metaphor comprehension. Neuropsychologia, 44(12), 2348-2359. doi:10.1016/j.neuropsychologia.2006.05.007\
+Fadiga, L., Craighero, L., & D'Ausilio, A. (2009). Broca's Area in Language, Action, and Music. Neurosciences and Music Iii: Disorders and Plasticity, 1169, 448-458. doi:10.1111/j.1749-6632.2009.04582.x\
+Faroqi-Shah, Y. (2007). Are regular and irregular verbs dissociated in non-fluent aphasia? A meta-analysis. Brain Research Bulletin, 74(1-3), 1-13. doi:10.1016/j.brainresbull.2007.06.007\
+Faroqi-Shah, Y., & Thompson, C. K. (2007). Verb inflections in agrammatic aphasia: Encoding of tense features. Journal of Memory and Language, 56(1), 129-151. \
+Federmeier, K. D. (2007). Thinking ahead: The role and roots of prediction in language comprehension. Psychophysiology, 44(4), 491-505. doi:10.1111/j.1469-8986.2007.00531.x\
+Fedorenko, E. (2014). The role of domain-general cognitive control in language comprehension. Frontiers in Psychology, 5, 335. doi:10.3389/fpsyg.2014.00335\
+Fedorenko, E., Behr, M. K., & Kanwisher, N. (2011a). Functional specificity for high-level linguistic processing in the human brain. Proceedings of the National Academy of Sciences of the United States of America, 108(39), 16428-16433. doi:10.1073/pnas.1112937108\
+Fedorenko, E., Behr, M. K., & Kanwisher, N. (2011b). Functional specificity for high-level linguistic processing in the human brain. Proceedings of the National Academy of Sciences of the United States of America, 108(39), 16428-16433. doi:10.1073/pnas.1112937108\
+Fedorenko, E., Duncan, J., & Kanwisher, N. (2012a). Language-Selective and Domain-General Regions Lie Side by Side within Broca's Area. Current Biology, 22(21), 2059-2062. doi:10.1016/j.cub.2012.09.011\
+Fedorenko, E., Duncan, J., & Kanwisher, N. (2012b). Language-selective and domain-general regions lie side by side within Broca's area. Current Biology, 22(21), 2059-2062. doi:10.1016/j.cub.2012.09.011\
+Fedorenko, E., Duncan, J., & Kanwisher, N. (2013a). Broad domain generality in focal regions of frontal and parietal cortex. Proceedings of the National Academy of Sciences of the United States of America, 110(41), 16616-16621. doi:10.1073/pnas.1315235110\
+Fedorenko, E., Duncan, J., & Kanwisher, N. (2013b). Broad domain generality in focal regions of frontal and parietal cortex. Proceedings of the National Academy of Sciences of the United States of America, 110(41), 16616-16621. doi:10.1073/pnas.1315235110\
+Fedorenko, E., Duncan, J., & Kanwisher, N. (2013c). Broad domain generality in focal regions of frontal and parietal cortex. Proceedings of the National Academy of Sciences of the United States of America, 110(41), 16616-16621. doi:10.1073/pnas.1315235110\
+Fedorenko, E., Hsieh, P. J., Nieto-Castanon, A., Whitfield-Gabrieli, S., & Kanwisher, N. (2010a). New Method for fMRI Investigations of Language: Defining ROIs Functionally in Individual Subjects. Journal of Neurophysiology, 104(2), 1177-1194. doi:10.1152/jn.00032.2010\
+Fedorenko, E., Hsieh, P. J., Nieto-Castanon, A., Whitfield-Gabrieli, S., & Kanwisher, N. (2010b). New method for fMRI investigations of language: Defining ROIs functionally in individual subjects. Journal of Neurophysiology, 104(2), 1177-1194. doi:10.1152/jn.00032.2010\
+Fedorenko, E., Hsieh, P. J., Nieto-Castanon, A., Whitfield-Gabrieli, S., & Kanwisher, N. (2010c). New method for fMRI investigations of language: Defining ROIs functionally in individual subjects. Journal of Neurophysiology, 104(2), 1177-1194. doi:10.1152/jn.00032.2010\
+Fedorenko, E., Hsieh, P. J., Nieto-Castanon, A., Whitfield-Gabrieli, S., & Kanwisher, N. (2010d). New method for fMRI investigations of language: Defining ROIs functionally in individual subjects. Journal of Neurophysiology, 104(2), 1177-1194. doi:10.1152/jn.00032.2010\
+Fedorenko, E., & Kanwisher, N. (2009). Neuroimaging of Language: Why Hasn\'92t a\
+Clearer Picture Emerged? Language and Linguistics Compass, 3(4), 839-865. \
+Fedorenko, E., McDermott, J. H., Norman-Haignere, S., & Kanwisher, N. (2012). Sensitivity to musical structure in the human brain. Journal of Neurophysiology, 108(12), 3289-3300. doi:10.1152/jn.00209.2012\
+Fedorenko, E., Mineroff, Z., Siegelman, M., & Blank, I. (Under review). No part of the language network is selective for \'a0 structure over meaning. \
+Fedorenko, E., Mineroff, Z., Zimmerer, V., & Kanwisher, N. (In prep). Event conceptualization does not require the language system. \
+Fedorenko, E., Nieto-Castanon, A., & Kanwisher, N. (2012a). Lexical and syntactic representations in the brain: An fMRI investigation with multi-voxel pattern analyses. Neuropsychologia, 50(4), 499-513. doi:10.1016/j.neuropsychologia.2011.09.014\
+Fedorenko, E., Nieto-Castanon, A., & Kanwisher, N. (2012b). Lexical and syntactic representations in the brain: An fMRI investigation with multi-voxel pattern analyses. Neuropsychologia, 50(4), 499-513. doi:10.1016/j.neuropsychologia.2011.09.014\
+Fedorenko, E., Nieto-Castanon, A., & Kanwisher, N. (2012c). Syntactic processing in the human brain: What we know, what we don't know, and a suggestion for how to proceed. Brain and Language, 120(2), 187-207. doi:10.1016/j.bandl.2011.01.001\
+Fedorenko, E., Scott, T. L., Brunner, P., Coon, W. G., Pritchett, B., Schalk, G., & Kanwisher, N. (2016a). Neural correlate of the construction of sentence meaning. Proceedings of the National Academy of Sciences of the United States of America, 113(41), E6256-E6262. doi:10.1073/pnas.1612132113\
+Fedorenko, E., Scott, T. L., Brunner, P., Coon, W. G., Pritchett, B., Schalk, G., & Kanwisher, N. (2016b). Neural correlate of the construction of sentence meaning. Proceedings of the National Academy of Sciences of the United States of America, 113(41), E6256-E6262. doi:10.1073/pnas.1612132113\
+Fedorenko, E., & Thompson-Schill, S. L. (2014a). Reworking the language network. Trends in Cognitive Sciences, 18(3), 120-126. doi:10.1016/j.tics.2013.12.006\
+Fedorenko, E., & Thompson-Schill, S. L. (2014b). Reworking the language network. Trends in Cognitive Sciences, 18(3), 120-126. doi:10.1016/j.tics.2013.12.006\
+Fedorenko, E., & Thompson-Schill, S. L. (2014c). Reworking the language network. Trends in Cognitive Sciences, 18(3), 120-126. doi:10.1016/j.tics.2013.12.006\
+Fedorenko, E., & Varley, R. (2016a). Language and thought are not the same thing:     Evidence from neuroimaging and neurological patients. Annals of the NY Academy of Sciences, 1369(1), 22. \
+Fedorenko, E., & Varley, R. (2016b). Language and thought are not the same thing: Evidence from neuroimaging and neurological patients. Annals of the New York Academy of Sciences, 1369(1), 132-153. doi:10.1111/nyas.13046\
+Feigenson, L., Dehaene, S., & Spelke, E. (2004). Core systems of number. Trends in Cognitive Science, 8(7), 307-314. doi:10.1016/j.tics.2004.05.002\
+Ferreira, F., Bailey, K. G. D., & Ferraro, V. (2002). Good-enough representations in language comprehension. Current Directions in Psychological Science, 11(1), 11-15. doi:10.1111/1467-8721.00158\
+Ferreira, F., & Patson, N. (2007). The 'good enough' approach to language comprehension. Language and Linguistics Compass, 1(1-2), 71-83. \
+Ferreira, V. S., & Bock, K. (2006). The functions of structural priming. Language and Cognitive Processes, 21(7-8), 1011-1029. doi:10.1080/01690960600824609\
+Firth, J. R. (1957). A synopsis of linguistic theory, 1930-1955. Oxford: Wiley-Blackwell.\
+Fischl, B., Rajendran, N., Busa, E., Augustinack, J., Hinds, O., Yeo, B. T., . . . Zilles, K. (2008). Cortical folding patterns and predicting cytoarchitecture. Cereb Cortex, 18(8), 1973-1980. doi:10.1093/cercor/bhm225\
+Fisher, S. (2013a). DECODING THE GENETICS OF SPEECH AND LANGUAGE. Journal of Cognitive Neuroscience, 17-17. \
+Fisher, S. (2013b). DECODING THE GENETICS OF SPEECH AND LANGUAGE. Journal of Cognitive Neuroscience, 17-17. \
+Fletcher, P. C., Happe, F., Frith, U., Baker, S. C., Dolan, R. J., Frackowiak, R. S. J., & Frith, C. D. (1995). OTHER MINDS IN THE BRAIN - A FUNCTIONAL IMAGING STUDY OF THEORY OF MIND IN STORY COMPREHENSION. Cognition, 57(2), 109-128. doi:10.1016/0010-0277(95)00692-r\
+Flinker, A., Korzeniewska, A., Shestyuk, A. Y., Franaszczuk, P. J., Dronkers, N. F., Knight, R. T., & Crone, N. E. (2015). Redefining the role of Broca's area in speech. Proceedings of the National Academy of Sciences of the United States of America, 112(9), 2871-2875. doi:10.1073/pnas.1414491112\
+Fodor, J. A., & Pylyshyn, Z. W. (1988). CONNECTIONISM AND COGNITIVE ARCHITECTURE - A CRITICAL ANALYSIS. Cognition, 28(1-2), 3-71. doi:10.1016/0010-0277(88)90031-5\
+Fox, M. D., & Raichle, M. E. (2007). Spontaneous fluctuations in brain activity observed with functional magnetic resonance imaging. Nature Reviews Neuroscience, 8(9), 700-711. doi:10.1038/nrn2201\
+Fox, M. D., Snyder, A. Z., Vincent, J. L., Corbetta, M., Van Essen, D. C., & Raichle, M. E. (2005). The human brain is intrinsically organized into dynamic, anticorrelated functional networks. Proceedings of the National Academy of Sciences of the United States of America, 102(27), 9673-9678. doi:10.1073/pnas.0504136102\
+Frank, M. C., Everett, D. L., Fedorenko, E., & Gibson, E. (2008). Number as a cognitive technology: evidence from Pirah\'e3 language and cognition. Cognition, 108(3), 819-824. doi:10.1016/j.cognition.2008.04.007\
+Frank, M. C., & Goodman, N. D. (2012). Predicting Pragmatic Reasoning in Language Games. Science, 336(6084), 998-998. doi:10.1126/science.1218633\
+Franke, M. (2009). Signal to act: Game theory in pragmatics. Universiteit van Amsterdam, \
+Frankland, S. M., & Greene, J. D. (2015). An architecture for encoding sentence meaning in left mid-superior temporal cortex. Proceedings of the National Academy of Sciences of the United States of America, 112(37), 11732-11737. doi:10.1073/pnas.1421236112\
+Fridriksson, J., Yourganov, G., Bonilha, L., Basilakos, A., Den Ouden, D. B., & Rorden, C. (2016). Revealing the dual streams of speech processing. Proceedings of the National Academy of Sciences of the United States of America, 113(52), 15108-15113. doi:10.1073/pnas.1614038114\
+Friederici, A. D. (2011). THE BRAIN BASIS OF LANGUAGE PROCESSING: FROM STRUCTURE TO FUNCTION. Physiological Reviews, 91(4), 1357-1392. doi:10.1152/physrev.00006.2011\
+Friederici, A. D. (2012). The cortical language circuit: from auditory perception to sentence comprehension. Trends in Cognitive Sciences, 16(5), 262-268. doi:10.1016/j.tics.2012.04.001\
+Friederici, A. D., Bahlmann, J., Heim, S., Schubotz, R. I., & Anwander, A. (2006). The brain differentiates human and non-human grammars: Functional localization and structural connectivity. Proceedings of the National Academy of Sciences of the United States of America, 103(7), 2458-2463. doi:10.1073/pnas.0509389103\
+Friederici, A. D., Kotz, S. A., Scott, S. K., & Obleser, J. (2010). Disentangling syntax and intelligibility in auditory language comprehension. Human Brain Mapping, 31(3), 448-457. doi:10.1002/hbm.20878\
+Friederici, A. D., Meyer, M., & von Cramon, D. Y. (2000). Auditory language comprehension: An event-related fMRI study on the processing of syntactic and lexical information. Brain and Language, 74(2), 289-300. doi:10.1006/brln.2000.2313\
+Friston, K. J., Rotshtein, P., Geng, J. J., Sterzer, P., & Henson, R. N. (2006). A critique of functional localisers. Neuroimage, 30(4), 1077-1087. doi:10.1016/j.neuroimage.2005.08.012\
+Fromkin, V. A. (1971a). NON-ANOMALOUS NATURE OF ANOMALOUS UTTERANCES. Language, 47(1), 27-52. doi:10.2307/412187\
+Fromkin, V. A. (1971b). Non-anomalous nature of anomalous utterances. Language, 47(1), 27-52. doi:10.2307/412187\
+Frost, M. A., & Goebel, R. (2012a). Measuring structural-functional correspondence: Spatial variability of specialised brain regions after macro-anatomical alignment. Neuroimage, 59(2), 1369-1381. doi:10.1016/j.neuroimage.2011.08.035\
+Frost, M. A., & Goebel, R. (2012b). Measuring structural-functional correspondence: spatial variability of specialised brain regions after macro-anatomical alignment. NeuroImage, 59(2), 1369-1381. doi:10.1016/j.neuroimage.2011.08.035\
+Frost, M. A., & Goebel, R. (2012c). Measuring structural-functional correspondence: Spatial variability of specialised brain regions after macro-anatomical alignment. Neuroimage, 59(2), 1369-1381. doi:10.1016/j.neuroimage.2011.08.035\
+Futrell, R. (2017). Memory and Locality in Natural Language. (Doctor of Philosophy in Cognitive Science), Massachusetts Institute of Technology, \
+Futrell, R., Gibson, E., Tily, H., Blank, I., Vishnevetsky, A., Piantadosi, S. T., & Fedorenko, E. (2017). The Natural Stories Corpus. arXiv:1708.05763. \
+Futrell, R., Mahowald, K., & Gibson, E. (2015). Large-scale evidence of dependency length minimization in 37 languages. Proceedings of the National Academy of Sciences of the United States of America, 112(33), 10336-10341. doi:10.1073/pnas.1502134112\
+Gallistel, C. R. (1990). The Organization of Learning. Cambridge, MA: MIT Press.\
+Game Theory and Pragmatics. (2006). Game Theory and Pragmatics, 1-290. doi:10.1057/9780230285897\
+Garavan, H., Kelley, D., Rosen, A., Rao, S. M., & Stein, E. A. (2000). Practice-related functional activation changes in a working memory task. Microscopy Research and Technique, 51(1), 54-63. doi:10.1002/1097-0029(20001001)51:1<54::AID-JEMT6>3.0.CO;2-J\
+Garnsey, S. M., Pearlmutter, N. J., Myers, E., & Lotocky, M. A. (1997). The contributions of verb bias and plausibility to the comprehension of temporarily ambiguous sentences. Journal of Memory and Language, 37(1), 58-93. doi:10.1006/jmla.1997.2512\
+Garrett, M. (1975). The analysis of sentence production (Vol. 9). New York: Academic Press.\
+Gazdar, G. (1979). Pragmatics: Implicature, presupposition, and logical form. Linguistic Society of America, 56(4), 902-905. \
+Gelman, A., & Carlin, J. (2014). Beyond power calculations: Assessing Type S (Sign) and Type M (Magnitude) errors. Perspectives on Psychological Science, 9(6), 641-651. doi:10.1177/1745691614551642\
+Gelman, A., & O'Rourke, K. (2014). Discussion: Difficulties in making inferences about scientific truth from distributions of published p-values. Biostatistics, 15(1), 18-23. doi:10.1093/biostatistics/kxt034\
+Gershman, S., & Tenenbaum, J. B. (2015). Phrase similarity in humans and machines. Cognitive Science. \
+Geschwind, N. (1970). The organization of language and the brain. Science, 170(3961), 940-944. \
+Gibson, E. (1998). Linguistic complexity: locality of syntactic dependencies. Cognition, 68(1), 1-76. doi:10.1016/s0010-0277(98)00034-1\
+Gibson, E. (2000). The dependency locality theory: A distance-based theory of linguistic complexity. Image, Language, Brain, 95-126. \
+Gibson, E., Bergen, L., & Piantadosi, S. T. (2013a). Rational integration of noisy evidence and prior semantic expectations in sentence interpretation. Proceedings of the National Academy of Sciences of the United States of America, 110(20), 8051-8056. doi:10.1073/pnas.1216438110\
+Gibson, E., Bergen, L., & Piantadosi, S. T. (2013b). Rational integration of noisy evidence and prior semantic expectations in sentence interpretation. Proceedings of the National Academy of Sciences of the United States of America, 110(20), 8051-8056. doi:10.1073/pnas.1216438110\
+Gibson, E., Futrell, R., Jara-Ettinger, J., Mahowald, K., Bergen, L., Ratnasingam, S., . . . Conway, B. R. (2017). Color naming across languages reflects color use. Proceedings of the National Academy of Sciences of the United States of America, 114(40), 10785-10790. doi:10.1073/pnas.1619666114\
+Gibson, E., Jacobson, P., Graff, P., Mahowald, K., Fedorenko, E., & Piantadosi, S. T. (2014). A pragmatic account of complexity in definite antecedent-contained-deletion relative clauses. Journal of Semantics, 32(4), 579-618. doi:10.1093/jos/ffu006\
+Giora, R., Zaidel, E., Soroker, N., & Kasher, A. (2000). Differential effects of right and left-hemisphere damage on understanding sarcasm and metaphor. Metaphor and Symbol, 15(1), 63-83. \
+Glezer, L. S., & Riesenhuber, M. (2013). Individual Variability in Location Impacts Orthographic Selectivity in the "Visual Word Form Area". Journal of Neuroscience, 33(27), 11221-11226. doi:10.1523/jneurosci.5002-12.2013\
+Gobel, E. W., Parrish, T. B., & Reber, P. J. (2011a). Neural correlates of skill acquisition: Decreased cortical activity during a serial interception sequence learning task. Neuroimage, 58(4), 1150-1157. doi:10.1016/j.neuroimage.2011.06.090\
+Gobel, E. W., Parrish, T. B., & Reber, P. J. (2011b). Neural correlates of skill acquisition: decreased cortical activity during a serial interception sequence learning task. NeuroImage, 58(4), 1150-1157. doi:10.1016/j.neuroimage.2011.06.090\
+Godfrey, J., & Holliman, E. Switchboard-1 Release 2 LDC97S62.  \
+Goldberg, A. (2002). Construction Grammar. In Encyclopedia of Cognitive Science: Macmillan Reference Limited Nature Publishing Group.\
+Goldberg, A. (2006). Constructions at work: Oxford University Press.\
+Goldberg, A. E. (1995). Constructions  :\'a0  A Construction Grammar Approach to Argument Structure: University of Chicago Press.\
+Goldrick, M., Ferreira, V., & Miozzo, M. (2014). The oxford handbook of language production. Online.\
+Goldrick, M., & Rapp, B. (2007). Lexical and post-lexical phonological representations in spoken production. Cognition, 102(2), 219-260. doi:10.1016/j.cognition.2005.12.010\
+Goodman, N. D., & Frank, M. C. (2016). Pragmatic Language Interpretation as Probabilistic Inference. Trends in Cognitive Sciences, 20(11), 818-829. doi:10.1016/j.tics.2016.08.005\
+Goodman, N. D., & Stuhlmuller, A. (2013). Knowledge and implicature: Modeling language understanding as social cognition. Topics in Cognitive Science, 5(1), 173-184. doi:10.1111/tops.12007\
+Gorno-Tempini, M. L., Dronkers, N. F., Rankin, K. P., Ogar, J. M., Phengrasamy, L., Rosen, H. J., . . . Miller, B. L. (2004). Cognition and anatomy in three variants of primary progressive aphasia. Annals of Neurology, 55(3), 335-346. doi:10.1002/ana.10825\
+Grainger, J., & van Heuven, W. (2003). Modeling letter position coding in printed word perception. In P. Bonin (Ed.), The mental lexicon (pp. 1-23). New York: Nova Science.\
+Grainger, J., & Van Heuven, W. J. (2003). Modeling Letter Position Coding in Printed Word Perception. In P. Bonin (Ed.), Mental Lexicon: "Some Words to Talk About Words" (pp. 2-23): New York : Nova Science.\
+Grand, G., Blank, I., Pereira, F., & Fedorenko, E. (Submitted). Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings. \
+Graves, W. W., Grabowski, T. J., Mehta, S., & Gordon, J. K. (2007). A neural signature of phonological access: Distinguishing the effects of word frequency from familiarity and length in overt picture naming. Journal of Cognitive Neuroscience, 19(4), 617-631. doi:10.1162/jocn.2007.19.4.617\
+Graves, W. W., Grabowski, T. J., Mehta, S., & Gupta, P. (2008). The left posterior superior temporal gyrus participates specifically in accessing lexical phonology. Journal of Cognitive Neuroscience, 20(9), 1698-1710. doi:10.1162/jocn.2008.20113\
+Gray, J. R., Chabris, C. F., & Braver, T. S. (2003a). Neural mechanisms of general fluid intelligence. Nature Neuroscience, 6(3), 316-322. doi:10.1038/nn1014\
+Gray, J. R., Chabris, C. F., & Braver, T. S. (2003b). Neural mechanisms of general fluid intelligence. Nature Neuroscience, 6(3), 316-322. doi:10.1038/nn1014\
+Greene, M. R., Baldassano, C., Esteva, A., Beck, D. M., & Li, F. F. (2016). Visual Scenes Are Categorized by Function. Journal of Experimental Psychology-General, 145(1), 82-94. doi:10.1037/xge0000129\
+Grefenstette, E., & Sadrzadeh, M. (2011). Experimental Support for a Categorical Compositional\
+Distributional Model of Meaning. Paper presented at the Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing.\
+Gregersen, P. K., Kowalsky, E., Kohn, N., & Marvin, E. W. (2001). Early childhood music education and predisposition to absolute pitch: Teasing apart genes and environment. American Journal of Medical Genetics, 98(3), 280-282. doi:10.1002/1096-8628(20010122)98:3<280::aid-ajmg1083>3.0.co;2-6\
+Greicius, M. D., Krasnow, B., Reiss, A. L., & Menon, V. (2003). Functional connectivity in the resting brain: A network analysis of the default mode hypothesis. Proceedings of the National Academy of Sciences of the United States of America, 100(1), 253-258. doi:10.1073/pnas.0135058100\
+Grice, H. (1975a). Discourse\
+Ability and Brain Damage - Theoretical and Empirical. Syntax\
+and Semantics. \
+Grice, H. (1975b). Logic and Conversation. \
+Grice, H. (1975c). Logic and Conversation. Syntax and Semantics, 3, 41-58. \
+Groen, I. I. A., Ghebreab, S., Lamme, V. A. F., & Scholte, H. S. (2012). Spatially Pooled Contrast Responses Predict Neural and Perceptual Similarity of Naturalistic Image Categories. Plos Computational Biology, 8(10). doi:10.1371/journal.pcbi.1002726\
+Groen, I. I. A., Greene, M. R., Baldassano, C., Li, F. F., Beck, D. M., & Baker, C. I. (2018). Distinct contributions of functional and deep neural network features to representational similarity of scenes in human brain and behavior. Elife, 7. doi:10.7554/eLife.32962\
+Groen, M. A., Alku, P., & Bishop, D. V. M. (2008). Lateralisation of auditory processing in Down syndrome: A study of T-complex peaks Ta and Tb. Biological Psychology, 79(2), 148-157. doi:10.1016/j.biopsycho.2008.04.003\
+Grossman, M., & Ash, S. (2004). Primary progressive aphasia: A review. Neurocase, 10(1), 3-18. doi:10.1080/13554790490960440\
+H, B., & G, M. (1998). Deficits in inference and social cognition: The effects of right hemisphere brain damage on discourse. Perspectives from cognitive neuroscience, 309-328. \
+Hagoort, P. (2013). MUC (Memory, Unification, Control) and beyond. Frontiers in Psychology, 4. doi:10.3389/fpsyg.2013.00416\
+Hagoort, P., Brown, C., & Groothusen, J. (1993a). The syntactic positive shift (SPS) as an ERP measure of syntactic processing. Language and Cognitive Processes, 8(4), 439-483. doi:10.1080/01690969308407585\
+Hagoort, P., Brown, C., & Groothusen, J. (1993b). The syntactic positive shift (SPS) as an ERP measure of syntactic processing. Language and Cognitive Processes, 8(4), 439-483. doi:10.1080/01690969308407585\
+Hagoort, P., Hald, L., Bastiaansen, M., & Petersson, K. M. (2004). Integration of word meaning and world knowledge in language comprehension. Science, 304(5669), 438-441. doi:10.1126/science.1095455\
+Hagoort, P., & Indefrey, P. (2014). The Neurobiology of Language Beyond Single Words. Annual Review of Neuroscience, Vol 37, 37, 347-+. doi:10.1146/annurev-neuro-071013-013847\
+Hagoort, P., & Poeppel, D. (2013). The Infrastructure of the Language-Ready Brain. Language, Music, and the Brain: a Mysterious Relationship, 233-255. \
+Hampshire, A., Highfield, R. R., Parkin, B. L., & Owen, A. M. (2012a). Fractionating Human Intelligence. Neuron, 76(6), 1225-1237. doi:10.1016/j.neuron.2012.06.022\
+Hampshire, A., Highfield, R. R., Parkin, B. L., & Owen, A. M. (2012b). Fractionating human intelligence. Neuron, 76(6), 1225-1237. doi:10.1016/j.neuron.2012.06.022\
+Happe, F. G. E. (1993). COMMUNICATIVE COMPETENCE AND THEORY OF MIND IN AUTISM - A TEST OF RELEVANCE THEORY. Cognition, 48(2), 101-119. doi:10.1016/0010-0277(93)90026-r\
+Harciarek, M., & Jodzio, K. (2005). Neuropsychological differences between frontotemporal dementia and Alzheimer's disease: A review. Neuropsychology Review, 15(3), 131-145. doi:10.1007/s11065-005-7093-4\
+Hare, M. L., & Goldberg, A. E. (1999). Structural priming: Purely syntactic? Proceedings of the Twenty First Annual Conference of the Cognitive Science Society, 208-211. \
+Harris, Z. (1954). Distributional structure. Word, 10(23), 146-162. \
+Hasegawa, M., Carpenter, P. A., & Just, M. A. (2002). An fMRI study of bilingual sentence comprehension and workload. Neuroimage, 15(3), 647-660. doi:10.1006/nimg.2001.1001\
+Hasson, U., Chen, J., & Honey, C. J. (2015). Hierarchical process memory: memory as an integral component of information processing. Trends in Cognitive Sciences, 19(6), 304-313. doi:10.1016/j.tics.2015.04.006\
+Hasson, U., Furman, O., Clark, D., Dudai, Y., & Davachi, L. (2008). Enhanced intersubject correlations during movie viewing correlate with successful episodic encoding. Neuron, 57(3), 452-462. doi:10.1016/j.neuron.2007.12.009\
+Hasson, U., Malach, R., & Heeger, D. J. (2010). Reliability of cortical activity during natural stimulation. Trends in Cognitive Sciences, 14(1), 40-48. doi:10.1016/j.tics.2009.10.011\
+Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002a). The faculty of language: What is it, who has it, and how did it evolve? Science, 298(5598), 1569-1579. doi:10.1126/science.298.5598.1569\
+Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002b). The faculty of language: What is it, who has it, and how did it evolve? Science, 298(5598), 1569-1579. doi:10.1126/science.298.5598.1569\
+Haxby, J. V., Gobbini, M. I., Furey, M. L., Ishai, A., Schouten, J. L., & Pietrini, P. (2001). Distributed and overlapping representations of faces and objects in ventral temporal cortex. Science, 293(5539), 2425-2430. doi:10.1126/science.1063736\
+Hebart, M. N., Bankson, B. B., Harel, A., Baker, C. I., & Cichy, R. M. (2018). The representational dynamics of task and object processing in humans. Elife, 7. doi:10.7554/eLife.32816\
+Heim, S., Opitz, B., & Friederici, A. D. (2002). Broca's area in the human brain is involved in the selection of grammatical gender for language production: Evidence from event-related functional magnetic resonance imaging. Neuroscience Letters, 328(2), 101-104. doi:10.1016/s0304-3940(02)00494-9\
+Henderson, J. M., Choi, W., Lowder, M. W., & Ferreira, F. (2016). Language structure in the brain: A fixation-related fMRI study of syntactic surprisal in reading. Neuroimage, 132, 293-300. doi:10.1016/j.neuroimage.2016.02.050\
+Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. PNAS, 109(Supplement 1), 10661-10668. \
+Herholz, S. C., & Zatorre, R. J. (2012). Musical Training as a Framework for Brain Plasticity: Behavior, Function, and Structure. Neuron, 76(3), 486-502. doi:10.1016/j.neuron.2012.10.011\
+Hernandez, A. E., Dapretto, M., Mazziotta, J., & Bookheimer, S. (2001). Language switching and language representation in Spanish-English bilinguals: An fMRI study. Neuroimage, 14(2), 510-520. doi:10.1006/nimg.2001.0810\
+Herrmann, B., Obleser, J., Kalberlah, C., Haynes, J. D., & Friederici, A. D. (2012). Dissociable neural imprints of perception and grammar in auditory functional imaging. Human Brain Mapping, 33(3), 584-595. doi:10.1002/hbm.21235\
+Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A framework for understanding aspects of the functional anatomy of language. Cognition, 92(1-2), 67-99. doi:10.1016/j.cognition.2003.10.011\
+Hickok, G., & Poeppel, D. (2007). Opinion - The cortical organization of speech processing. Nature Reviews Neuroscience, 8(5), 393-402. doi:10.1038/nrn2113\
+Holmes, A., & Friston, K. (1998). Generalisability, random effects and population inference. NeuroImage, 7(4), S754. \
+Huang, E. H., Socher, R., Manning, C. D., & Ng, A. Y. (2012). Improving Word Representations via Global Context\
+and Multiple Word Prototypes. Paper presented at the Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics.\
+Hugdahl, K., Raichle, M. E., Mitra, A., & Specht, K. (2015a). On the existence of a generalized non-specific task-dependent network. Frontiers in Human Neuroscience, 9, 430. doi:10.3389/fnhum.2015.00430\
+Hugdahl, K., Raichle, M. E., Mitra, A., & Specht, K. (2015b). On the existence of a generalized non-specific task-dependent network. Frontiers in Human Neuroscience, 9. doi:10.3389/fnhum.2015.00430\
+Humphries, C., Binder, J. R., Medler, D. A., & Liebenthal, E. (2006). Syntactic and semantic modulation of neural activity during auditory sentence comprehension. Journal of Cognitive Neuroscience, 18(4), 665-679. doi:10.1162/jocn.2006.18.4.665\
+Humphries, C., Willard, K., Buchsbaum, B., & Hickok, G. (2001). Role of anterior temporal cortex in auditory sentence comprehension: an fMRI study. Neuroreport, 12(8), 1749-1752. doi:10.1097/00001756-200106130-00046\
+Hutchison, R. M., Womelsdorf, T., Allen, E. A., Bandettini, P. A., Calhoun, V. D., Corbetta, M., . . . Chang, C. (2013). Dynamic functional connectivity: Promise, issues, and interpretations. Neuroimage, 80, 360-378. doi:10.1016/j.neuroimage.2013.05.079\
+Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. Nature, 532(7600), 453-+. doi:10.1038/nature17637\
+Illes, J., Francis, W. S., Desmond, J. E., Gabrieli, J. D. E., Glover, G. H., Poldrack, R., . . . Wagner, A. D. (1999). Convergent cortical representation of semantic processing in bilinguals. Brain and Language, 70(3), 347-363. doi:10.1006/brln.1999.2186\
+Indefrey, P. (2011). The spatial and temporal signatures of word production components: a critical update. Frontiers in Psychology, 2. doi:10.3389/fpsyg.2011.00255\
+Indefrey, P., Brown, C. M., Hellwig, F., Amunts, K., Herzog, H., Seitz, R. J., & Hagoort, P. (2001). A neural correlate of syntactic encoding during speech production. Proceedings of the National Academy of Sciences of the United States of America, 98(10), 5933-5936. doi:10.1073/pnas.101118098\
+Indefrey, P., & Levelt, W. J. M. (2004). The spatial and temporal signatures of word production components. Cognition, 92(1-2), 101-144. doi:10.1016/j.cognition.2002.06.001\
+Ioannidis, J. P. (2014). How to make more published research true. PLOS Medicine, 11(10), e1001747. doi:10.1371/journal.pmed.1001747\
+Ioannidis, J. P. A. (2005a). Why most published research findings are false. PLOS Medicine, 2(8), 696-701. doi:10.1371/journal.pmed.0020124\
+Ioannidis, J. P. A. (2005b). Why most published research findings are false. Plos Medicine, 2(8), 696-701. doi:10.1371/journal.pmed.0020124\
+Ioannidis, J. P. A., Munafo, M. R., Fusar-Poli, P., Nosek, B. A., & David, S. P. (2014a). Publication and other reporting biases in cognitive sciences: detection, prevalence, and prevention. Trends in Cognitive Sciences, 18(5), 235-241. doi:10.1016/j.tics.2014.02.010\
+Ioannidis, J. P. A., Munafo, M. R., Fusar-Poli, P., Nosek, B. A., & David, S. P. (2014b). Publication and other reporting biases in cognitive sciences: detection, prevalence, and prevention. Trends in Cognitive Sciences, 18(5), 235-241. doi:10.1016/j.tics.2014.02.010\
+Ioannidis, J. P. A., Munafo, M. R., Fusar-Poli, P., Nosek, B. A., & David, S. P. (2014c). Publication and other reporting biases in cognitive sciences: detection, prevalence, and prevention. Trends in Cognitive Sciences, 18(5), 235-241. doi:10.1016/j.tics.2014.02.010\
+Iuculano, T., Rosenberg-Lee, M., Richardson, J., Tenison, C., Fuchs, L., Supekar, K., & Menon, V. (2015a). Cognitive tutoring induces widespread neuroplasticity and remediates brain function in children with mathematical learning disabilities. Nature Communications, 6. doi:10.1038/ncomms9453\
+Iuculano, T., Rosenberg-Lee, M., Richardson, J., Tenison, C., Fuchs, L., Supekar, K., & Menon, V. (2015b). Cognitive tutoring induces widespread neuroplasticity and remediates brain function in children with mathematical learning disabilities. Nature Communications, 6. doi:10.1038/ncomms9453\
+Iuculano, T., Rosenberg-Lee, M., Richardson, J., Tenison, C., Fuchs, L., Supekar, K., & Menon, V. (2015c). Cognitive tutoring induces widespread neuroplasticity and remediates brain function in children with mathematical learning disabilities. Nature Communications, 6. doi:10.1038/ncomms9453\
+Jackendoff, R. (1989). What is a Concept, that a Person May Grasp It? Mind and language, 4(1-2), 68-102. \
+Jackendoff, R. (2002). Foundations of Language  :\'a0  Brain, Meaning, Grammar, Evolution: Oxford University Press.\
+Jackendoff, R. (2007). A Parallel Architecture perspective on language processing. Brain Research, 1146, 2-22. doi:10.1016/j.brainres.2006.08.111\
+Jackendoff, R. (2011). What is the human language faculty? Two views. Language, 87(3), 586-624. \
+Jackendoff, R., & Culicover.\
+Jackendoff, R., & Wittenberg, E. What You Can Say Without Syntax:\'a0 A Hierarchy of Grammatical Complexity. In F. Newmeyer & L. Preston (Eds.), Measuring Linguistic Complexity (pp. 65-82). Oxford: Oxford University Press.\
+Jackendoff, R. S. A user's guide to thought and meaning. Oxford University Press.\
+Jacoby, N., Bruneau, E., Koster-Hale, J., & Saxe, R. (2016). Localizing pain matrix and theory of mind networks with both verbal and non-verbal stimuli. NeuroImage, 126, 39-48. doi:10.1016/j.neuroimage.2015.11.025\
+Joseph, R. M., Tager-Flusberg, H., & Lord, C. (2002). Cognitive profiles and social-communicative functioning in children with autism spectrum disorder. Journal of Child Psychology and Psychiatry and Allied Disciplines, 43(6), 807-821. doi:10.1111/1469-7610.00092\
+Jouravlev, O., Zheng, D., Balewski, Z., Goldin-Meadow, S., & Fedorenko, E. (Under review). Speech-accompanying gestures do not engage high-level language processing brain regions. \
+Juch, H., Zimine, I., Seghier, M. L., Lazeyras, F., & Fasel, J. H. D. (2005a). Anatomical variability of the lateral frontal lobe surface: implication for intersubject variability in language neuroimaging. Neuroimage, 24(2), 504-514. doi:10.1016/j.neuroimage.2004.08.037\
+Juch, H., Zimine, I., Seghier, M. L., Lazeyras, F., & Fasel, J. H. D. (2005b). Anatomical variability of the lateral frontal lobe surface: implication for intersubject variability in language neuroimaging. NeuroImage, 24(2), 504-514. doi:10.1016/j.neuroimage.2004.08.037\
+Julian, J. B., Fedorenko, E., Webster, J., & Kanwisher, N. (2012). An algorithmic method for functionally defining regions of interest in the ventral visual pathway. NeuroImage, 60(4), 2357-2364. doi:10.1016/j.neuroimage.2012.02.055\
+Jurafsky, D. (1996). A probabilistic model of lexical and syntactic access and disambiguation. Cognitive Science, 20(2), 137-194. doi:10.1016/s0364-0213(99)80005-6\
+Kamide, Y. (2012). Learning individual talkers' structural preferences. Cognition, 124(1), 66-71. doi:10.1016/j.cognition.2012.03.001\
+Kanai, R., & Rees, G. (2011a). OPINION The structural basis of inter-individual differences in human behaviour and cognition. Nature Reviews Neuroscience, 12(4), 231-242. doi:10.1038/nrn3000\
+Kanai, R., & Rees, G. (2011b). The structural basis of inter-individual differences in human behaviour and cognition. Nature Review Neuroscience, 12(4), 231-242. doi:10.1038/nrn3000\
+Kao, J. T., Wu, J. Y., Bergen, L., & Goodman, N. D. (2014). Nonliteral understanding of number words. Proceedings of the National Academy of Sciences of the United States of America, 111(33), 12002-12007. doi:10.1073/pnas.1407479111\
+Kaplan, J. A., Brownell, H. H., Jacobs, J. R., & Gardner, H. (1990). THE EFFECTS OF RIGHT-HEMISPHERE DAMAGE ON THE PRAGMATIC INTERPRETATION OF CONVERSATIONAL REMARKS. Brain and Language, 38(2), 315-333. doi:10.1016/0093-934x(90)90117-y\
+Keller, T. A., Carpenter, P. A., & Just, M. A. (2001a). The neural bases of sentence comprehension: a fMRI examination of syntactic and lexical processing. Cerebral Cortex, 11(3), 223-237. doi:10.1093/cercor/11.3.223\
+Keller, T. A., Carpenter, P. A., & Just, M. A. (2001b). The neural bases of sentence comprehension: a fMRI examination of syntactic and lexical processing. Cerebral Cortex, 11(3), 223-237. doi:10.1093/cercor/11.3.223\
+Kempler, D. (1990). DISCOURSE ABILITY AND BRAIN-DAMAGE - THEORETICAL AND EMPIRICAL-PERSPECTIVES - JOANETTE,Y, BROWNELL,HH. Language and Speech, 33, 185-191. \
+Kertesz, A., Blair, M., McMonagle, P., & Munoz, D. G. (2007). The diagnosis and course of frontotemporal dementia. Alzheimer Disease & Associated Disorders, 21(2), 155-163. doi:10.1097/WAD.0b013e31806547eb\
+Keuleers, E., Stevens, M., Mandera, P., & Brysbaert, M. (2015). Word knowledge in the crowd: Measuring vocabulary size and word prevalence in a massive online experiment. Quarterly Journal of Experimental Psychology, 68(8), 1665-1692. doi:10.1080/17470218.2015.1022560\
+Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. Journal of Memory and Language, 52(2), 205-225. doi:10.1016/j.jml.2004.10.002\
+Kim, S. G., & Knosche, T. R. (2017). Resting state functional connectivity of the ventral auditory pathway of musicians with absolute pitch. Human Brain Mapping, 38(8), 3899-3916. \
+Kiros, R., Zhu, Y., Salakhutdinov, R. R., Zemel, R., Urtasun, R., Torralba, A., & Fidler, S. (2015). Skip-thought vectors. Paper presented at the Advances in neural information processing systems.\
+Klein, D., Manning, C. D., & Acl. (2003). Accurate unlexicalized parsing. 41st Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference, 423-430. \
+Klein, D., Milner, B., Zatorre, R. J., Zhao, V., & Nikelski, J. (1999). Cerebral organization in bilinguals: A PET study of Chinese-English verb generation. Neuroreport, 10(13), 2841-2846. doi:10.1097/00001756-199909090-00026\
+Klepousniotou, E. (2000). Right hemisphere involvement in the processing of figurative meaning in bilinguals. Lacus Forum Xxvi: the Lexicon, 26, 143-149. \
+Kline, M., Gallee, J., Balewski, Z., & Fedorenko, E. (Submitted). Understanding jokes relies on the theory of mind system. \
+Koechlin, E., & Jubault, T. (2006). Broca's area and the hierarchical organization of human behavior. Neuron, 50(6), 963-974. doi:10.1016/j.neuron.2006.05.017\
+Koelsch, S., Gunter, T. C., von Cramon, D. Y., Zysset, S., Lohmann, G., & Friederici, A. D. (2002). Bach speaks: A cortical "language-network" serves the processing of music. Neuroimage, 17(2), 956-966. doi:10.1016/s1053-8119(02)91154-7\
+Kolk, H., & Chwilla, D. (2007). Late positivities in unusual situations. Brain and Language, 100(3), 257-261. doi:10.1016/j.bandl.2006.07.006\
+Kolk, H. H. J., Chwilla, D. J., van Herten, M., & Oor, P. J. W. (2003). Structure and limited capacity in verbal working memory: A study with event-related potentials. Brain and Language, 85(1), 1-36. doi:10.1016/s0093-934x(02)00548-5\
+Koster-Hale, J., & Saxe, R. (2013). Functional neuroimaging of theory of mind. In Understanding other minds: Perspectives from developmental social neuroscience (3 ed., pp. 132-163). Oxford, UK: Oxford University Press.\
+Kouider, S., de Gardelle, V., Dehaene, S., Dupoux, E., & Pallier, C. (2010). Cerebral bases of subliminal speech priming. Neuroimage, 49(1), 922-929. doi:10.1016/j.neuroimage.2009.08.043\
+Kraijer, D. (2000). Review of adaptive behavior studies in mentally retarded persons with autism/pervasive developmental disorder. Journal of Autism and Developmental Disorders, 30(1), 39-47. doi:10.1023/a:1005460027636\
+Krekelberg, B., Boynton, G. M., & van Wezel, R. J. A. (2006). Adaptation: from single cells to BOLD signals. Trends in Neurosciences, 29(5), 250-256. doi:10.1016/j.tins.2006.02.008\
+Kriegeskorte, N. (2011). Pattern-information analysis: From stimulus decoding to computational-model testing. Neuroimage, 56(2), 411-421. doi:10.1016/j.neuroimage.2011.01.061\
+Kriegeskorte, N., & Bandettini, P. (2007). Analyzing for information, not activation, to exploit high-resolution fMRI. Neuroimage, 38(4), 649-662. \
+Kriegeskorte, N., Goebel, R., & Bandettini, P. (2006). Information-based functional brain mapping. Proceedings of the National Academy of Sciences of the United States of America, 103(10), 3863-3868. doi:10.1073/pnas.0600244103\
+Kriegeskorte, N., Mur, M., & Bandettini, P. (2008). Representational Similarity Analysis \'96 Connecting the Branches of Systems Neuroscience. Front Syst Neurosci, 2, 4. \
+Kriegeskorte, N., Simmons, W. K., Bellgowan, P. S., & Baker, C. I. (2009). Circular analysis in systems neuroscience: the dangers of double dipping. Nature Neuroscience, 12(5), 535-540. doi:10.1038/nn.2303\
+Kuperberg, G. R., Holcomb, P. J., Sitnikova, T., Greve, D., Dale, A. M., & Caplan, D. (2003a). Distinct patterns of neural modulation during the processing of conceptual and syntactic anomalies. Journal of Cognitive Neuroscience, 15(2), 272-293. doi:10.1162/089892903321208204\
+Kuperberg, G. R., Holcomb, P. J., Sitnikova, T., Greve, D., Dale, A. M., & Caplan, D. (2003b). Distinct patterns of neural modulation during the processing of conceptual and syntactic anomalies. Journal of Cognitive Neuroscience, 15(2), 272-293. doi:10.1162/089892903321208204\
+Kuperberg, G. R., McGuire, P. K., Bullmore, E. T., Brammer, M. J., Rabe-Hesketh, S., Wright, I. C., . . . David, A. S. (2000). Common and distinct neural substrates for pragmatic, semantic, and syntactic processing of spoken sentences: an fMRI study. Journal of Cognitive Neuroscience, 12(2), 321-341. doi:10.1162/089892900562138\
+Kuperman, V., Stadthagen-Gonzalez, H., & Brysbaert, M. (2013). Age-of-acquisition ratings for 30,000 English words (vol 44, pg 978, 2012). Behavior Research Methods, 45(3), 900-900. doi:10.3758/s13428-013-0348-8\
+Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: Finding meaning in the N400 component of the event-related brain potential (ERP). Annual Review of Psychology, Vol 62, 62, 621-647. doi:10.1146/annurev.psych.093008.131123\
+Kutas, M., & Hillyard, S. A. (1980). Event-related brain potentials to semantically inappropriate and surprisingly large words. Biological Psychology, 11(2), 99-116. doi:10.1016/0301-0511(80)90046-0\
+Ladefoged, P., & Maddieson, I. (1996). The sounds of the world's languages. Massachusetts, US: Blackwell Publishing.\
+Lambon-Ralph, M. A., Jefferies, E., Patterson, K., & Rogers, T. T. (2017). The neural and computational bases of semantic cognition. Nature Reviews Neuroscience, 18(1), 42-55. doi:10.1038/nrn.2016.150\
+Landauer, T. K., & Dumais, S. T. (1997). A solution to Plato's problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. Psychological Review, 104(2), 211-240. doi:10.1037//0033-295x.104.2.211\
+Lau, E. F., Phillips, C., & Poeppel, D. (2008). A cortical network for semantics: (de)constructing the N400. Nature Reviews Neuroscience, 9(12), 920-933. doi:10.1038/nrn2532\
+Lee, D., Simon, M. V., Fedorenko, E., Cahill, D. P., Curry, W. T., Nahed, B., & Williams, M. Z. (under review). The neural architecture of functional morpheme production in the left temporal-parietal junction. \
+Lee, M. H., Smyser, C. D., & Shimony, J. S. (2013). Resting-State fMRI: A Review of Methods and Clinical Applications. American Journal of Neuroradiology, 34(10), 1866-1872. doi:10.3174/ajnr.A3263\
+Lemhofer, K., & Broersma, M. (2012). Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English. Behavior Research Methods, 44(2), 325-343. doi:10.3758/s13428-011-0146-0\
+Lenci, A. (2008). Distributional semantics in linguistic and cognitive research. Italian Journal of Linguistics, 20(1), 1-31. \
+Lenci, A. (2011). Composing and updating verb argument expectations: a distributional semantic model. Paper presented at the Proceedings of the 2nd Workshop on Cognitive Modeling and Computational Linguistics.\
+Lenci, A. (2018). Distributional Models of Word Meaning. Annual Review of Linguistics, Vol 4, 4, 151-171. doi:10.1146/annurev-linguistics-030514-125254\
+Lerner, Y., Honey, C. J., Silbert, L. J., & Hasson, U. (2011). Topographic Mapping of a Hierarchy of Temporal Receptive Windows Using a Narrated Story. Journal of Neuroscience, 31(8), 2906-2915. doi:10.1523/jneurosci.3684-10.2011\
+Lescroart, M. D., Stansbury, D. E., & Gallant, J. L. (2015). Fourier power, subjective distance, and object categories all provide plausible models of BOLD responses in scene-selective visual areas. Frontiers in Computational Neuroscience, 9. doi:10.3389/fncom.2015.00135\
+Leshinskaya, A., & Caramazza, A. (2016). For a cognitive neuroscience of concepts: Moving beyond the grounding issue. Psychonomic Bulletin & Review, 23(4), 991-1001. doi:10.3758/s13423-015-0870-z\
+Levelt, W. (1989). Speaking: From intention to articulation. Cambridge, MA: MIT Press.\
+Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). A theory of lexical access in speech production. Behavioral and Brain Sciences, 22(1), 1-+. \
+Levin, B., & Rappaport-Hovav, M. (2005). Argument Realization. Cambridge, UK: Cambridge University Press.\
+Levinson, S. C. (2000). Presumptive meanings: The theory of generalized conversational implicature. Computational Linguistics, 27(3), 462-463. \
+Levinson, S. C. (2016). Turn-taking in Human Communication - Origins and Implications for Language Processing. Trends in Cognitive Sciences, 20(1), 6-14. doi:10.1016/j.tics.2015.10.010\
+Levy, R. (2008a). A noisy-channel model of rational human sentence comprehension under\
+uncertain input. Paper presented at the 2008 Conference on\
+Empirical Methods in\
+Natural Language\
+Processing, Honolulu, Hawaii, USA. \
+Levy, R. (2008b). Expectation-based syntactic comprehension. Cognition, 106(3), 1126-1177. doi:10.1016/j.cognition.2007.05.006\
+Levy, R., Bicknell, K., Slattery, T., & Rayner, K. (2009a). Eye movement evidence that readers maintain and act on uncertainty about past linguistic input. Proceedings of the National Academy of Sciences of the United States of America, 106(50), 21086-21090. doi:10.1073/pnas.0907664106\
+Levy, R., Bicknell, K., Slattery, T., & Rayner, K. (2009b). Eye movement evidence that readers maintain and act on uncertainty about past linguistic input. Proceedings of the National Academy of Sciences of the United States of America, 106(50), 21086-21090. doi:10.1073/pnas.0907664106\
+Levy, R., Fedorenko, E., & Gibson, E. (2013). The syntactic complexity of Russian relative clauses. Journal of Memory and Language, 69(4), 461-495. doi:10.1016/j.jml.2012.10.005\
+Levy, R. P., & Keller, F. (2013). Expectation and locality effects in German verb-final structures. Journal of Memory and Language, 68(2), 199-222. doi:10.1016/j.jml.2012.02.005\
+Lewis, R. L., Vasishth, S., & Van Dyke, J. A. (2006). Computational principles of working memory in sentence comprehension. Trends in Cognitive Sciences, 10(10), 447-454. doi:10.1016/j.tics.2006.08.007\
+Li, Y. O., Adali, T., Wang, W., & Calhoun, V. D. (2009). Joint blind source separation by multiset canonical\
+correlation analysis. IEEE Transactions on Signal Processing, 57(10), 3918-3929. \
+Liao, X., Luo, Y., Zhan, Z., Du, J., Hu, Z., Wang, J., . . . Shen, L. (2015). SPG35 contributes to the second common subtype of AR-HSP in China: frequency analysis and functional characterization of FA2H gene mutations. Clinical Genetics, 87(1), 85-89. doi:10.1111/cge.12336\
+Lin, Z. W., Wang, H., & McClean, S. (2010). Measuring Tree Similarity for Natural Language Processing Based Information Retrieval. Natural Language Processing and Information Systems, 6177, 13-23. \
+Lindell, A. K., & Hudry, K. (2013). Atypicalities in cortical structure, handedness, and functional lateralization for language in autism spectrum disorders. Neuropsychology Review, 23(3), 257-270. doi:10.1007/s11065-013-9234-5\
+Lindquist, M. A., & Mejia, A. (2015). Zen and the Art of Multiple Comparisons. Psychosomatic Medicine, 77(2), 114-125. doi:10.1097/psy.0000000000000148\
+Long, M. A., Katlowitz, K. A., Svirsky, M. A., Clary, R. C., Byun, T. M., Majaj, N., . . . Greenlee, J. D. (2016a). Functional segregation of cortical regions underlying speech timing and articulation. Neuron, 89(6), 1187-1193. doi:10.1016/j.neuron.2016.01.032\
+Long, M. A., Katlowitz, K. A., Svirsky, M. A., Clary, R. C., Byun, T. M., Majaj, N., . . . Greenlee, J. D. W. (2016b). Functional Segregation of Cortical Regions Underlying Speech Timing and Articulation. Neuron, 89(6), 1187-1193. doi:10.1016/j.neuron.2016.01.032\
+Loukusa, S., & Moilanen, I. (2009). Pragmatic inference abilities in individuals with Asperger syndrome or high-functioning autism. A review. Research in Autism Spectrum Disorders, 3(4), 890-904. doi:10.1016/j.rasd.2009.05.002\
+Loveland, K. A., Landry, S. H., Hughes, S. O., Hall, S. K., & McEvoy, R. E. (1988). SPEECH ACTS AND THE PRAGMATIC DEFICITS OF AUTISM. Journal of Speech and Hearing Research, 31(4), 593-604. \
+Lund, K., & Burgess, C. (1996). Producing high-dimensional semantic spaces from lexical co-occurrence. Behavior Research Methods Instruments & Computers, 28(2), 203-208. doi:10.3758/bf03204766\
+Macdonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S. (1994). The lexical nature of syntactic ambiguity resolution. Psychological Review, 101, 676-703. \
+Maddieson, I., & Disner, S. F. (1984). Patterns of sounds: Cambridge University Press.\
+Maess, B., Koelsch, S., Gunter, T. C., & Friederici, A. D. (2001). Musical syntax is processed in Broca's area: an MEG study. Nature Neuroscience, 4(5), 540-545. \
+Mahendra, N., & Arkin, S. (2003). Effects of four years of exercise, language, and social interventions on Alzheimer discourse. Journal of Communication Disorders, 36(5), 395-422. doi:10.1016/s0021-9924(03)00048-0\
+Mahon, B. Z., & Caramazza, A. (2009). Why does lexical selection have to be so hard? Comment on Abdel Rahman and Melinger's swinging lexical network proposal. Language and Cognitive Processes, 24(5), 735-748. doi:10.1080/01690960802597276\
+Mahowald, K., & Fedorenko, E. (2016). Reliable individual-level neural markers of high-level language processing: A necessary precursor for relating neural variability to behavioral and genetic variability. NeuroImage, 139, 74-93. doi:10.1016/j.neuroimage.2016.05.073\
+Marr, D. (1982). Vision: A Computational Approach. San Francisco: Freeman & Co.\
+Martin, I., & McDonald, S. (2003a). Weak coherence, no theory of mind, or executive dysfunction? Solving the puzzle of pragmatic language disorders. Brain and Language, 85(3), 451-466. doi:10.1016/s0093-934x(03)00070-1\
+Martin, I., & McDonald, S. (2003b). Weak coherence, no theory of mind, or executive dysfunction? Solving the puzzle of pragmatic language disorders. Brain and Language, 85(3), 451-466. doi:10.1016/s0093-934x(03)00070-1\
+Martin, R. C., & Blossom-Stach, C. (1986). Evidence of syntactic deficits in a fluent aphasic. Brain and Language, 28(2), 196-234. \
+Maruyama, M., Pallier, C., Jobert, A., Sigman, M., & Dehaene, S. (2012a). The cortical representation of simple mathematical expressions. Neuroimage, 61(4), 1444-1460. doi:10.1016/j.neuroimage.2012.04.020\
+Maruyama, M., Pallier, C., Jobert, A., Sigman, M., & Dehaene, S. (2012b). The cortical representation of simple mathematical expressions. Neuroimage, 61(4), 1444-1460. doi:10.1016/j.neuroimage.2012.04.020\
+McDonald, S. (1992). DIFFERENTIAL PRAGMATIC LANGUAGE LOSS AFTER CLOSED HEAD-INJURY - ABILITY TO COMPREHEND CONVERSATIONAL IMPLICATURE. Applied Psycholinguistics, 13(3), 295-312. doi:10.1017/s0142716400005658\
+McDonald, S. (1993). PRAGMATIC LANGUAGE-SKILLS AFTER CLOSED HEAD-INJURY - ABILITY TO MEET THE INFORMATIONAL NEEDS OF THE LISTENER. Brain and Language, 44(1), 28-46. doi:10.1006/brln.1993.1003\
+McDonald, S., & Brew, C. (2004). A distributional model of semantic context effects in lexical processing. Paper presented at the Proceedings of the 42nd Annual Meeting on Association for Computational Linguistics.\
+McDonald, S., & Pearce, S. (1998). Requests that overcome listener reluctance: Impairment associated with executive dysfunction in brain injury. Brain and Language, 61(1), 88-104. doi:10.1006/brln.1997.1846\
+McDonald, S., & Vansommers, P. (1993). PRAGMATIC LANGUAGE-SKILLS AFTER CLOSED-HEAD INJURY - ABILITY TO NEGOTIATE REQUESTS. Cognitive Neuropsychology, 10(4), 297-315. doi:10.1080/02643299308253466\
+McElree, B., & Griffith, T. (1998). Structural and lexical constraints on filling gaps during sentence comprehension: A time-course analysis. Journal of Experimental Psychology-Learning Memory and Cognition, 24(2), 432-460. doi:10.1037//0278-7393.24.2.432\
+McMullen, M. (1999). Spiderman: half spider or half man? Proceedings of the national academy of spiderman, 5(3), 1-2. \
+Meibauer, J., & Steinbach, M. (2011). Experimental pragmatics/semantics. Gutenberg University: John Benjamins Publishing Company.\
+Melamud, O., Goldberger, J., & Dagan, I. (2016). context2vec: Learning generic context embedding with bidirectional lstm. Paper presented at the Proceedings of The 20th SIGNLL Conference on Computational Natural Language Learning.\
+Menenti, L., Gierhan, S. M., Segaert, K., & Hagoort, P. (2011). Shared language overlap and segregation of the neuronal infrastructure for speaking and listening revealed by functional MRI. Psychological science, 22(9), 1173-1182. \
+Menenti, L., Gierhan, S. M. E., Segaert, K., & Hagoort, P. (2011). Shared language: Overlap and segregation of the neuronal infrastructure for speaking and listening revealed by functional MRI. Psychological Science, 22(9), 1173-1182. \
+Menenti, L., Petersson, K. M., & Hagoort, P. (2012). From reference to sense: how the brain encodes meaning for speaking. Frontiers in Psychology, 3. doi:10.3389/fpsyg.2011.00384\
+Menon, V. (2015). Arithmetic in the Child and Adult Brain (R. Kadosh & A. Dowker Eds.): Oxford University Press.\
+Menon , V. (2016). Working memory in children\'92s math learning and\'a0its disruption in dyscalculia. Current Opinion in Behavioral Sciences, 10, 125\'96132. doi:10.1016/j.cobeha.2016.05.014\
+Mesulam, M.-M., Thompson, C. K., Weintraub, S., & Rogalski, E. J. (2015). The Wernicke conundrum and the anatomy of language comprehension in primary progressive aphasia. Brain, 138(8), 2423-2437. doi:10.1093/brain/awv154\
+Mesulam, M. M. (2001). Primary progressive aphasia. Annals of Neurology, 49(4), 425-432. doi:10.1002/ana.91.abs\
+Meteyard, L., Bruce, C., Edmundson, A., & Oakhill, J. (2015). Profiling text comprehension impairments in aphasia. Aphasiology, 29(1), 1-28. doi:10.1080/02687038.2014.955388\
+Michel, J. B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Pickett, J. P., . . . Google Books, T. (2011a). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176-182. doi:10.1126/science.1199644\
+Michel, J. B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Pickett, J. P., . . . Google Books, T. (2011b). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176-182. doi:10.1126/science.1199644\
+Michel, J. B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Pickett, J. P., . . . Google Books, T. (2011c). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176-182. doi:10.1126/science.1199644\
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013a). Distributed representations of words and phrases and their compositionality. Paper presented at the Advances in neural information processing systems.\
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013b). Distributed representations of words and phrases and their compositionality. Paper presented at the Advances in neural information processing systems.\
+Miller, G. A. (1951). Language and communication. New York-London.\
+Miller, G. A., & Charles, W. G. (1991). CONTEXTUAL CORRELATES OF SEMANTIC SIMILARITY. Language and Cognitive Processes, 6(1), 1-28. doi:10.1080/01690969108406936\
+Miller, G. A., & Selfridge, J. A. (1950). VERBAL CONTEXT AND THE RECALL OF MEANINGFUL MATERIAL. American Journal of Psychology, 63(2), 176-185. doi:10.2307/1418920\
+Milton, J., Solodkin, A., Hlustik, P., & Small, S. L. (2007). The mind of expert motor performance is cool and focused. Neuroimage, 35(2), 804-813. doi:10.1016/j.neuroimage.2007.01.003\
+Milton, J., Solodkin, A., Hlust\'edk, P., & Small, S. L. (2007). The mind of expert motor performance is cool and focused. NeuroImage, 35(2), 804-813. doi:10.1016/j.neuroimage.2007.01.003\
+Mineroff, Z. A., Blank, I., Mahowald, K., & Fedorenko, E. (under review). A robust dissociation among the language, multiple demand, and\'a0 default mode networks: evidence from inter-region correlations in effect\'a0  size. NeuroImage. \
+Mirman, D., Chen, Q., Zhang, Y., Wang, Z., Faseyitan, O. K., Coslett, H. B., & Schwartz, M. F. (2015). Neural organization of spoken language revealed by lesion-symptom mapping. Nature communications, 6. \
+Mitchell, J., & Lapata, M. (2008). Vector-based Models of Semantic Composition. Paper presented at the Proceedings of ACL-08.\
+Mitchell, J., & Lapata, M. (2009). Language models based on semantic composition. Paper presented at the In Proceedings of the 2009 Conference on Empirical Methods in Natural Language\
+Processing.\
+Mitchell, J., & Lapata, M. (2010). Composition in Distributional Models of Semantics. Cognitive Science, 34(8), 1388-1429. doi:10.1111/j.1551-6709.2010.01106.x\
+Mollica, F., Siegelman, M., Diachek, E., Futrell, R., Mineroff, Z., & Piantadosi, S. (In prep). High local mutual information drives the response in the human language network. \
+Monti, M. M., Coleman, M. R., & Owen, A. M. (2009). Neuroimaging and the Vegetative State Resolving the Behavioral Assessment Dilemma? Disorders of Consciousness, 1157, 81-89. doi:10.1111/j.1749-6632.2008.04121.x\
+Monti, M. M., Osherson, D. N., Martinez, M. J., & Parsons, L. M. (2007). Functional neuroanatomy of deductive inference: A language-independent distributed network. Neuroimage, 37(3), 1005-1016. doi:10.1016/j.neuroimage.2007.04.069\
+Monti, M. M., Parsons, L. M., & Osherson, D. N. (2009). The boundaries of language and thought in deductive inference. Proceedings of the National Academy of Sciences of the United States of America, 106(30), 12554-12559. doi:10.1073/pnas.0902422106\
+Monti, M. M., Parsons, L. M., & Osherson, D. N. (2012a). Thought Beyond Language: Neural Dissociation of Algebra and Natural Language. Psychological Science, 23(8), 914-922. doi:10.1177/0956797612437427\
+Monti, M. M., Parsons, L. M., & Osherson, D. N. (2012b). Thought beyond language: Neural dissociation of algebra and natural language. Psychological Science, 23(8), 914-922. doi:10.1177/0956797612437427\
+Morgan, E., & Levy, R. (2016). Abstract knowledge versus direct experience in processing of binomial expressions. Cognition, 157, 384-402. doi:10.1016/j.cognition.2016.09.011\
+Nelson, M. J., El Karoui, I., Giber, K., Yang, X. F., Cohen, L., Koopman, H., . . . Dehaene, S. (2017). Neurophysiological dynamics of phrase-structure building during sentence processing. Proceedings of the National Academy of Sciences of the United States of America, 114(18), E3669-E3678. doi:10.1073/pnas.1701590114\
+Neville, H. J., Bavelier, D., Corina, D., Rauschecker, J., Karni, A., Lalwani, A., . . . Turner, R. (1998). Cerebral organization for language in deaf and hearing subjects: Biological constraints and effects of experience. Proceedings of the National Academy of Sciences of the United States of America, 95(3), 922-929. doi:10.1073/pnas.95.3.922\
+Newman, A. J., Supalla, T., Hauser, P. C., Newport, E. L., & Bavelier, D. (2010). Prosodic and narrative processing in American Sign Language: An fMRI study. Neuroimage, 52(2), 669-676. doi:10.1016/j.neuroimage.2010.03.055\
+Newman, S. D., Malaia, E., Seo, R., & Cheng, H. (2013). The Effect of Individual Differences in Working Memory Capacity on Sentence Comprehension: An fMRI Study. Brain Topography, 26(3), 458-467. doi:10.1007/s10548-012-0264-8\
+Niendam, T. A., Laird, A. R., Ray, K. L., Dean, Y. M., Glahn, D. C., & Carter, C. S. (2012). Meta-analytic evidence for a superordinate cognitive control network subserving diverse executive functions. Cognitive, Affective, & Behavioral Neuroscience, 12(2), 241-268. doi:10.3758/s13415-011-0083-5\
+Nieto-Castanon, A., & Fedorenko, E. (2012a). Subject-specific functional localizers increase sensitivity and functional resolution of multi-subject analyses. Neuroimage, 63(3), 1646-1669. doi:10.1016/j.neuroimage.2012.06.065\
+Nieto-Castanon, A., & Fedorenko, E. (2012b). Subject-specific functional localizers increase sensitivity and functional resolution of multi-subject analyses. NeuroImage, 63(3), 1646-1669. doi:10.1016/j.neuroimage.2012.06.065\
+Nieto-Casta\'f1\'f3n, A., & Fedorenko, E. (2012). Subject-specific functional localizers increase sensitivity and functional resolution of multi-subject analyses. NeuroImage, 63(3), 1646-1669. doi:10.1016/j.neuroimage.2012.06.065\
+Nieuwenhuis, S., Forstmann, B. U., & Wagenmakers, E. J. (2011). Erroneous analyses of interactions in neuroscience: a problem of significance. Nature Neuroscience, 14(9), 1105-1107. doi:10.1038/nn.2886\
+Nili, H., Wingfield, C., Walther, A., Su, L., Marslen-Wilson, W., & Kriegeskorte, N. (2014). A Toolbox for Representational Similarity Analysis. Plos Computational Biology, 10(4). doi:10.1371/journal.pcbi.1003553\
+Noppeney, U., & Price, C. J. (2004a). An fMRI study of syntactic adaptation. Journal of Cognitive Neuroscience, 16(4), 702-713. doi:10.1162/089892904323057399\
+Noppeney, U., & Price, C. J. (2004b). An fMRI study of syntactic adaptation. Journal of Cognitive Neuroscience, 16(4), 702-713. doi:10.1162/089892904323057399\
+Norman, K. A., Polyn, S. M., Detre, G. J., & Haxby, J. V. (2006). Beyond mind-reading: multi-voxel pattern analysis of fMRI data. Trends in Cognitive Sciences, 10(9), 424-430. doi:10.1016/j.tics.2006.07.005\
+Norman-Haignere, S., Kanwisher, N. G., & McDermott, J. H. (2015). Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition. Neuron, 88(6), 1281-1296. doi:10.1016/j.neuron.2015.11.035\
+Noveck, I., & Sperber, D. (2004). Experimental pragmatics. Hampshire: Palgrave macmillan.\
+Novick, J. M., Trueswell, J. C., & Thompson-Schill, S. L. (2005). Cognitive control and parsing: Reexamining the role of Broca's area in sentence comprehension. Cognitive Affective & Behavioral Neuroscience, 5(3), 263-281. doi:10.3758/cabn.5.3.263\
+O'Donnell, T. J. (2015). Productivity and Reuse in Language: A Theory of Linguistic Computation and Storage: MIT Press.\
+Oldfield, R. C. (1971a). The assessment and analysis of handedness: the Edinburgh inventory. Neuropsychologia, 9(1), 97-113. \
+Oldfield, R. C. (1971b). The assessment and analysis of handedness: the Edinburgh inventory. Neuropsychologia, 9(1), 97-113. \
+Osterhout, L., & Holcomb, P. J. (1992). Event-related brain potentials elicited by syntactic anomaly. Journal of Memory and Language, 31(6), 785-806. doi:10.1016/0749-596x(92)90039-z\
+Ozonoff, S., & Miller, J. N. (1996). An exploration of right-hemisphere contributions to the pragmatic impairments of autism. Brain and Language, 52(3), 411-434. doi:10.1006/brln.1996.0022\
+Pado, S., & Lapata, M. (2007). Dependency-based construction of semantic space models. Computational Linguistics, 33(2), 161-199. doi:10.1162/coli.2007.33.2.161\
+Pado, S., Pado, U., & Erk, K. (2007). Flexible, Corpus-Based Modelling of Human Plausibility Judgements. Paper presented at the Proceedings of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning.\
+Pallier, C., Devauchelle, A. D., & Dehaene, S. (2010). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences of the United States of America, 108(6), 2522-2527. doi:10.1073/pnas.1018711108\
+Pallier, C., Devauchelle, A. D., & Dehaene, S. (2011a). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences of the United States of America, 108(6), 2522-2527. doi:10.1073/pnas.1018711108\
+Pallier, C., Devauchelle, A. D., & Dehaene, S. (2011b). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences of the United States of America, 108(6), 2522-2527. doi:10.1073/pnas.1018711108\
+Park, H. (2017). The brains of speech experts and non-experts compared: An fMRI investigation of phonological processing. Linguistic Research, 33(3), 519-533. \
+Park, H. L., O'Connell, J. E., & Thomson, R. G. (2003). A systematic review of cognitive decline in the general elderly population. International Journal of Geriatric Psychiatry, 18(12), 1121-1134. doi:10.1002/gps.1023\
+Patterson, K., Nestor, P. J., & Rogers, T. T. (2007). Where do you know what you know? The representation of semantic knowledge in the human brain. Nature Reviews Neuroscience, 8(12), 976-987. doi:10.1038/nrn2277\
+Paul, R., Landa, R., & Simmons, E. (2014a). Assessing and treating communication. \
+Paul, R., Landa, R., & Simmons, E. (2014b). Assessing communication in autism (2 ed.). New York, NY: Guilford Press.\
+Paul, R., Miles, S., Cicchetti, D., Sparrow, S., Klin, A., Volkmar, F., . . . Booker, S. (2004). Adaptive behavior in autism and Pervasive Developmental Disorder-Not Otherwise Specified: Microanalysis of scores on the Vineland Adaptive Behavior Scales. Journal of Autism and Developmental Disorders, 34(2), 223-228. doi:10.1023/b:jadd.0000022612.18116.46\
+Paunov, A., Blank, I., & Fedorenko, E. (Subm.). A tight relationship between the language and Theory of Mind networks especially during language comprehension. \
+Paunov, A., Blank, I., & Fedorenko, E. (under review). A tight relationship between the language and theory of mind networks especially during language comprehension. \
+Paus, T., Marrett, S., Worsley, K., & Evans, A. (1996). Imaging motor-to-sensory discharges in the human brain: An experimental tool for the assessment of functional connectivity. Neuroimage, 4(2), 78-86. doi:10.1006/nimg.1996.0031\
+Pawlik, M., & Augsten, N. (2011). RTED: a robust algorithm for the tree edit distance. Proceedings of the VLDB Endowment, 5(4), 334-345. \
+Pearce, S., McDonald, S., & Coltheart, M. (1998). Interpreting ambiguous advertisements: The effect of frontal lobe damage. Brain and Cognition, 38(2), 150-164. doi:10.1006/brcg.1998.1018\
+Peelen, M. V., Glaser, B., Vuilleumier, P., & Eliez, S. (2009). Differential development of selectivity for faces and bodies in the fusiform gyrus. Developmental Science, 12(6), F16-F25. doi:10.1111/j.1467-7687.2009.00916.x\
+Pennington, J., Socher, R., & Manning, C. D. (2014a). GloVe: Global Vectors for Word Representation. Paper presented at the Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP),.\
+Pennington, J., Socher, R., & Manning, C. D. (2014b). GloVe: Global Vectors for Word Representation. Paper presented at the Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP),.\
+Pereira, F., Botvinick, M., & Detre, G. (2013). Using Wikipedia to learn semantic feature representations of concrete concepts in neuroimaging experiments. Artificial Intelligence, 194, 240-252. doi:10.1016/j.artint.2012.06.005\
+Pereira, F., Gershman, S., Ritter, S., & Botvinick, M. (2016a). A comparative evaluation of off-the-shelf distributed semantic representations for modelling behavioural data. Cognitive Neuropsychology, 33(3-4), 175-190. doi:10.1080/02643294.2016.1176907\
+Pereira, F., Gershman, S., Ritter, S., & Botvinick, M. (2016b). A comparative evaluation of off-the-shelf distributed semantic representations for modelling behavioural data. Cognitive Neuropsychology, 33(3-4), 175-190. doi:10.1080/02643294.2016.1176907\
+Pereira, F., Lou, B., Pritchett, B., Ritter, S., Gershman, S. J., Kanwisher, N., . . . Fedorenko, E. (2018). Toward a universal decoder of linguistic meaning from brain activation. Nature Communications, 9. doi:10.1038/s41467-018-03068-4\
+Perkins, M. R. (1998). Is pragmatics epiphenomenal? Evidence from communication disorders. Journal of Pragmatics, 29(3), 291-311. doi:10.1016/s0378-2166(97)00055-6\
+Petersen, S. E., Fox, P. T., Snyder, A. Z., & Raichle, M. E. (1990). ACTIVATION OF EXTRASTRIATE AND FRONTAL CORTICAL AREAS BY VISUAL WORDS AND WORD-LIKE STIMULI. Science, 249(4972), 1041-1044. doi:10.1126/science.2396097\
+Petrini, K., Piwek, L., Crabbe, F., Pollick, F. E., & Garrod, S. (2014). Look at Those Two!: The Precuneus Role in Unattended Third-Person Perspective of Social Interactions. Human Brain Mapping, 35(10), 5190-5203. doi:10.1002/hbm.22543\
+Piantadosi, S. T., & Fedorenko, E. (2017). Infinitely productive language can arise from chance under communicative pressure. Journal of Language Evolution, 2(2), 141-147. doi:10.1093/jole/lzw013\
+Piantadosi, S. T., Jara-Ettinger, J., & Gibson, E. (2014). Children's learning of number words in an indigenous farming-foraging group. Developmental Science, 17(4), 553-563. doi:10.1111/desc.12078\
+Piantadosi, S. T., Tily, H., & Gibson, E. (2011). Word lengths are optimized for efficient communication. PNAS, 108(9), 3526-3529. \
+Pickering, M. J., & Ferreira, V. S. (2008a). Structural priming: A critical review. Psychological Bulletin, 134(3), 427-459. doi:10.1037/0033-2909.134.3.427\
+Pickering, M. J., & Ferreira, V. S. (2008b). Structural priming: A critical review. Psychological Bulletin, 134(3), 427-459. doi:10.1037/0033-2909.134.3.427\
+Pickering, M. J., & Garrod, S. (2013). An integrated theory of language production and comprehension. Behavioral and Brain Sciences, 36(4), 329-347. doi:10.1017/s0140525x12001495\
+Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., . . . Dehaene, S. (2007). Fast reproducible identification and large-scale databasing of individual functional cognitive networks. Bmc Neuroscience, 8. doi:10.1186/1471-2202-8-91\
+Pinker, S. (1989). Learnability and Cognition: The Acquisition of Argument Structure. Cambridge, MA: MIT Press.\
+Pinker, S. (1991). Rules of language. Science, 253(5019), 530-535. doi:10.1126/science.1857983\
+Pinker, S. (1995a). The language instinct: William Morrow and Company.\
+Pinker, S. (1995b). The language instinct: William Morrow and Company.\
+Pinker, S. (1999). Words and rules: The ingredients of language. London: Weidenfeld & Nicolson.\
+Poldrack, R. A. (2000). Imaging brain plasticity: Conceptual and methodological issues - A theoretical review. Neuroimage, 12(1), 1-13. doi:10.1006/nimg.2000.0596\
+Poldrack, R. A. (2006). Can cognitive processes be inferred from neuroimaging data? Trends in Cognitive Sciences, 10(2), 59-63. doi:10.1016/j.tics.2005.12.004\
+Poldrack, R. A. (2011). Inferring Mental States from Neuroimaging Data: From Reverse Inference to Large-Scale Decoding. Neuron, 72(5), 692-697. doi:10.1016/j.neuron.2011.11.001\
+Poldrack, R. A., Baker, C. I., Durnez, J., Gorgolewski, K. J., Matthews, P. M., Munafo, M. R., . . . Yarkoni, T. (2017a). Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, 18(2), 115-126. doi:10.1038/nrn.2016.167\
+Poldrack, R. A., Baker, C. I., Durnez, J., Gorgolewski, K. J., Matthews, P. M., Munafo, M. R., . . . Yarkoni, T. (2017b). Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, 18(2), 115-126. doi:10.1038/nrn.2016.167\
+Poldrack, R. A., Baker, C. I., Durnez, J., Gorgolewski, K. J., Matthews, P. M., Munaf\'f2, M. R., . . . Yarkoni, T. (2017a). Scanning the horizon: Towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, 18, 115-126. \
+Poldrack, R. A., Baker, C. I., Durnez, J., Gorgolewski, K. J., Matthews, P. M., Munaf\'f2, M. R., . . . Yarkoni, T. (2017b). Scanning the horizon: Towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, 18, 115-126. \
+Poldrack, R. A., & Gorgolewski, K. J. (2017). OpenfMRI: Open sharing of task fMRI data. Neuroimage, 144, 259-261. doi:10.1016/j.neuroimage.2015.05.073\
+Potts, C., Lassiter, D., Levy, R., & Frank, M. (In press). Embedded implicatures as pragmatic inferences under compositional lexical uncertainty. Journal of Semantics. \
+Power, J. D., Cohen, A. L., Nelson, S. M., Wig, G. S., Barnes, K. A., Church, J. A., . . . Petersen, S. E. (2011). Functional Network Organization of the Human Brain. Neuron, 72(4), 665-678. doi:10.1016/j.neuron.2011.09.006\
+Price, C. J. (2010). The anatomy of language: a review of 100 fMRI studies published in 2009. Year in Cognitive Neuroscience 2010, 1191, 62-88. doi:10.1111/j.1749-6632.2010.05444.x\
+Pritchett, B., Hoeflin, C., Koldewyn, K., Dechter, E., & Fedorenko, E. (Under review). High-level language processing regions are not engaged in action observation or imitation. \
+Protzner, A. B., Hargreaves, I. S., Campbell, J. A., Myers-Stewart, K., van Hees, S., Goodyear, B. G., . . . Pexman, P. M. (2016). This is your brain on Scrabble: Neural correlates of visual word recognition in competitive Scrabble players as measured during task and resting-state. Cortex, 75, 204-219. doi:10.1016/j.cortex.2015.03.015\
+Rafferty, A., & Manning, C. D. (2008). Parsing Three German Treebanks: Lexicalized and Unlexicalized Baselines. Paper presented at the ACL Workshop on Parsing German.\
+Raven, J., Raven, J. C., & Court, J. H. (1998). Manual for Raven\'92s Advanced Progressive Matrices. Oxford, England: Oxford Psychologists Press.\
+Reithler, J., van Mier, H. I., & Goebel, R. (2010a). Continuous motor sequence learning: cortical efficiency gains accompanied by striatal functional reorganization. NeuroImage, 52(1), 263-276. doi:10.1016/j.neuroimage.2010.03.073\
+Reithler, J., van Mier, H. I., & Goebel, R. (2010b). Continuous motor sequence learning: Cortical efficiency gains accompanied by striatal functional reorganization. Neuroimage, 52(1), 263-276. doi:10.1016/j.neuroimage.2010.03.073\
+Robertson, D. A., Gernsbacher, M. A., Guidotti, S. J., Robertson, R. R. W., Irwin, W., Mock, B. J., & Campana, M. E. (2000). Functional neuroanatomy of the cognitive process of mapping during discourse comprehension. Psychological Science, 11(3), 255-260. doi:10.1111/1467-9280.00251\
+Rodd, J. M., Vitello, S., Woollams, A. M., & Adank, P. (2015). Localising semantic and syntactic processing in spoken and written language comprehension: An Activation Likelihood Estimation meta-analysis. Brain and Language, 141, 89-102. doi:10.1016/j.bandl.2014.11.012\
+Roder, B., Stock, O., Neville, H., Bien, S., & Rosler, F. (2002). Brain activation modulated by the comprehension of normal and pseudo-word sentences of different processing demands: A functional magnetic resonance Imaging study. Neuroimage, 15(4), 1003-1014. doi:10.1006/nimg.2001.1026\
+Rogalsky, C., Rong, F., Saberi, K., & Hickok, G. (2011). Functional Anatomy of Language and Music Perception: Temporal and Structural Factors Investigated Using Functional Magnetic Resonance Imaging. Journal of Neuroscience, 31(10), 3843-3852. doi:10.1523/jneurosci.4515-10.2011\
+Routledge, Z. G. T. P. o. L. L., & 1936.\
+Rushton, J. P. (2004). Genetic and environmental contributions to pro-social attitudes: a twin study of social responsibility. Proceedings of the Royal Society B-Biological Sciences, 271(1557), 2583-2585. doi:10.1098/rspb.2004.2941\
+Rustandi, I., Just, M. A., & Mitchell, T. (2009). Integrating multiple-study multiple-subject fMRI\
+datasets using canonical correlation analysis. Paper presented at the Proceedings of the MICCAI 2009 Workshop: Statistical\
+modeling and detection issues in intra-and inter-subject functional MRI data\
+analysis. \
+Ryskin, R. A., Wang, R. F., & Brown-Schmidt, S. (2016). Listeners use speaker identity to access representations of spatial perspective during online language comprehension. Cognition, 147, 75-84. doi:10.1016/j.cognition.2015.11.011\
+Sahin, N. T., Pinker, S., Cash, S. S., Schomer, D., & Halgren, E. (2009). Sequential Processing of Lexical, Grammatical, and Phonological Information Within Broca's Area. Science, 326(5951), 445-449. doi:10.1126/science.1174481\
+Sahin, N. T., Pinker, S., & Halgren, E. (2006). Abstract grammatical processing of nouns and verbs in Broca's area: Evidence from fMRI. Cortex, 42(4), 540-562. \
+Sahlgren, M. (2008). The distributional hypothesis. Italian Journal of Linguistics, 20(1). \
+Santi, A., & Grodzinsky, Y. (2010). fMRI adaptation dissociates syntactic complexity dimensions. Neuroimage, 51(4), 1285-1293. doi:10.1016/j.neuroimage.2010.03.034\
+Saur, D., Kreher, B. W., Schnell, S., Kummerer, D., Kellmeyer, P., Vry, M. S., . . . Weiller, C. (2008a). Ventral and dorsal pathways for language. Proceedings of the National Academy of Sciences of the United States of America, 105(46), 18035-18040. doi:10.1073/pnas.0805234105\
+Saur, D., Kreher, B. W., Schnell, S., Kummerer, D., Kellmeyer, P., Vry, M. S., . . . Weiller, C. (2008b). Ventral and dorsal pathways for language. Proceedings of the National Academy of Sciences of the United States of America, 105(46), 18035-18040. doi:10.1073/pnas.0805234105\
+Saussure, D. (1916/2011). Course in general linguistics: Columbia University Press.\
+Saxe, R., Brett, M., & Kanwisher, N. (2006). Divide and conquer: A defense of functional localizers. NeuroImage, 30(4), 1088-1096. doi:10.1016/j.neuroimage.2005.12.062\
+Saxe, R., & Kanwisher, N. (2003a). People thinking about thinking people - The role of the temporo-parietal junction in "theory of mind". Neuroimage, 19(4), 1835-1842. doi:10.1016/s1053-8119(03)00230-1\
+Saxe, R., & Kanwisher, N. (2003b). People thinking about thinking people - The role of the temporo-parietal junction in "theory of mind". NeuroImage, 19(4), 1835-1842. doi:10.1016/s1053-8119(03)00230-1\
+Saxe, R., & Powell, L. J. (2006). It's the thought that counts: Specific brain regions for one component of theory of mind. Psychological Science, 17(8), 692-699. doi:10.1111/j.1467-9280.2006.01768.x\
+Saxe, R., Schulz, L. E., & Jiang, Y. V. (2006a). Reading minds versus following rules: Dissociating theory of mind and executive control in the brain. Social Neuroscience, 1(3-4), 284-298. doi:10.1080/17470910601000446\
+Saxe, R., Schulz, L. E., & Jiang, Y. V. (2006b). Reading minds versus following rules: Dissociating theory of mind and executive control in the brain. Social Neuroscience, 1(3-4), 284-298. doi:10.1080/17470910601000446\
+Saxe, R., & Young, L. (2016). Theory of mind: How brains think\'a0about thoughts. In K. Ochsner & S. M. Kosslyn (Eds.), The Handbook of Cognitive Neuroscience (Vol. 2). Oxford: Oxford University Press.\
+Saygin, Z. M., Osher, D. E., Koldewyn, K., Reynolds, G., Gabrieli, J. D., & Saxe, R. R. (2011). Anatomical connectivity patterns predict face selectivity in the fusiform gyrus. Nature Neuroscience, 15(2), 321-327. doi:10.1038/nn.3001\
+Scheepers, C., Raffray, C., & Myachykov, A. (2017). The lexical boost effect is not diagnostic of lexically-specific syntactic representations. Memory and Language, 95, 102-115. \
+Scholz, J., Klein, M. C., Behrens, T. E., & Johansen-Berg, H. (2009). Training induces changes in white-matter architecture. Nat Neurosci, 12(11), 1370-1371. doi:10.1038/nn.2412\
+Schuh, J. M., Eigsti, I. M., & Mirman, D. (2016). Discourse comprehension in autism spectrum disorder: Effects of working memory load and common ground. Autism Research, 9(12), 1340-1352. \
+Schuster, S., Hawelka, S., Hutzler, F., Kronbichler, M., & Richlan, F. (2016). Words in Context: The Effects of Length, Frequency, and Predictability on Brain Responses During Natural Reading. Cerebral Cortex, 26(10), 3889-3904. doi:10.1093/cercor/bhw184\
+Scott, T. L., Gallee, J., & Fedorenko, E. (2016a). A new fun and robust version of an fMRI localizer for the frontotemporal language system. Cognitive Neuroscience, 1-10. doi:10.1080/17588928.2016.1201466\
+Scott, T. L., Gallee, J., & Fedorenko, E. (2016b). A new fun and robust version of an fMRI localizer for the frontotemporal language system. Cognitive Neuroscience, 1-10. doi:10.1080/17588928.2016.1201466\
+Scott, T. L., Gallee, J., & Fedorenko, E. (2016c). A new fun and robust version of an fMRI localizer for the frontotemporal language system. Cognitive Neuroscience, 1-10. doi:10.1080/17588928.2016.1201466\
+Scott, T. L., Gallee, J., & Fedorenko, E. (2016d). A new fun and robust version of an fMRI localizer for the frontotemporal language system. Cognitive Neuroscience, 1-10. doi:10.1080/17588928.2016.1201466\
+Scott, T. L., Gallee, J., & Fedorenko, E. (2016e). A new fun and robust version of an fMRI localizer for the frontotemporal language system. Cognitive Neuroscience, 1-10. doi:10.1080/17588928.2016.1201466\
+Sebastian, R., Laird, A. R., & Kiran, S. (2011). Meta-analysis of the neural representation of first language and second language. Applied Psycholinguistics, 32(4), 799-819. doi:10.1017/s0142716411000075\
+Seeley, W. W., Crawford, R. K., Zhou, J., Miller, B. L., & Greicius, M. D. (2009). Neurodegenerative Diseases Target Large-Scale Human Brain Networks. Neuron, 62(1), 42-52. doi:10.1016/j.neuron.2009.03.024\
+Seeley, W. W., Menon, V., Schatzberg, A. F., Keller, J., Glover, G. H., Kenna, H., . . . Greicius, M. D. (2007). Dissociable intrinsic connectivity networks for salience processing and executive control. Journal of Neuroscience, 27(9), 2349-2356. doi:10.1523/jneurosci.5587-06.2007\
+Segaert, K., Menenti, L., Weber, K., Petersson, K. M., & Hagoort, P. (2012). Shared syntax in language production and language comprehension - an fMRI Study. Cerebral Cortex, 22(7), 1662-1670. doi:10.1093/cercor/bhr249\
+Shah, L. M., Cramer, J. A., Ferguson, M. A., Birn, R. M., & Anderson, J. S. (2016). Reliability and reproducibility of individual differences in functional connectivity acquired during task and resting state. Brain and Behavior, 6(5), e00456. doi:10.1002/brb3.456\
+Shakeshaft, N. G., & Plomin, R. (2015). Genetic specificity of face recognition. Proceedings of the National Academy of Sciences of the United States of America, 112(41), 12887-12892. doi:10.1073/pnas.1421881112\
+Shamay-Tsoory, S. G., Tomer, R., Berger, B. D., Goldsher, D., & Aharon-Peretz, J. (2005). Impaired "affective theory of mind" is associated with right ventromedial prefrontal damage. Cognitive and Behavioral Neurology, 18(1), 55-67. doi:10.1097/01.wnn.0000152228.90129.99\
+Shannon, C. E., & Weaver, W. (1949a). The mathematical theory of communication. Urbana: University of Illinois Press.\
+Shannon, C. E., & Weaver, W. (1949b). The mathematical theory of communication. Urbana: University of Illinois Press.\
+Shannon, C. E., & Weaver, W. (1949c). The mathematical theory of communication. Urbana: University of Illinois Press.\
+Shuman, M., & Kanwisher, N. (2004). Numerical magnitude in the human parietal lobe; tests of representational generality and domain specificity. Neuron, 44(3), 557-569. doi:10.1016/j.neuron.2004.10.008\
+Siegelman, M., Mineroff, Z., Blank, I., & Fedorenko, E. (2017). An attempt to replicate a dissociation between syntax and semantics during sentence comprehension reported by Dapretto & Bookheimer (1999, Neuron). bioRxiv. \
+Silver, N. C., & Dunlap, W. P. (1987). Averaging correlation coefficients: Should Fisher's z transformation be used? Journal of Applied Psychology, 72(1), 146-148. doi:10.1037/0021-9010.72.1.146\
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011a). False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359-1366. doi:10.1177/0956797611417632\
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011b). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359-1366. doi:10.1177/0956797611417632\
+Simonsohn, U. (2015). Small telescopes: Detectability and the evaluation of replication results. Psychological Science, 26(5), 559-569. doi:10.1177/0956797614567341\
+Simonsohn, U., Simmons, J. P., & Nelson, L. D. (2015). Better P-Curves: Making P-Curve analysis more robust to errors, fraud, and ambitious P-hacking, a reply to Ulrich and Miller (2015). Journal of Experimental Psychology-General, 144(6), 1146-1152. doi:10.1037/xge0000104\
+Smith, N. J. (submitted). ZS: A file format for efficiently distributing, using, and archiving\
+record-oriented data sets of any size. \
+Snijders, T. M., Vosse, T., Kempen, G., Van Berkum, J. J. A., Petersson, K. M., & Hagoort, P. (2009a). Retrieval and Unification of Syntactic Structure in Sentence Comprehension: an fMRI Study Using Word-Category Ambiguity. Cerebral Cortex, 19(7), 1493-1503. doi:10.1093/cercor/bhn187\
+Snijders, T. M., Vosse, T., Kempen, G., Van Berkum, J. J. A., Petersson, K. M., & Hagoort, P. (2009b). Retrieval and Unification of Syntactic Structure in Sentence Comprehension: an fMRI Study Using Word-Category Ambiguity. Cerebral Cortex, 19(7), 1493-1503. doi:10.1093/cercor/bhn187\
+Socher, R., Huang, E. H., Pennington, J., Ng, A. Y., & Manning, C. D. (2011). Dynamic pooling and unfolding recursive autoencoders for paraphrase detection. Paper presented at the Proceedings of the 24th International Conference on Neural Information Processing Systems.\
+Socher, R., Huval, B., Manning, C. D., & Ng, A. Y. (2012). Semantic compositionality through recursive matrix-vector  spaces. Paper presented at the Proceedings of the 2012 Joint Conference on  Empirical Methods in Natural Language Processing and  Computational Natural Language Learning.\
+Spelke, E. S. (2017). Cognitive abilities of infants. Cambridge, UK: Cambridge University Press.\
+Sperber, D., & Wilson, D. (1987). PRESUMPTIONS OF RELEVANCE - REPLY. Behavioral and Brain Sciences, 10(4), 736-751. \
+Sporns, O. (2013). Structure and function of complex brain networks. Dialogues in clinical neuroscience, 15(3), 247-262. \
+Steinmetz, H., & Seitz, R. J. (1991). FUNCTIONAL-ANATOMY OF LANGUAGE PROCESSING - NEUROIMAGING AND THE PROBLEM OF INDIVIDUAL VARIABILITY. Neuropsychologia, 29(12), 1149-1161. doi:10.1016/0028-3932(91)90030-c\
+Stothers, M. E., & Cardy, J. O. (2012). Oral language impairments in developmental disorders characterized by language strengths: A comparison of Asperger syndrome and nonverbal learning disabilities. Research in Autism Spectrum Disorders, 6(1), 519-534. doi:10.1016/j.rasd.2011.07.013\
+Swineford, L. B., Thurm, A., Baird, G., Wetherby, A. M., & Swedo, S. (2014). Social (pragmatic) communication disorder: a research review of this new DSM-5 diagnostic category. Journal of Neurodevelopmental Disorders, 6. doi:10.1186/1866-1955-6-41\
+Tabor, W., Galantucci, B., & Richardson, D. (2004a). Effects of merely local syntactic coherence on sentence processing. Journal of Memory and Language, 50(4), 355-370. doi:10.1016/j.jml.2004.01.001\
+Tabor, W., Galantucci, B., & Richardson, D. (2004b). Effects of merely local syntactic coherence on sentence processing. Journal of Memory and Language, 50(4), 355-370. doi:10.1016/j.jml.2004.01.001\
+Tagerflusberg, H. (1981). ON THE NATURE OF LINGUISTIC FUNCTIONING IN EARLY INFANTILE-AUTISM. Journal of Autism and Developmental Disorders, 11(1), 45-56. doi:10.1007/bf01531340\
+Tahmasebi, A. M., Davis, M. H., Wild, C. J., Rodd, J. M., Hakyemez, H., Abolmaesumi, P., & Johnsrude, I. S. (2012a). Is the Link between Anatomical Structure and Function Equally Strong at All Cognitive Levels of Processing? Cerebral Cortex, 22(7), 1593-1603. doi:10.1093/cercor/bhr205\
+Tahmasebi, A. M., Davis, M. H., Wild, C. J., Rodd, J. M., Hakyemez, H., Abolmaesumi, P., & Johnsrude, I. S. (2012b). Is the Link between Anatomical Structure and Function Equally Strong at All Cognitive Levels of Processing? Cerebral Cortex, 22(7), 1593-1603. doi:10.1093/cercor/bhr205\
+Takahashi, S., & Tanaka-Ishii, K. (2017). Do neural nets learn statistical laws behind natural language? Plos One, 12(12). doi:10.1371/journal.pone.0189326\
+Taylor, K. I., & Regard, M. (2003). Language in the right cerebral hemisphere: Contributions from reading studies. News in Physiological Sciences, 18, 257-261. doi:10.1152/nips.01454.2003\
+Team, S. D. (2018). RStan: the R interface to Stan (Version R package version 2.17.3). \
+The Open Science Collaboration. (2015). PSYCHOLOGY. Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. doi:10.1126/science.aac4716\
+Thesen, S., Heid, O., Mueller, E., & Schad, L. R. (2000a). Prospective acquisition correction for head motion with image-based tracking for real-time fMRI. Magnetic Resonance in Medicine, 44(3), 457-463. doi:10.1002/1522-2594(200009)44:3<457::aid-mrm17>3.0.co;2-r\
+Thesen, S., Heid, O., Mueller, E., & Schad, L. R. (2000b). Prospective acquisition correction for head motion with image-based tracking for real-time fMRI. Magnetic Resonance in Medicine, 44(3), 457-463. doi:10.1002/1522-2594(200009)44:3<457::aid-mrm17>3.0.co;2-r\
+Thomas, C., & Baker, C. I. (2013). Teaching an adult brain new tricks: A critical review of evidence for training-dependent structural plasticity in humans. Neuroimage, 73, 225-236. doi:10.1016/j.neuroimage.2012.03.069\
+Thompson-Schill, S. L., D'Esposito, M., Aguirre, G. K., & Farah, M. J. (1997). Role of left inferior prefrontal cortex in retrieval of semantic knowledge: A reevaluation. Proceedings of the National Academy of Sciences of the United States of America, 94(26), 14792-14797. doi:10.1073/pnas.94.26.14792\
+Tie, Y. M., Rigolo, L., Norton, I. H., Huang, R. Y., Wu, W. T., Orringer, D., . . . Golby, A. J. (2014). Defining language networks from resting-state fMRI for surgical planning-a feasibility study. Human Brain Mapping, 35(3), 1018-1030. doi:10.1002/hbm.22231\
+Tomaiuolo, F., MacDonald, J. D., Caramanos, Z., Posner, G., Chiavaras, M., Evans, A. C., & Petrides, M. (1999a). Morphology, morphometry and probability mapping of the pars opercularis of the inferior frontal gyrus: an in vivo MRI analysis. European Journal of Neuroscience, 11(9), 3033-3046. doi:10.1046/j.1460-9568.1999.00718.x\
+Tomaiuolo, F., MacDonald, J. D., Caramanos, Z., Posner, G., Chiavaras, M., Evans, A. C., & Petrides, M. (1999b). Morphology, morphometry and probability mapping of the pars opercularis of the inferior frontal gyrus: an in vivo MRI analysis. European Journal of Neuroscience, 11(9), 3033-3046. doi:10.1046/j.1460-9568.1999.00718.x\
+Traxler, M. J. (2014). Trends in syntactic parsing: anticipation, Bayesian estimation, and good-enough parsing. Trends in Cognitive Sciences, 18(11), 605-611. doi:10.1016/j.tics.2014.08.001\
+Traxler, M. J., Morris, R. K., & Seely, R. E. (2002). Processing subject and object relative clauses: Evidence from eye movements. Journal of Memory and Language, 47(1), 69-90. doi:10.1006/jmla.2001.2836\
+Tremblay, P., & Dick, A. S. (2016a). Broca and Wernicke are dead, or moving past the classic model of language neurobiology. Brain and Language, 162, 60-71. doi:10.1016/j.bandl.2016.08.004\
+Tremblay, P., & Dick, A. S. (2016b). Broca and Wernicke are dead, or moving past the classic model of language neurobiology. Brain and Language, 162, 60-71. doi:10.1016/j.bandl.2016.08.004\
+Turken. In.\
+Turken, A. U., & Dronkers, N. F. (2011). The neural architecture of the language comprehension network: converging evidence from lesion and connectivity analyses. Frontiers in systems neuroscience, 5, 1. doi:10.3389/fnsys.2011.00001\
+Turney, P. D., & Pantel, P. (2010). From Frequency to Meaning: Vector Space Models of Semantics. Journal of Artificial Intelligence Research, 37, 141-188. \
+Tyler, L. K., Marslen-Wilson, W. D., Randall, B., Wright, P., Devereux, B. J., Zhuang, J., . . . Stamatakis, E. A. (2011). Left inferior frontal cortex and syntax: function, structure and behaviour in patients with left hemisphere damage. Brain, 134, 415-431. doi:10.1093/brain/awq369\
+Tzourio-Mazoyer, N., Landeau, B., Papathanassiou, D., Crivello, F., Etard, O., Delcroix, N., . . . Joliot, M. (2002). Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain. NeuroImage, 15(1), 273-289. doi:10.1006/nimg.2001.0978\
+Uchiyama, H., Seki, A., Kageyama, H., Saito, D. N., Koeda, T., Ohno, K., & Sadato, N. (2006). Neural substrates of sarcasm: A functional magnetic-resonance imaging study. Brain Research, 1124, 100-110. doi:10.1016/j.brainres.2006.09.088\
+Ullman, M. T. (2016). The Declarative/Procedural Model : A Neurobiological Model of Language Learning, Knowledge, and Use. In Neurobiology of Language: Academic Press.\
+uncertainty, E. i. a. p. i. u. c. l. \
+Vagharchakian, L., Dehaene-Lambertz, G., Pallier, C., & Dehaene, S. (2012). A temporal bottleneck in the language comprehension network. Journal of Neuroscience, 32(26), 9089-9102. doi:10.1523/jneurosci.5685-11.2012\
+van de Meerendonk, N., Indefrey, P., Chwilla, D. J., & Kolk, H. H. J. (2011). Monitoring in language perception: Electrophysiological and hemodynamic responses to spelling violations. Neuroimage, 54(3), 2350-2363. doi:10.1016/j.neuroimage.2010.10.022\
+van de Meerendonk, N., Kolk, H. H. J., Vissers, C., & Chwilla, D. J. (2010). Monitoring in Language Perception: Mild and Strong Conflicts Elicit Different ERP Patterns. Journal of Cognitive Neuroscience, 22(1), 67-82. doi:10.1162/jocn.2008.21170\
+van de Meerendonk, N., Kolk, H. J., & Chwilla, D. J. (2009). Monitoring in language perception \'a0Language and Linguistics Compass, 3(5), 1211-1224. \
+van Hees, S., McMahon, K., Angwin, A., de Zubicaray, G., Read, S., & Copland, D. A. (2014). A Functional MRI Study of the Relationship Between Naming Treatment Outcomes and Resting State Functional Connectivity in Post-Stroke Aphasia. Human Brain Mapping, 35(8), 3919-3931. doi:10.1002/hbm.22448\
+van Heuven, W. J. B., & Dijkstra, T. (2010). Language comprehension in the bilingual brain: fMRI and ERP support for psycholinguistic models. Brain Research Reviews, 64(1), 104-122. doi:10.1016/j.brainresrev.2010.03.002\
+Varley, R., & Siegal, M. (2000). Evidence for cognition without grammar from causal reasoning and 'theory of mind' in an agrammatic aphasic patient. Current Biology, 10(12), 723-726. doi:10.1016/s0960-9822(00)00538-8\
+Varley, R. A., Klessinger, N. J. C., Romanowski, C. A. J., & Siegal, M. (2005). Agrammatic but numerate. Proceedings of the National Academy of Sciences of the United States of America, 102(9), 3519-3524. doi:10.1073/pnas.0407470102\
+Vecci, E. M., Baroni, M., & Zamparelli, R. (2011). (Linear) maps of the impossible: Capturing\
+semantic anomalies in distributional space. Paper presented at the Proceedings of the ACL Workshop on Distributional\
+Semantics and Compositionality.\
+Veldhoen, S., Hupkes, D., & Zuidema, W. (2016). Diagnostic Classifiers Revealing how Neural Networks Process Hierarchical Structure. Paper presented at the CoCo@ NIPS.\
+Vincent, J. L., Kahn, I., Snyder, A. Z., Raichle, M. E., & Buckner, R. L. (2008). Evidence for a Frontoparietal Control System Revealed by Intrinsic Functional Connectivity. Journal of Neurophysiology, 100(6), 3328-3342. doi:10.1152/jn.90355.2008\
+Vissers, C., Chwilla, D. J., & Kolk, H. H. J. (2006). Monitoring in language perception: The effect of misspellings of words in highly constrained sentences. Brain Research, 1106, 150-163. doi:10.1016/j.brainres.2006.05.012\
+Vissers, C., Chwilla, D. J., & Kolk, H. H. J. (2007). The interplay of heuristics and parsing routines in sentence comprehension: Evidence from ERPs and reaction times. Biological Psychology, 75(1), 8-18. doi:10.1016/j.biopsycho.2006.10.004\
+von Luxburg, U. (2007). A tutorial on spectral clustering. Statistics and Computing, 17(4), 395-416. doi:10.1007/s11222-007-9033-z\
+Walsh, V. (2003). A theory of magnitude: common cortical metrics of time, space and quantity. Trends in Cognitive Science, 7(11), 483-488. \
+Wang, W., Wang, M., Liu, H., Yuan, B., Wang, J., Li, H., . . . Li, J. (2014). Functional connectivity in ischemia stroke motor aphasia patients during resting state. Zhonghua yi xue za zhi, 94(27), 2135-2138. \
+Warriner, A. B., Kuperman, V., & Brysbaert, M. (2013). Norms of valence, arousal, and dominance for 13,915 English lemmas. Behavior Research Methods, 45(4), 1191-1207. doi:10.3758/s13428-012-0314-x\
+Wehbe, L., Murphy, B., Talukdar, P., Fyshe, A., Ramdas, A., & Mitchell, T. (2014). Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses. Plos One, 9(11). doi:10.1371/journal.pone.0112575\
+Weissman, M. M., Wickramaratne, P., Adams, P., Wolk, S., Verdeli, H., & Olfson, M. (2000). Brief screening for family psychiatric history: the family history screen. Archives of General Psychiatry, 57(7), 675-682. \
+Whitfield-Gabrieli, S., & Nieto-Castanon, A. (2012). Conn: a functional connectivity toolbox for correlated and anticorrelated brain networks. Brain Connectivity, 2(3), 125-141. doi:10.1089/brain.2012.0073\
+Wijsman, E. M., Robinson, N. M., Ainsworth, K. H., Rosenthal, E. A., Holzman, T., & Raskind, W. H. (2004). Familial aggregation patterns in mathematical ability. Behavior Genetics, 34(1), 51-62. doi:10.1023/B:BEGE.0000009476.33020.b9\
+Willems, R. M., Benn, Y., Hagoort, P., Toni, I., & Varley, R. (2011). Communicating without a functioning language system: Implications for the role of language in mentalizing. Neuropsychologia, 49(11), 3130-3135. doi:10.1016/j.neuropsychologia.2011.07.023\
+Willems, R. M., Frank, S. L., Nijhof, A. D., Hagoort, P., & van den Bosch, A. (2016). Prediction During Natural Language Comprehension. Cerebral Cortex, 26(6), 2506-2516. doi:10.1093/cercor/bhv075\
+Willems, R. M., Van der Haegen, L., Fisher, S. E., & Francks, C. (2014). On the other hand: including left-handers in cognitive neuroscience and neurogenetics. Nature Reviews Neuroscience, 15(3), 193-201. doi:10.1038/nrn3679\
+Williams, D., Botting, N., & Boucher, J. (2008). Language in Autism and Specific Language Impairment: Where Are the Links? Psychological Bulletin, 134(6), 944-963. doi:10.1037/0013743\
+Wilson, S. M., Galantucci, S., Tartaglia, M. C., Rising, K., Patterson, D. K., Henry, M. L., . . . Gorno-Tempini, M. L. (2011). Syntactic processing depends on dorsal language tracts. Neuron, 72(2), 397-403. doi:10.1016/j.neuron.2011.09.014\
+Wittgenstein, L. (1953/2010). Philosophical investigations: Wiley-Blackwell.\
+Woolgar, A., Parr, A., Cusack, R., Thompson, R., Nimmo-Smith, I., Torralva, T., . . . Duncan, J. (2010). Fluid intelligence loss linked to restricted regions of damage within frontal and parietal cortex. Proceedings of the National Academy of Sciences of the United States of America, 107(33), 14899-14902. doi:10.1073/pnas.1007928107\
+Yamins, D. L. K., Hong, H., Cadieu, C. F., Solomon, E. A., Seibert, D., & DiCarlo, J. J. (2014). Performance-optimized hierarchical models predict neural responses in higher visual cortex. Proceedings of the National Academy of Sciences of the United States of America, 111(23), 8619-8624. doi:10.1073/pnas.1403112111\
+Yang, Y. J. D., Allen, T., Abdullahi, S. M., Pelphrey, K. A., Volkmar, F. R., & Chapman, S. B. (2017). Brain responses to biological motion predict treatment outcome in young adults with autism receiving Virtual Reality Social Cognition Training: Preliminary findings. Behaviour Research and Therapy, 93, 55-66. doi:10.1016/j.brat.2017.03.014\
+Ye, Z., & Zhou, X. L. (2008). Involvement of cognitive control in sentence comprehension: Evidence from ERPs. Brain Research, 1203, 103-115. doi:10.1016/j.brainres.2008.01.090\
+Yeo, B. T. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M., . . . Buckner, R. L. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of Neurophysiology, 106(3), 1125-1165. doi:10.1152/jn.00338.2011\
+Yue, Q., Zhang, L., Xu, G., Shu, H., & Li, P. (2013). TASK-MODULATED ACTIVATION AND FUNCTIONAL CONNECTIVITY OF THE TEMPORAL AND FRONTAL AREAS DURING SPEECH COMPREHENSION. Neuroscience, 237, 87-95. doi:10.1016/j.neuroscience.20:12.12.067\
+Zakarias, L., Keresztes, A., Marton, K., & Wartenburger, I. (2016). Positive effects of a computerised working memory and executive function training on sentence comprehension in aphasia. Neuropsychol Rehabil, 1-18. doi:10.1080/09602011.2016.1159579\
+Zhu, D., Chang, J. L., Freeman, S., Tan, Z. J., Xiao, J., Gao, Y., & Kong, J. (2014). Changes of functional connectivity in the left frontoparietal network following aphasic stroke. Frontiers in Behavioral Neuroscience, 8. doi:10.3389/fnbeh.2014.00167\
+Ziegler, J., Snedeker, J., & Wittenberg, E. (under review). Thematic roles contribute to structural priming:\
+Evidence from idioms and light verbs. \
+Zipf, G. (1936). The Psychobiology of Language. In. London: Routledge.\
+Zipf, G. K. (1949). Human behavior and the principle of least effort. Cambridge, Mass: Addison-Wesley.\
+}

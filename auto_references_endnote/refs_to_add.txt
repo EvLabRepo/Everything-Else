@@ -1,0 +1,9 @@
+Bates et al. 2014
+
+Bates, D., Maechler, M., Bolker, B., Walker, S., lme, Linear, mixedeffects, models, using, Eigen, and, S. (2014). R package version 1. -6.
+
+Pitcher et al. 2011
+
+Pitcher, D., Charles, L., Devlin, J., T., Walsh, V., Duchaine, B., . (2011). Triple dissociation of faces, bodies, and objects in extrastriate cortex. Curr Biol 19, 319-324
+101016/jcub200901007  [PubMed] [Cross Ref]Pitcher D, Dilks D D, Saxe R R, Triantafyllou C, Kanwisher N .56:235-2363
+

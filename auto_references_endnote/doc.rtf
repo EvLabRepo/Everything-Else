@@ -1,0 +1,473 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\ftech\fcharset77 Symbol;
+\f3\fmodern\fcharset0 CourierNewPSMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red255\green0\blue0;\red51\green51\blue51;
+}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c100000;\csgenericrgb\c100000\c0\c0;\csgenericrgb\c20000\c20000\c20000;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid202\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b\fs20 \cf0 1. BACKGROUND AND MOTIVATION.\
+\pard\pardeftab720\ri0\sb80\sa80\qj\partightenfactor0
+
+\b0 \cf0 What is the functional architecture of human language? A core component is a set of knowledge representations, which include knowledge of the sounds, the words and their meanings, and the probabilistic constraints on how sounds can combine to create words and how words can combine to create sentences. During comprehension \'96 after the initial perceptual processing carried out by the speech (in listening) or visual (in reading or perceiving sign language) cortices \'96 we look for matches between the incoming linguistic signal and these stored knowledge representations, which includes recognizing the individual words and inferring the syntactic and semantic dependencies among them to construct a complex meaning. And during production, once we have formulated a thought, we search our liguistic knowledge store for the right words/constructions and arrange them in a particular way to express some target idea, before sending the utterance down to the motor cortices (articulation brain regions in speaking, or hand motor regions in writing/typing or producing sign language).
+\f1 \
+\pard\pardeftab720\ri0\sa80\qj\partightenfactor0
+
+\f0 \cf0 The high-level language regions span extensive parts of frontal, temporal, and parietal lobes (e.g., Binder et al., 1997; Fedorenko et al, 2010) and are dominant in the left hemisphere in most individuals. These regions are highly selective for language over many non-linguistic cognitive functions, including arithmetic processing, executive functions, music perception, and action understanding (e.g., Fedorenko et al., 2011; Monti et al., 2012; Pritchett et al., subm.; see Fedorenko & Varley, 2016, for a review). However, 
+\i\b the internal architecture of this network remains highly debated
+\i0\b0 . In particular, is there is a meaningful way to divide this network up into component parts? And if so, how is linguistic labor shared across those parts in space and time?\
+Current proposals of the neural architecture of language differ both in a) the divisions that they postulate within the language network, and b) the cognitive interpretation they assign to the component regions (e.g., Hickok & Poeppel, 2007; Price, 2010; Friederici, 2011, 2012; Baggio and Hagoort, 2011; Lerner et al., 2011; Tyler et al., 2011; Hagoort, 2013; Duffau et al., 2014; Huth et al., 2016; Ullman, 2016; 
+\b Fig. 1
+\b0 ). Clearly, it cannot be the case that all of these proposals are right. Indeed, the available evidence poses challenges to some aspects of each of these proposed architectures.\
+For example, most proposals assume organization in terms of size of the relevant units (i.e., sounds, words, sentences, connected texts) and/or types of computations (e.g., lexical access vs. syntactic structure building vs. semantic composition), and postulate
+\f1 ,
+\f0  in some form
+\f1 ,
+\f0  a distinction between lexico-semantic processing (knowledge and access of word meanings) and syntactic/combinatorial processing (knowledge of constraints on combining words into phrases and sentences, and inferring or constructing inter-word dependencies during comprehension and production, respectively). The claim is that that some brain regions within the language network selectively, or at least preferentially, support lexico-semantic processing, and other brain regions selectively support syntactic, or more general combinatorial, processing (e.g., Dapretto & Bookheimer, 1999; Embick et al., 2000; Friederici et al., 2000; Noppeney & Price, 2004; Cooke et al., 2006). However, the precise regions that are argued to support lexico-semantic vs. syntactic processing, and the construal of these regions\'92 contributions, differ across proposals. Furthermore, much of the evidence for this distinction suffers from limitations. Many prior studies have relied on observing an effect (e.g., sensitivity to lexico-semantic processing) in brain region x, and not brain region y, to argue that the former but not the latter region supports the relevant mental process. Such reasoning has been used to argue that syntactic processing is localized to one particular region within the language network (see Blank et al., 2016, for discussion). Similarly, to argue that some brain region is sensitive to one manipulation (e.g., a lexico-semantic one) but not another manipulation (e.g., a syntactic one), prior studies have relied on observing a reliable effect for the former but not the latter. However, inferences of this kind are not valid (e.g., Nieuwenhuis et al., 2011). To argue that e.g., one region and not another is sensitive to some manipulation, a region by condition interaction is required, and such tests are rarely reported. In line with these issues with the available evidence, a number of neuroimaging and patient studies have failed to observe a dissociation between lexico-semantic and syntactic processing (e.g., Dick et al., 2001; Keller et al., 2001; Roder et al., 2002; Fedorenko et al., 2010; Bautista & Wilson, 2016; Blank et al., 2016).
+\f1 \
+
+\f0 A very different recent proposal (Huth et al., 2016) instead argues for organization in terms of different kinds of meaning, implicitly assuming that the linguistic computations are similar across the different regions. However, this architecture has not been rigorously evaluated beyond the initial study that served as the basis for this proposal. Furthemore, it is not clear how selective these different regions are for their preferred meanings: do these specializations take the form of subtle biases, or are some of these regions only active when they process/access words that have certain semantic features (much like some visual cortical regions show strong selectivity for, say, faces vs. scenes).
+\f1 \
+
+\f0 Thus, no consensus has yet emerged about how to divide up the fronto-temporal language network into component parts, or about what linguistic representations and/or processes are supported by each of the regions. Yet, understanding the internal architecture of the language system is critical to deciphering how this system gives rise to our comprehension and production abilities. Here, building on cutting-edge behavioral psycholinguistic research and capitalizing on advances in natural language processing, we take a 
+\i\b comprehensive data-driven approach
+\i0\b0 , consisting of an innovative combination of univariate analyses, as well as simple multivariate classification, representational similarity analysis (RSA: Kriegeskorte et al., 2008), and hypothesis-free voxel decomposition (Norman-Haignere et al., 2015), supplemented with a hypothesis-driven component to ensure the interpretability of the resulting data patterns, to discover the 
+\i\b fundamental organizing principles of the human language network
+\f1\i0\b0 .\
+
+\f0 The proposed work is highly innovative, both conceptually and methodologically. Conceptually, we go beyond past proposals in considering a broad hypothesis space consisting of diverse lexical, syntactic, and semantic/conceptual factors, and allowing for both focal and distributed representations of these different kinds of information/processes. Methodologically, we innovate in three ways. 
+\i First
+\i0 , we use naturalistic sentences extracted from large language corpora, which will be coded for a wide range of features using the latest tools from computational linguistics. 
+\i Second
+\i0 , we develop a new experimental paradigm \'96 based on videos of individuals uttering the target sentences \'96 for robustly estimating neural responses to individual sentences, as needed for simultaneously examining different properties of each stimulus. And 
+\i third
+\i0 , we use a powerful combination of uni- and several multivariate analytic approaches to richly sample the possibilities for how different linguistic features are represented in the language cortex. Further, we will identify language-responsive cortex in each individual separately using a functional localizer task (Fedorenko et al., 2010) to a) ensure that we are examining the same functional areas across people while taking into account known variability in the precise locations of language regions (e.g., Amunts et al., 1999; Juch et al., 2005; Fischl et al., 2008; Frost & Goebel, 2011), and b) substantially increase power (Nieto-Casta\'f1on & Fedorenko, 2012).
+\f1 \
+\pard\pardeftab720\ri0\sa200\qj\partightenfactor0
+
+\f0 \cf0 In addition to these innovative aspects of the proposed work, we adhere to current standards of 
+\i\b robust and replicable science
+\i0\b0 , including a) explicitly building in conceptual replications of three prior results from fMRI studies of language, b) numerous reality checks for non-linguistic manipulations based on the visual components of the videos, and c) openly sharing all the materials, analytic tools, and data created in the course of this project.
+\f1 \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b \cf0 2. PROPOSED RESEARCH
+\f1 \
+\pard\tx720\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b0 \cf0 The principle activities during the award period will include creating a novel, open-source set of naturalistic sentence stimuli selected so as to evaluate the central hypotheses (Aim 1), acquiring densely sampled fMRI data from adult participants (Aim 2), and conducting multivariate analyses of the resulting data (Aim 3). In all these activities, we will adhere to the high standards necessary to produce robust and reliable scientific evidence, in line with the National Science Foundation\'92s and the broader scientific community\'92s increasing emphasis on replicable science (DCL 
+\b 18-053 
+\b0 and
+\b  16-137
+\b0 ;
+\b  
+\b0 see
+\b  
+\b0 e.g., Button et al., 2013; Ioannidis, 2014; Ioannidis et al., 2014; Poldrack et al., 2017). We highlight these practices here and throughout the proposal, including:\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\b \cf0 Aim 1:
+\b0  An openly shared, extensively annotated video corpus of 2,520 sentence stimuli (420 unique sentences x 6 distinct tokens per sentence) that provides broad coverage of the variability in human language including word-level, syntactic, and semantic features.\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\b \cf0 Aim 2:
+\b0  A unique fMRI dataset which is openly shared, de-identified, and reusable for many kinds of analyses beyond those proposed in the current project, and which includes internal replications of three well-known linguistic manipulations.\
+
+\b Aim 3:
+\b0  A series of analyses (with all the scripts openly shared) aimed at testing the relationship between the hypothesis spaces created in Aim 1 and the fMRI data collected in Aim 2, that will provide novel insights into the neural architecture of language processing, and plausibly inspire novel hypotheses and/or analytic approaches that take advantage of the advances in psycholinguistics, natural language processing, artificial intelligence, and cognitieve neuroscience.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+\cf0 Further, as outlined in Section 1, functionally localizing the language network in individual participants enables straightforward comparisons of results 
+\i across studies and labs
+\i0  given that comparisons across the same functional regions are vastly more interpretable than comparisons that assume voxel-wise correspondence across individuals and rely on coarse anatomy to draw parallels between findings from different studies. In addition, our internal replications can be analyzed with standard univariate group analyses, providing a chance to verify and explore the robustness of these effects under different processing and modeling assumptions.
+\f1 \cf2 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b \cf0 \ul \ulc0 2.1 Aim 1 - Wide-coverage stimulus set creation
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b0 \cf0 \ulnone The vast majority of fMRI studies of language cognition have relied on condition contrasts (i.e., blocked or event-related designs that categorize stimuli into a small number of types) designed to reveal mean activation differences believed from theoretical linguistic and experimental psycholinguistic work to be central to how human language operates (e.g., Dapretto & Bookheimer, 1999; Embick et al., 2000; Friederici et al., 2000; Noppeney & Price, 2004; Cooke et al., 2006; Fedorenko et al., 2010; Blank et al., 2016, among hundreds of others). These studies use precisely constructed stimuli (words or sentences) and tasks that differ from one another in terms of the critical variable(s) of interest but are otherwise carefully matched across conditions for linguistic and other (e.g., perceptual, executive, etc.) properties.\
+One critical limitation of this traditional approach is the so-called \'93streetlight effect\'94 or \'93lamppost problem\'94 \'96 after losing your keys in the dark, you are more likely to direct your search toward the illuminated areas of the street, and thus miss many other areas, including those where the keys are likely to be. An extensive history of linguistic theorizing, combined with decades of psycholinguistic evidence, has resulted in a number of theoretical proposals about language representations and processing. These theories guide us toward the testing of 
+\i specific hypotheses
+\i0  about linguistic contrasts, often with strong expectations of finding parallels between proposed divisions of labor in the linguistic system and organization of language-related cortex in the brain. However, these proposals are variable and the language cortex is extensive. Thus detecting reliable activation peaks for a particular contrast somewhere within the language system does not necessarily mean that the underlying dimension is a core organizing principle of the language network, especially for small effect sizes. This problem is compounded by the high rate of false positives in fMRI (e.g., Eklund et al., 2016).\
+Another important limitation is that the contrasts investigated in most prior studies are relatively coarse (e.g., high vs. low frequency words, nouns vs. verbs, longer vs. shorter syntactic dependencies, sentences with vs. without local ambiguities, etc.). Moreover, for many linguistic distinctions, one would not necessarily expect a difference in the mean level of response at the region level. Instead, some distinctions may be encoded in a distributed fashion across the network. Multivariate approaches (e.g., Haxby et al., 2001; Norman et al., 2006) that examine between-condition differences in the fine-grained patterns of neural activity have become increasingly popular in cognitive neuroscience research to address the latter limitation, including in the domain of language (e.g., Allen et al., 2012; Fedorenko et al., 2012; Correia et al., 2014). But most contrasts examined are still quite broad, and any given study examines a small number of contrasts.
+\f1 \
+
+\f0 A more recent alternative involves participants listening to or reading relatively naturalistic materials (passages or stories). These materials can be coded for a variety of linguistic properties, and brain activation can be modeled as a function of different underlying phenomena (e.g., Wehbe et al., 2014; Henderson et al., 2016; Willems et al., 2016). This approach is \'93task free\'94, the only explicit task being comprehension of the naturalistic materials \'96 one of the two main computational goals that language-processing mechanisms are designed to achieve (the other being production); the cognitive demands placed by such naturalistic processing are critically different from those imposed by condition contrasts, which are often somewhat unnatural (e.g., sentence-picture matching, semantic similarity judgments between words or sentences, Gibberish processing, etc.) and can turn language processing into \'93problem solving\'94 akin to tests of fluid intelligence. Indeed, the division of labor across brain regions and networks revealed by the naturalistic approach can substantially differ from that suggested by condition contrasts (e.g., Wehbe et al., 2014; Blank & Fedorenko, 2017). Nonetheless, many phenomena that have been of high interest to linguists and psycholinguists rarely occur in natural language (e.g., long-distance dependencies, ambiguities, low-frequency constructions) and, therefore, cannot be tested without carefully designed materials. In addition, because many features of language are correlated in natural speech (e.g., infrequent words tend to be long; Zipf, 1936; Piantadosi et al., 2011; non-local dependencies often occur in infrequent constructions; Futrell et al., 2017), such studies may be unable to disentangle the contributions of distinct factors that have been argued to operate separately.
+\f1 \
+
+\f0 Thus, ideally, we want to be able to i) examine many linguistic dimensions \'96 including fine-grained ones \'96 simultaneously, without averaging across diverse items within each broad category (condition), and ii) disentangle factors that are naturally conflated in language. One way to satisfy the \ul first desideratum\ulnone  would be to examine neural responses to diverse sentences that vary along many dimensions of potential interest. However, because fMRI data are noisy, multiple repetitions per sentence would be needed to obtain reliable estimates, leading to at least two challenges. First, it is difficult to stay engaged in a long experiment, especially when stimuli repeat. (In traditional experiments, each experimental condition consists of multiple, distinct stimuli each presented once (or a small number of times), providing enough surface variation in content and/or form to maintain the participants\'92 focus and interest while still allowing for robust estimation of the response to each condition by averaging across stimuli.) And second, even if participants manage to stay engaged, the neural response decreases for repeat sentences due to practice/adaptation (e.g., Noppeney & Price, 2004; Devauchelle et al., 2009: Santi et al., 2010; Menenti et al., 2011). Inspired by neuroscience research in the domain of vision, we propose a solution in the form of 
+\i\b a novel experimental paradigm
+\i0\b0  where participants watch videos of different participants against different visual backgrounds speaking the target sentences (cf. faces or objects presented under different lighting conditions, from different viewpoints, etc. in visual research studies; e.g., 
+\b \cf3 ***REF
+\b0 \cf0 ). Thus, each sentence can be presented multiple times without inducing boredom and inattention. And even though the linguistic content is repeated, ample evidence from psycholinguistics suggests that comprehenders are exquisitely sensitive to various speaker-specific properties (e.g., Dahan et al., 2008; Creel & Tumlin, 2011; Kamide, 2012; Ryskin et al., 2016), and thus we can expect them to process the same content in a deep way if it\'92s coming from a different individual. Further, to satisfy the \ul second desideratum\ulnone , we will use a 
+\i\b novel sampling procedure 
+\b0 applied to
+\b  large language corpora
+\i0\b0 , as described next
+\f1 .\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.1.1 Sentence selection\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+\ls1\ilvl0
+\f2\i0\b0 \cf0 \'a5	
+\f0\b The critical set of diverse sentences (n=420 unique CRITICAL sentences)
+\f1 \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b0 \cf0 Sentences for the critical component of the stimulus set (420 of the 500 total unique sentences) will be drawn from a collection of natural spoken and written language corpora. This approach will allow us to capture both the complex structure and meaning of multi-clausal utterances which are critical under many theories and are more common in written texts, as well as sentence fragments, disfluencies, and other features of natural speech which. although common
+\f1 ,
+\f0  are not well represented in written corpora. Corpora to be sampled will include the Corpus of Contemporary American English (https://corpus.byu.edu/COCA/), Switchboard Corpus (Godfrey & Holliman, 1993; https://catalog.ldc.upenn.edu/ldc97s62), American National Corpus (http://www.anc.org), and the Google N-gram corpus (http://storage.googleapis.com/books/ngrams/books/datasetsv2.html). For tractability of our sampling, we will begin by sampling approximately 2,500 utterances/sentences from each corpus (10,000 sentences in total across the four corpora), aiming to use established subsets for greater cross-comparison with other projects and selecting portions which have been hand-annotated (rather than automatically tagged) when possible
+\f1 .\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0 \cf0 \ul \ulc0 General sampling procedure\ulnone : From the set of 10,000 sentences, we will choose the final set of 420 critical sentences subject to two constraints: first, the set shows 
+\i substantial variability
+\i0  with respect to each of a large set of linguistic features; and second, different subsets of these features are 
+\i minimally correlated
+\i0  with one another across the set. In particular, we aim to provide broad coverage of, and minimum co-variance across, five \'93classes\'94 of linguistic features (described below): (i) lexical features of the content words in each sentence, based on word form, corpus statistics, and behavioral norms; (ii) semantic/conceptual dimensions of the content words in each sentence, based on machine learning approaches to linguistic meaning; (iii) semantic/conceptual dimensions of each sentence as a whole, also based on machine learning approaches; (iv) syntactic features of each sentence; and (v) syntactic relationships between different sentences.\
+To satisfy the two constraints above, the 10,000 sentences will be annotated with respect to all five classes of features (the annotations are either publicly available or can be derived from off-the-shelf databases and algorithms). For each feature class, we will then use the annotations to compute all pairwise similarities between the sentences (see below), thus generating a 10,000 \'d7 10,000 similarity matrix per class. Each of these five similarity matrices will in turn be submitted to spectral clustering (von Luxburg, 2007; for a recent application, see Pereira et al., 2018). in order to divide the 10,000 sentences into 
+\i K
+\i0  = 168 clusters (see below for how this number is determined; note also that our recent experience with similar datasets indicates that the exact number of clusters does not strongly influence the resulting cluster structure such that, generally, small clusters obtained with a high 
+\i K
+\i0  are each embedded in the larger clusters obtained with a lower 
+\i K
+\i0 ). The five resulting clustering solutions (one per feature class) will then be used to select the final set of 420 sentences via the following iterative procedure:\
+1. For each of the five clustering solutions, choose half of the 168 clusters and sample one sentence per cluster at random, yielding in total (168\'f72) \'d7 5 = 420 sentences. This step guarantees substantial variability with respect to each feature class.\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+\cf0 2. Extract the similarities among the 420 sentences from each of the five similarity matrices. For each pair of matrices representing two feature classes, compute Spearman 
+\i r 
+\i0 coefficient (\'93inter-class\'94 correlation).\
+3. Repeat steps (1)-(2) 10,000 times and, for each pair of feature classes, store the minimum inter-class correlation across all repetitions.\
+4. Continue repeating steps (1)-(2) until a subset of 420 sentences is obtained for which all inter-class correlations are lower than the corresponding minimum values from step (3). This step guarantees relatively low correlations across feature classes.
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0 \cf0 This approach, inspired by Bruss (2000), has been successfully implemented for similar purposes in the field of visual scene processing (Groen et al., 2018). Below we describe the five feature classes we plan to examine. This set is meant to be broad in scope and reflect current theorizing and available evidence of linguistic features shown to affect processing. However, we realize that this set is not exhaustive. One important outcome of this project will be the possibility of additional coding of the critical sentences for some new property of interest and testing its effects in the neural data, to be made publicly available.
+\f1 \
+\pard\tx360\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\i \cf0 	
+\f0 (1) Lexical features of the content words in a sentence\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0 \cf0 Content words (nouns, verbs, adjectives, and adverbs) will be identified via automatic syntactic parsing (described below); we focus on content words here because variance for the dimensions of interest is low for function words. For each content word in each sentence, we will extract 10 measures: word length, unigram log lexical frequency, age of acquisition, prevalence (i.e., how many people know a word), concreteness, imageability, valence, arousal, lexical ambiguity (number of senses), and lexical surprisal (estimated from trigrams; Piantadosi et al., 2011). These measures will be obtained using state-of-the-art resources (e.g., Brysbaert et al., 2012; Kuperman et al., 2012; Warriner et al., 2013; Keuleers et al., 2015). Then, for each of the 10 features, we will compute its average value across content words within a sentence (thus producing a single value for each feature, independent of sentence length or syntactic complexity). This procedure effectively embeds sentences in a 10-dimensional space. Pairwise (dis)similarities between sentences will be then computed based on Euclidean distances in this space.\
+\pard\tx360\pardeftab720\ri0\qj\partightenfactor0
+
+\f1\i \cf0 	
+\f0 (2) Semantic/conceptual dimensions of the content words in a sentence\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0 \cf0 Here, we will use a state-of-the-art distributional semantic model (see e.g., Baroni, 2013; Lenci, 2018 for reviews), namely, an unsupervised embedding of single words in a multidimensional space based on the words\'92 co-occurrence frequencies in a large corpus (Pennington et al., 2014). To derive a representation of each sentence, we will average the semantic vectors of its content words (e.g., Mitchell & Lapata, 2010; see Pereira et al., 2018, for a recent application in fMRI). Pairwise (dis)similarities between sentences will then be computed based on cosine distances (Baroni et al., 2014; Pereira et al., 2016).\
+\pard\tx360\pardeftab720\ri0\qj\partightenfactor0
+
+\f1\i \cf0 	
+\f0 (3) Semantic/conceptual dimensions of the entire sentence\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0 \cf0 Here, we will use a more sophisticated cutting-edge distributional semantic model that directly represents the content of the sentence in a multi-dimensional space (skip-thought, Kiros et al., 2015; or an alternative state-of-the-art model should one become publicly available). Pairwise (dis)similarities between sentences will then be computed based on cosine distances, as above.
+\f1 \
+\pard\tx360\pardeftab720\ri0\qj\partightenfactor0
+
+\i \cf0 	
+\f0 (4) Syntactic features\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0 \cf0 Here, we will include five sentence-level features. Three features are simple: sentence length (number of words), number of clauses, and proportion of content words. The other two features target syntactic complexity based on two dominant classes of theories: memory-based theories (e.g., Gibson, 1998, 2000; Lewis et al., 2006) and surprisal-based theories (e.g., Hale, 2001; Levy, 2008; see e.g., Demberg & Keller, 2008; Levy et al., 2013, for discussions). According to the former, long-distance dependencies cause processing difficulty because of the greater memory demands associated with retrieving the earlier encountered dependent. According to the latter, sentence structures are costly if they have not been encountered frequently in prior experience. Therefore, the two syntactic complexity measures will be the average (i) syntactic dependency length for all dependencies in the sentence, and (ii) syntactic surprisal for all words in the sentence. Together, this coding effectively embeds sentences in a 5-dimensional space. Pairwise (dis)similarities between sentences will be then computed based on Euclidean distances.\
+\pard\tx360\pardeftab720\ri0\qj\partightenfactor0
+
+\f1\i \cf0 	
+\f0 (5) Syntactic relationships between different sentences\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0 \cf0 Because of the great diversity of possible syntactic structures (especially in spoken corpora), our final feature will not characterize individual sentences by categorizing them into one of many tree types but, rather, measure the 
+\i pairwise distances
+\i0  between any two given (part-of-speech, POS, level) parses. When available, a gold standard parse will be used; otherwise, we wil rely on automatic parsing tools (e.g., Klein & Manning, 2003; Chen & Manning, 2014), supplemented with hand-checking for the final set of materials to ensure accuracy. Given these parses, pairwise (dis)similarities between any two trees will be defined based on their tree-edit distance (e.g., Lin et al., 2010; Pawlik & Augsten, 2011)
+\f1 .\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+\ls2\ilvl0
+\f2 \cf0 \'a5	
+\f0\b The control sets of matched sentences (n=288 unique CONTROL MANIPULATION sentences) and \'91catch trials\'92 (n=32 unique CATCH sentences)\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\b0 \cf0 Because the stimuli, experimental paradigm, and analytic procedures in the critical component of the study differ substantially from many standard approaches in cognitive neuroscience of language, it is critical to ensure that we can replicate \'96 in the same participants \'96 some basic linguistic contrasts using the types of closely controlled materials used in prior studies and argued to pinpoint the separate contributions of word-level, lexico-semantic, and syntactic factors. As discussed above, for our critical set of 420 sentences, we aim to choose maximally varying stimuli. This process is likely to yield a stimulus set which provides robust variability for the kinds of contrasts that have long been of interest to language researchers
+\f1 .
+\f0  However, this stumulus set is unlikely to provide the kind of closely matched stimuli that allow for a straightforward, hypothesis-driven comparison of cortical activation related to a single type of linguistic structure or process. Thus, the remaining stimuli will be used to provide these more targeted contrasts, and a small number of \'91catch\'92 trials to ensure that participants are awake and attentive throughout the experiment.\
+In particular, we will include three control manipulations, each of which has been used in numerous prior behavioral and fMRI studies of language: word frequency (e.g., Graves et al., 2008; Schuster et al., 2016), semantic expectedess (e.g., Kuperberg et al., 2003), and syntactic complexity (e.g., Ben Shahar et al., 2004). The stimuli will be adapted from previous behavioral or neuroimaging studies
+\f1 .
+\f0  These manipulations (which can be thought of as three sub-experiments) will thus provide a built-in replication of previously established effects, to ensure that our experimental setup results in participants processing language in ways similar to previous research. For each of the three sets, two versions of each sentence will be created, and any given participant will be exposed to one version of each sentence, following standard practices from sentence-level research. For the word frequency manipulation, each item will consist of two sentences which have the same syntactic structure and overall meaning, but either use high- or low-frequency content word synonyms. For the semantic expectedness manipulation, each item will consist of two sentences which differ in one (sentence-final) word, which is either expected or unexpected given the preceding context (the critical words will be matched for frequency and other lexical properties). Finally, for the syntactic complexity manipulation, each item will consist of two sentences which use identical words but differ in their ordering resulting in a less complex structure (one with a subject-extracted relative clause) or a more complex structure (with an object-extracted relative clause)
+\f1 .
+\f0  Based on prior work, sentences with low-frequency words, with semantically-unexpected endings, and with more complex (object-extracted) structures are expected to elicit stronger neural responses within the language network. For each of the three sub-experiments, we will create 96 items (with two versions each), for a total of 576 (96 x 2 conditions x 3 experiments) sentences. Each participant will see one version of each item for a total of 288 trials. These will be spread across the six scanning sessions (see more info below; 48 trials per session, with 16 trials \'96 8 per condition \'96 per experiment), for a total of 48 trials per condition across the six sessions.
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0 \cf0 Finally, 32 \'91catch\'92 trials will be recorded. These will be used to ensure that participants remain alert and attentive throughout the scanning session. The sentences in these trials will vary in the words and structures they use, but will all require a button-press response (e.g., \'93
+\i Are you still paying attention? Press 1 if so.
+\i0 \'94 or \'93
+\i If you are listening right now, select any button you like
+\f1 .
+\f0\i0 \'94 or \'93
+\i I would like you to press button 2 at this time.
+\i0 \'94) Participants will be required to monitor the meanings of the sentences to answer correctly. These will be distributed throughout each scanning session so that participants are required to give a response every 15 trials on average.
+\f1 \
+
+\f0 Thus, \ul across the six scanning sessions\ulnone , participants will see 420 CRITICAL stimuli (each repeated 6 times in unique videos, one per session), 288 CONTROL MANIPULATION stimuli (each repeated once), and 32 CATCH stimuli (each repeated 6 times in unique videos, one repetition per session) (Fig. 2).
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.1.2 Video creation\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\i0\b0 \cf0 Once all the sentence stimuli have been selected/created, we will film different native English speakers producing them (in isolation) to create several unique versions of each stimulus (see Fig. 2 for the number of repetitions required for each type of stimulus). Video clips of the same sentence produced by different speakers will naturally differ from one another in many respects, both visual and auditory (e.g., speaker appearance and identity, voice, pronunciation/dialect, speech rate, intonational contour), but they all share the same core phonological, lexical, syntactic, and semantic information (i.e., features targeted by most fMRI studies of language comprehension). Compared to multiple repetitions of the same sentence in either written or auditory form, we believe that these video-based materials will allow us to more accurately and robustly estimate neural responses to individual sentences. In particular, i) adaptation effects across sentence repetitions are likely to be weaker, ii) processing is more naturalistic and less fatiguing, iii) multimodal stimulation is richer and more interesting, and iv) direct gaze of a filmed speaker is highly engaging. Further, we recently examined responses to language presented in video clips and found much stronger responses than those elicited by the presentation of the same audio signal without the video (Jouravlev et al., subm.). And averaing out the surface auditory/visual variation across different versions of the same sentence will remove all \'93peripheral\'94 sources of information and preserve only the invariant, core structure and meaning of a sentence.\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+\cf0 12 native English speaking student actors, each of whom will record half of all stimuli, will be filmed producing the sentences in natural prosody against a green screen background. These actors will include a variety of ages, genders, and ethnicities, and will be recorded in a quiet space with microphone amplification to ensure clear audio is recorded. For the control manipulation stimuli described in 2.1.1, the same actor will record both versions of each item
+\f1 .\
+
+\f0 Following filming and editing, the green screen background will be replaced with natural and artificial scenes corresponding to categories that have been previously used to study patterns of activation in cortical areas sensitive to these scene distinctions (e.g
+\f1 .,
+\f0  beaches, city streets, forests, mountains, offices, kitchens; e.g., Peelen et al., 2009\cf4 ). This visual variation will provide an opportunity to replicate prior findings to ensure that our multivariate approaches are successful in a region of cortex with well-understood response profiles.
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b \cf0 \ul \ulc0 2.2 Aim 2 - Data acquisition, modeling, and control analyses
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i \cf0 \ulnone 2.2.1 Participants, materials, and procedure\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0 \cf0 Participants
+\f1\i\b0 .
+\f0  
+\i0 We will sample densely from a small number of participants: 12 neurologically healthy individuals will be tested across 7 fMRI scanning sessions (three of these participants will be further tested for one additional session). We have previously used designs that span multiple scanning sessions (Pereira et al., 2018) and have figured out a way to retain participants by paying a substantial bonus upon the completion of the last session. All participants will be right-handed native speakers, between 18 and 50 years old recruited from the Boston community.\
+
+\b Materials
+\f1 .
+\f0\b0  Each participant will see the critical stimuli, as well as control manipulation stimuli and catch trials (see 2.1 for details).\
+
+\b General procedure.
+\b0  Each scanning session (1 or 2 hours; Fig. 2) will consist of several ~5 min runs. In Sessions 1-6, we will present the materials from the main experiment, and Session 7 will include localizer tasks that will be used to identify functional regions of interest in each individual participant, as elaborated below. Finally, Session 8 (administered to 3 of the participants) will include a subset of the materials from the main experiment in order to evaluate the evolution of the neural response over multiple repetitions beyond the six repetitions used in all the main analyses. We chose six repetitions for the main analyses based on our recent work (Pereira et al., 2018), where we found that this number was sufficient even with simple reading paradigm, and given the large number of individual sentences we want to examine. Using data from Session 8, we can, however, see if further repetitions result in more robust estimates.\
+\pard\tx360\pardeftab720\ri0\qj\partightenfactor0
+
+\f1 \cf0 	
+\f0 \ul Main experiment (Sessions 1-6)\ulnone : Participants will watch videos of people speaking individual sentences, presented one at a time in an event-related design. Each scanning session will include 500 trials (420 critical sentences, 48 sentences from the control manipulation experiments, and 32 catch trials; Fig. 2). The videos will last 1-6 sec and will be separated by variable amounts of fixation, so that a) any two trials are separated by at least 6 sec of fixation, and b) a trial lasts 12 sec on average. Thus, 500 sentences would take ~100 min to present. Trials will be grouped into twenty 5-min runs (25 trials each), so that each run contains at least one catch trial. Short breaks will be provided between runs as is standardly done in our lab. Trial order will be randomized across sessions and participants.\
+
+\f1 	
+\f0 \ul Localizers (Session 7)\ulnone :
+\i  
+\i0 Each participant will perform a language localizer task, where they will read sentences and nonword lists, presented one word/nonword at a time, in a blocked design (Fedorenko et al., 2010). After each sentence/nonword list, an image of a finger pressing a button will appear, and participants will be asked to press a button when they see this image. The main task is attentive reading; the button-press task is included to help participants stay awake and focused. The 
+\i Sentences>Nonwords
+\i0  contrast targets brain regions sensitive to high-level linguistic processing, and has been shown to robustly activate the language network at the individual-subject level (Fedorenko et al., 2010). We have also previously established that this contrast is robust to changes in materials, modality (reading vs. listening), and task (e.g., Fedorenko et al., 2010; Fedorenko, 2014; Scott et al., 2016). Each run will include 8 blocks per condition (18s each) and 5 fixation blocks (14s each). Each experimental block will consist of 3 6s trials (12 words/nonwords*450ms + 500ms cue + 100ms ISI).\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+\cf0 In addition, each participant will perform a localizer that can be used to identify several well-characterized high-level visual regions, where participants view short movie clips of faces, bodies, scenes, objects, and scrambled objects (Pitcher et al, 2011). These regions can be used in control analyses of the critical materials (e.g., classification of background scene types in scene-responsive cortex; e.g., Peelen et al., 2008; or classification of face identity and other properties in face-responsive areas; e.g., Anzellotti et al., 2014). Finally, for completeness and to enable additional anayses beyond the scope of the current proposal, each participant will perform alocalizer for the fronto-parietal domain-general multiple demand (MD) system (Duncan, 2010, 2013), which has been implicated in some aspects of language comprehension (e.g., see Fedorenko, 2014, for a review) and has been used as a control network of interest in some recent studies of language (e.g., Blank and Fedorenko, 2017; Pereira et al., 2018). A spatial working memory task (Fedorenko et al., 2013) will be used, where participants keep track of more vs. fewer locations. The 
+\i Hard>Easy
+\i0  contrast robustly identifies the MD network. The reverse (
+\i Easy>Hard
+\i0 ) contrast can be used to identify the default mode network (DMN; Buckner et al., 2008), which has been implicated in high-level cognition, including semantic processing (Binder et al., 2009), and thus can serve as another target or control network for some analyses. Each of the localizers takes 12-15 min.\
+\pard\tx360\pardeftab720\ri0\sa80\qj\partightenfactor0
+
+\f1 \cf0 	
+\f0 \ul Evaluating the effects of number of stimulus repetitions (Session 8)\ulnone : Three of the twelve participants will perform an eight scanning session, to evaluate the effects of the number of repetitions on neural response. In particular, we will randomly select 26 of the 420 critical sentences and present each sentence 18 times (NB: for this subset, we will create additional video recordings, with additional actors, so that all the repetitions are unique videos). With the six repetitions across Sessions 1-6, this would give us a total of 24 unique presentations of this subset of 26 sentences. We can thus evaluate how neural responses evolve over these multiple repetitions. Based on prior work in our and other labs (e.g., Pereira et al., 2018), we expect that the response strength and stability (i.e., similarity across repetitions) will increase over the first few repetitions and then drop off with additional repetitions). The large number of repetitions will allow us to provide an
+\i  important methodological contribution
+\i0 : to determine the minimal number of repetitions (in this new paradigm) needed to elicit reliable responses.
+\f1 \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\i\b \cf0 2.2.2 fMRI data acquisition, preprocessing, and modeling
+\f1 \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\i0 \cf0 fMRI data acquisition.
+\b0  Data will be collected on a 3T Siemens Trio scanner with a 32-channel head coil at the Martinos Imaging Center at the McGovern Institute for Brain Research at MIT. A T1-weighted structural image (MPRAGE) will be collected for each participant in each scanning session (to aid in across-session alignment). Functional, blood oxygenation level-dependent (BOLD) data will be acquired using an EPI sequence. (For detailed parameters, see any recent publication from the PI\'92s group
+\f1 .
+\f0 )
+\f1 \
+
+\f0\b fMRI data preprocessing.
+\b0  Preprocessing will be carried out with SPM12 and custom MATLAB scripts. For each participant, we will use the structural scan from the first scanning session as a reference and estimate a rigid registration of the structural scans from other sessions to it. The functional data from the runs in each scanning session will be corrected for slice timing, motion, and bias field inhomogeneity and high-pass filtered (at 100 s cutoff). They will then be registered to the structural scan in their own session, and thence to the reference structural scan (combining the two matrices), and finally resampled into 2 mm isotropic voxels. The reference structural scan will be registered to the MNI template (affine registration+nonlinear warp)
+\f1 .
+\f0  We will create two versions of the data: with no spatial smoothing and with a small amount of spatial smoothing (4mm FWHM Gassian filter, as is standard in our lab). For the functional localizer analyses and the control univariate anlayses, we will use the smoothed data; for all the critical multivarite analyses, unsmoothed data will be used to maximize spatial resolution.\
+
+\b Modeling localizer and built-in replication experiments data.
+\b0  For each localizer or replication experiment, a general linear model (GLM) will estimate the effect size of each condition in each run. These effects will be each modeled with a boxcar function (representing blocks/events) convolved with the canonical HRF. The model will also include first-order temporal derivatives of these effects, as well as nuisance regressors representing entire runs and offline-estimated motion parameters. The obtained beta weights will then be used to compute the functional contrast of interests.\
+
+\b Definition of functional regions of interest (fROIs).
+\b0  The fROIs will be defined based on the individual activation maps from the localizer experiments or reliability of responses to the critical stimuli (see 2.3.2 below) following the Group-constrained Subject-Specific (GSS) approach developed in our group (Fedorenko et al., 2010; Julian et al., 2012; scripts available from Fedorenko lab\'92s website). In particular, for each participant, the selection criterion (response to the lcoalizer contrast or an alternative criterion; 2.3.2) will be intersected with a set of binary masks (\'93parcels\'94) that correspond to areas where activations for that contrast are likely to fall in the population (based on prior studies of the localizer tasks with large numbers of participants). This general approach has now been successfully used in dozens of studies in our group and other labs. We will make publicly available the whole-brain activation maps for all the localizer contrasts as well as the images of the individual fROIs defined in two ways (2.3.2).
+\f1 \
+
+\f0\b Modeling critical sentence data
+\f1 .
+\f0  
+\b0 The responses to each stimulus will be estimated using a GLM in which each stimulus presentation will be modeled with a boxcar function convolved with the canonical HRF. For each critical sentence, we will then combine the six repetitions using a GLM to produce one brain image per sentence per participant (i.e., 420 whole-brain maps per subject). In addition, we will produce maps for a) repetitions #1, 3 and 5, and b) repetitions #2, 4, and 6, in order to estimate the reliability of neural responses (highly similar patterns across the data halves are expected if we are able to obtain reliable stimulus-related responses). Finally, for the three participants who see additional repetitions of the subset of the sentences in Session 8, we will further create maps that correspond to 6, 12, 18, and 24 repetitions, in order to understand how the stability of our results may depend on the number of times a participant sees a particular sentence (see above).
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.2.3 Control analyses (replication experiments with CONTROL MANIPULATION stimuli)\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 For the subset of stimuli that constitute the planned replications (low > high word frequency, semantically unexpected > expected, object-extractions > subject-extractions), we will conduct two analyses: i) an analysis of the responses in individually-defined language fROIs, and ii) a traditional random-effects group analysis. For the former, we will extract the responses to the critical contrasts from the language fROIs defined as described above and average the responses across the voxels in each fROI, followed by a linear mixed-effect model with condition as a fixed effect and participants and regions as random effects (see e.g., Blank et al., 2016). For the latter, we will perform a 
+\i t
+\i0 -test across participants in each voxel, applying a cluster-level correction for multiple comparisons across voxels, following standard practice in the field (Lindquist & Mejia, 2015). We expect to find reliable effects for the critical contrasts in at least some of the language fROIs, and we expect to observe one or more group-level activation clusters within the language network in the group analysis. The goal of these analyses is two-fold: i) to replicate some effects previously reported in the literature (e.g., Graves et al., 2008; Kuperberg et al., 2003; Ben Shahar et al., 2004), in line with increasing emphasis on replicability (e.g., Poldrack et al., 2017), and ii) to provide a critical check that the remaining data (i.e., the data for the 420 critical corpus-extracted sentences sampled to broadly span linguistic vairation) are valid: if the expected contrasts replicate, this would suggest that participants are indeed attending to the stimuli and processing them in our novel video-based paradigm in ways comparable to traditional paradigms used in previous studies.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\b \cf0 \ul \ulc0 2.3 Aim 3 \'96 Critical multivariate analyses
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b0 \cf0 \ulnone In Aim 3, we describe a set of analyses that synergistically combines hypothesis-driven and data-driven (hypothesis-free) approaches to yield a detailed functional characterization of the cortical language network. The central hypothesis-driven analysis is a 
+\i representional similarity analysis
+\i0  (RSA; Kriegeskorte et al., 2008), in which we will model the similarity structure of cortical responses to different critical sentences as a function of the annotated linguistic features (see section 2.1.1). The central data-driven analysis will be 
+\i voxelwise decomposition
+\i0  of the fMRI data into a sum of multiple, uncorrelated, underlying response profiles, which will be then interpreted (and validated) via their correlation with different linguistic dimensions (e.g., Norman-Haignere et al., 2015)
+\f1 .
+\b \ul \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i \cf0 \ulnone 2.3.1. Cross-validation of the analyses\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 For all analyses, we will randomly split the critical sentence set into 4 folds, 105 sentences each. These data folds will serve for cross-validation purposes, whereby one fold of the data is held-out, the analyses are performed on the remaining three folds, and the results are then evaluated against the held-out fold (as described below). This process will be repeated 4 times, each time holding out a different fold.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\i\b \cf0 2.3.2. Selection of voxels for analyses
+\f1 \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\i0\b0 \cf0 For all analyses, we will define sets of voxels of interest based on two alternative criteria: i) the top 50% of voxels that show the highest 
+\i t
+\i0 -scores for the localizer contrast in each language parcel (see section 2.2.2); and ii) the top 50% voxels that show the most reliable responses to the critical sentences in each language parcel, where reliability is measured by comparing the responses across even and odd scanning sessions (as in Norman-Haignere et al. 2015). The resulting fROIs (defined based on either criterion) will each be analyzed separately, in order to determine region-specific response profiles and thus potentially uncover inter-regional functional differences. In addition, we will analyze data from all fROIs together, in order to reveal linguistic features that may be processed in a distributed manner throughout the language network. Such distributed processing appears plausible given that different regions in the language network show strong correlations in their activity during naturalistic cognition (e.g., Blank et al., 2014; Chai et al., 2016), and similar responses in task-based studies (e.g., Fedorenko et al., 2011; Fedorenko et al., 2012; Blank et al., 2016; Fedorenko et al., 2016)
+\f1 .\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.3.3. Ruling out mean differences in response magnitude\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 Variation along some linguistic dimensions (those from the lexical and syntactic feature classes, which are scalar in nature) might be associated with differences in response magnitude: for instance, language fROIs might respond more strongly with increases in syntactic complexity (Blank et al., 2016) or number of clauses (Pallier et al., 2011). Such cases obviate the need for multivariate analyses, because the relevant linguistic features reliably modulate responses at the single voxel level. Therefore, prior to the central analyses, we will perform mass-univariate analyses in which the responses of each voxel to the critical sentences will be correlated with each of the linguistic features of interest (see lexical and syntactic features in section 2.1.1). The results will be corrected for multiple comparisons across fROIs and features, and voxels found to correlate with a given linguistic feature will then be cross-validated using held-out sentences. Voxels that survive the cross-validation will be excluded from further analyses. fROIs where a certain linguistic feature modulates more than 33% of the voxels will not be further tested with regard to this feature in the multivariate analyses.
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.3.4. Representational Similarity Analysis (RSA)\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 The overarching goals of the RSA analyses are to determine (i) which of the hypothesis-driven linguistic features annotated in our sentences contributes to the multi-voxel response pattern in different language fROIs; (ii) which (if any) classes of features contribute more strongly than others; and (iii) which (if any) fROIs differ from one another in terms of the linguistic features they encode.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+\cf0 To relate the fMRI data to linguistic features, pairwise (dis)similarities between multi-voxel responses to different sentences will be computed based on Spearman\'92s correlation, converted to ranks, and submitted to a linear mixed-effects regression using the LME4 package in R (Bates et al., 2014). The fixed effects will include one vector of ranked pairwise (dis)similarities for each annotated linguistic feature, as follows: ten vectors for differences in the 10 lexical features, two vectors for distances in the two distributional semantic models, five vectors for differences in the 5 syntactic features, and a vector for tree-edit distances. Random effects will include intercepts and slopes by participant (categorical variable) and by sentence (two categorial variables coding the identities of the sentences in each pair). We note that this regression is, in fact, monotonic rather than linear, because all the (dis)similarities are ranked, allowing for the relationship between linguistic features and neural response to be non-linear (e.g., Nili et al., 2014).\
+The model described above contains many features that might be strongly correlated with one another (e.g., word frequency and age of acquisitionlength, or tree edit distance and average dependency length). Whereas the variance explained by the combination of all features can still be estimated faithfully despite this colinearity, partitioning this variance into unique subsets and assigning them to different features is an underdetermined problem. Therefore, in order quantify the unique contribution of each feature to explaining the similarity structure in the fMRI data, we will perform a series of ANOVAs, each comparing the full model to a different reduced model that omits the fixed effect of one feature (corrected for multiple comparisons across features). In addition, the estimated coefficients from the full model, and from each of the reduced models, will be used to predict held-out fMRI data (only the random effects by sentence will require re-fitting, given that cross-validation folds do not share sentences). Subtracting the percentage of variance explained by a reduced model from the percentage of variance explained by the full model will then produce an effect size for the unique contribution of each feature (for similar approaches, see Groen et al., 2012, 2018; Lescroart et al., 2015; Greene et al., 2016; Hebart et al., 2018).\
+Because colinearity among linguistic features renders the coefficients in the full model unreliable, and because different reduced models cannot be directly compared to one another via an ANOVA (they are not nested), a different approach is required for directly comparing the estimated coefficients of different linguistic features. To this end, we will fit another linear mixed-effect model, similar to the full model described above, but with only five fixed effectsone for each feature class (rather than one per individual feature). As described in section 2.1.1, our set of sentences would be constructed to minimize the correlation between feature classes, so this model will not suffer from colinearity issues. We will therefore use this model to carry out pairwise comparisons between every two feature classes, evaluating which classes significantly differ in terms of their contribution to explaining the fMRI data (e.g., do lexical features explain more variance than syntactic features?).\
+Finally, we will also fit a single linear mixed-effects model to all the ranked (dis)similarities from all fROIs, structured as the full model described above but with additional random intercept and slopes by fROI (note that this analysis is different from computing pairwise dissimilarities by pulling all voxels across fROIs; here, dissimilarities are still computed for each fROI separately, but a single model is fit to all of them). We will then carry out an ANOVA comparing this model to a reduced model without the random effects by fROI. A significant difference between these two models would indicate that some fROIs differ from one another in terms of the linguistic features that they encode. If such a difference is observed, we will identify its source(s) via follow-up pairwise comparisons between every two fROIs.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\i\b \cf0 2.3.5.  Verifying the RSA results \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 In many studies, the correlations between the simialrity structure of fMRI data and some explanatory variable are rather low (<0.2). When such analyses are based on similarities among a large set of stimuli, identifying which stimulus pairs contribute to the correlation is crucial. Specifically, weak but significant correlations might obtain even when some of the weakest similarities in the fMRI data are predicted to be strongest by the explanatory variable (and vice versa). In such cases, the correlation is mostly driven by a subset of pairwise similarities that are not \'93diagnostic\'94 of the explanatory variable. In order to verify that our RSA results reflect our hypothesized linguistic features, any significant association between a feature and a fROI will be subjected to a more direct test. Here, we will choose two subsets of sentences such that sentences within each subset are highly similar to one another, but sentences across subsets are highly dissimilar (e.g., the top 25% of sentences with the highest value for a linguistic feature and the bottom 25% of sentences with the lowest value; or sentences located at opposite ends of a distributional semantic model). The multi-voxel response patterns to these sentences will be submitted to Fisher linear discriminant analysis in order to identify the line that maximizes their separability. Then, two corresponding subsets of sentences from held-out data will be projected onto this line, and a 
+\i t
+\i0 -score will be computed to test whether they are indeed separable, as predicted by the linguistic feature in question (for a similar approach, see Nili et al., 2014).\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\i\b \cf0 2.3.6.  Searchlight analysis \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 The fROIs used in the RSA analyses will be larger than those that our lab typically uses for univariate analyses (where we choose only the top 10% of voxels), because information present in multivariate response patterns tends to cover larger cortical areas compared to areas identified in mass-univariate analyses (e.g., Kriegeskorte et al., 2006; Kriegeskorte & Bandettini, 2007; Fedorenko et al., 2012). Thus, our definition criteria might over-include voxels lying outside of a participant\'92s language network and whose response patterns might reflect noise, thus potentially decreasing the sensitivity of RSA analyses. Therefore, we will additionally implement RSA analyses in a \'93searchlight\'94 manner (Kriegeskorte et al., 2006), searching across the entire cortex for smaller voxel neighborhoods (on the order of XX~20-50 voxels) where the similarity structure of responses to different sentences are is explained by a given feature class. This analysis will also ensure that our fROI definition did not miss any critical regions.
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.3.7. Voxelwise decomposition\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 The overarching goal of voxel decomposition is to recover, in a data-driven and hypothesis-free manner, the dimensions that explain fMRI responses to the critical sentences. To discover these dimensions, we will employ multi-class canonical correlation analysis (m-CCA; Li et al., 2009; Rustandi et al., 2009), which proceeds as follows: first, for each participant, the responses of each voxel to each sentence are extracted for a given fROI (or set of fROIs). Next, for each participant, an algorithm searches for a linear combination of voxelwise response patterns such that these patterns are maximally correlated across participants. The average of these response patterns is defined as an \'93underlying dimension\'94 along which the sentences can be ordered. The algorithm then sequentially finds additional dimensions in the same manner, subject to the constrains that each dimension is uncorrelated with the previous ones. Given a participant-specific matrix that defines the linear combination of voxel response patterns which produces a given dimension, the pseudo-inverse of this matrix assigns each voxel a weight describing how strongly the dimension is reflected in that voxel\'92s response. Therefore, m-CCA is equivalent to modeling the response pattern of each voxel as a weighted linear combination of underlying dimensions.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+\cf0 The number of dimensions to be recovered can be estimated by combining three criteria: First, the linear combination of dimensions should account for sufficient variance in voxelwise response patterns (e.g., at least 80%). The more dimensions are extracted, the more variance is explained. Second, the reconstruction of a voxel\'92s response pattern in even (odd) scanning sessions should correlate highly with the measured (\'93real\'94) response pattern in odd (even) runs. This correlation initially increases with the number of dimensions, but then begins to decrease as additional dimensions account for noise-driven variability in the signal (which does not replicate across sessions). These first two criteria will be evaluated following Norman-Haignere et al. (2015). Third, participant-specific patterns whose average defines a dimension should strongly correlate with one another, i.e., be highly similar (otherwise, they reflect non-reliable variation and their average is hard to interpret). By construction, later dimensions are less similar across participants compared to earlier dimensions. Inter-participant similarity will be evaluated following e.g., Lerner et al (2011).
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\i\b \cf0 2.3.8. Interpreting decomposition results\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\i0\b0 \cf0 The dimensions recovered via voxelwise decomposition are defined by an ordering of sentences. To interpret each dimension in linguistic terms, we will compare it against our annotated linguistic features. For features measured with a scalar value (e.g., word length, average dependency length), we will rank-transform these values and correlate them with the ranked ordering of sentences along a given dimension; for distributional models, we will rank-transform pairwise sentence similarities and correlate them with similarities as defined by ordering along that dimension. Significance tests will be corrected for multiple comparisons across features. If a given dimension is not immediately interpretable in terms of any annotated feature, we will inspect the subsets of sentences positioned at the extreme ends of that dimension, to test whether they correlate with other prominent features in the psycholinguistic literature (e.g., those related to prosody). All resulting linguistic interpretations (based on our hypothesis-driven annotated features and otherwise) will be validated by predicting the locations of held-out sentences along each dimension and correlating these predictions with held-out fMRI data projected onto those dimensions.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\b \cf0 3. PITFALLS AND ALTERNATIVE STRATEGIES
+\f1 .\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b0 \cf0 Because our lab has previously conducted logistically similar, multi-session, fMRI studies (Pereira et al. 2018), we do not anticipate difficulties with recruitment, data acquisition, or the implementation of our standard preprocessing and analysis pipeline. The primary potential challenges thus pertain mainly to Aims 1 (stimulus set construction) and 3 (critical multivariate analyses)
+\f1 .\
+
+\f0 During stimulus selection, we will be using existing annotated corpora to measure particular aspects of natural language utterances, model them either with a numeric summary value (e.g. average word frequency) or vectors in a high-dimensionsal space (e.g. semantic similarity), and then select items to be maximally different from one another. Particularly in the latter case, we may encounter two technical barriers: it may not be computationally tractable to model bank of utterances, which would require us to either down-sample the number of utterances we attempt to model, or adjust how a particular type of linguistic representation is being converted to the vector space (e.g. by forcing a lower number of vector dimensions, or by altering the specifics of how e.g. inter-item similarities are calculated.) In either case, our lab has the computational and linguistic expertise to make these adjustments, and, critically, these changes will not affect the validity of the subsequent activities. Additionally, our critical stimuli are sampled algorithmically rather than by hand (limiting investigator bias), and the types of linguistic representations used are intentionally both broad and (depending on theoretical perspective) overlapping such that in aggregate they will still meet the central goal \'96 creating a bank of stimuli from natural utterances that capture language 
+\i variation
+\i0 , rather than over-sampling common structures or correlations between linguistic features (which would result from a purely random selection of stimuli from natural langauge corpora. Our lab has significant experience standardizing, filming, and editing large stimulus sets like that we will create here, meaning that once stimuli have been selected it will be straightforward to prepare them for presentation.
+\f1 \
+
+\f0 Once the fMRI data has been collected and preprocessed (producing i.e. full-brain maps in the standard space for each participant on each stimulus, in the case of the CRITICAL stimuli, and each condition, in the case of the CONTROLLED CONTRAST, and individual fROIs for each participant on the localizers), we may encounter computational challenges to the data-driven analyses described above. TO ADD BY IDAN OR EV:\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+\ls3\ilvl0\cf0 -	1 or 2 categories of challenges, and the solution: e.g. \
+\pard\pardeftab720\ri0\qj\partightenfactor0
+\ls3\ilvl1
+\f3 \cf0 o	
+\f0 Problem: we turn out not to have enough samples for stable estimates. Response: This won't happen based on previous research. But if it does, we have the 3 participants who will have much more densely sampled, and will be able to tell the field how to fix this important problem\
+\ls3\ilvl1
+\f3 o	
+\f0 Problem: We can't interpret the dimensions we find\
+\ls3\ilvl1
+\f3 o	
+\f0 "Problem": We don't detect any differences between regions in which dimensions seem important. Response: This is a finding, not a problem! If this is what we're reporting, we'll focus on making sure we have really really convincing power analyses and making sure that our positive results are in order (this type of 'null' is more convincing if the CONTROL CONTRAST experiments go as plan.)
+\f1 \
+\pard\pardeftab720\li360\ri0\sl276\slmult1\partightenfactor0
+
+\fs22 \cf0 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b\fs20 \cf0 4. TIMELINE
+\f1 .\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b0 \cf0 The project will take place over three years. In Y1, we will develop the sentence materials and create the video recordings. fMRI data collection will begin toward the end of Y1, with the bulk of it being done in Y2. Preprocessing and analyses will be carried out in Y2 and Y3.\
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\b \cf0 5. INTELLECTUAL MERIT
+\f1 .\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b0 \cf0 The project will yield a rich and detailed understanding of the internal architecture of the language network. First, we develop the first of its kind naturalistic stimulus set that provides broad coverage of lexical, syntactic, and semantic properties. Second, the fMRI data collected from this stimulus set will support multiple state-of-the-art analytic techniques for understanding the organization of the language system, yielding novel insights into how this network simultaneoulsy handles different aspects of the linguistic signal. And third, the data we acquire has significant potential to be reanalyzed for novel questions (i.e., by coding stimuli according to hypothesized dimensions of interest).
+\f1\fs22 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b\fs20 \cf0 6. BROADER IMPACTS
+\f1 .\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\i\b0 \cf0 First
+\i0 , the project will shed critical new light on the cognitive and neural architecture of the language system, bringing us closer to mechanistic-level accounts of how different brain regions contribute to language processing. 
+\i Second
+\i0 , we will develop and validate a novel fMRI paradigm optimized for obtaining reliable individual-sentence-level neural estimates. 
+\i Third
+\i0 , this work will generate a large and unique set of linguistic materials and a (re-usable) fMRI dataset, to be made publicly available, to promote open science and greater replicability of cognitive neuroscience reserach. Finally, the PI is a woman committed to advancement of women and underrepresented minorities in research and education. This project will provide strong interdisciplinary training in cognitive neuroscience to students and postdocs.
+\f1 \
+\pard\pardeftab720\ri0\sb80\qj\partightenfactor0
+
+\f0\b \cf0 7. PRIOR NSF SUPPORT
+\f1 .\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\f0\b0 \cf0 Fedorenko is currently a Co-PI on an NSF EAGER grant (FAIN 1744809)
+\f1 	
+\f0  aimed at understanding the cognitive and neural mechanisms that support computer programming skills in chilren, in an effort to provide science-based evidence for developing appropriate curricula. In particular, we are investigating whether the language system may be engaged, in addition to the domain-general problem-solving system, when kids engage in programming activities.\
+\pard\pardeftab720\ri0\qj\partightenfactor0
+
+\b \cf0 Intellectual merit: 
+\b0 This proposal comes at a time when there is a re-envisioning of STEM in early childhood education as well as a push for integrating coding at all levels of the educational system. Understanding whether engaging in computer programming primarily relies on domain-general problem-solving resources or whether it additionally engages language processing mechanisms, will provide critical insights into the cognitive and neural basis of programming.
+\f1 \
+
+\f0\b Broader Impact: 
+\b0 Research and policy changes over the recent years have brought a newfound focus on STEM for young children. To date, our nation is moving forward with policy decisions lacking the basic data needed to make informed choices regarding how and when to introduce computer science education. The proposed project provides research to understand the neural basis of learning computer science. In turn, research that characterizes the brain basis of engaging in programming activities is critical to better understand the nature of the relevant cognitive mechanisms. This proposal makes contributions to the fields of learning technologies, early childhood education, and computer science education, as well developmental neuroscience and cognitive sciences.
+\f1 \
+}
